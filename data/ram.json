@@ -1,0 +1,1795 @@
+[
+  {
+    "id": "1",
+    "name": "Silicon Power 4GB (4GBX1) DDR3L 1600MHz",
+    "type": "DDR3L",
+    "speed": 1600,
+    "capacity": 4,
+    "modules": 1,
+    "price": 928
+  },
+  {
+    "id": "2",
+    "name": "Patriot Signature Premium 4GB (4GBx1) DDR4 2400MHz",
+    "type": "DDR4",
+    "speed": 2400,
+    "capacity": 4,
+    "modules": 1,
+    "price": 1853
+  },
+  {
+    "id": "3",
+    "name": "Patriot Signature Line 4GB 2666MHz CL19 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 4,
+    "modules": 1,
+    "price": 2403
+  },
+  {
+    "id": "4",
+    "name": "Adata Premier 4GB 2666MHz CL19 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 4,
+    "modules": 1,
+    "price": 3450
+  },
+  {
+    "id": "5",
+    "name": "Adata Premier 4GB 2666MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 4,
+    "modules": 1,
+    "price": 3450
+  },
+  {
+    "id": "6",
+    "name": "Patriot Viper Steel 8GB (8GBX1) DDR4 3600MHz Desktop RAM",
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 8,
+    "modules": 1,
+    "price": 3646
+  },
+  {
+    "id": "7",
+    "name": "EVM 8GB 2666MHz CL19 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4093
+  },
+  {
+    "id": "8",
+    "name": "Adata Premier 8GB 2666MHz CL19 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4880
+  },
+  {
+    "id": "9",
+    "name": "Adata Premier 8GB 2666MHz CL19 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4880
+  },
+  {
+    "id": "10",
+    "name": "EVM 8GB 3200MHz CL19 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4950
+  },
+  {
+    "id": "11",
+    "name": "EVM 8GB 3200MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4950
+  },
+  {
+    "id": "12",
+    "name": "G.Skill Ripjaws 8GB 3200MHz CL22 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4956
+  },
+  {
+    "id": "13",
+    "name": "Crucial 8GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4980
+  },
+  {
+    "id": "14",
+    "name": "Crucial 8GB 3200MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 4980
+  },
+  {
+    "id": "15",
+    "name": "G.Skill Aegis 8GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5000
+  },
+  {
+    "id": "16",
+    "name": "Kingston Fury Beast 8GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5200
+  },
+  {
+    "id": "17",
+    "name": "Corsair Vengeance DDR5 8GB 4800MHz CL40 Laptop Ram",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5288
+  },
+  {
+    "id": "18",
+    "name": "G.Skill Ripjaws V 8GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5335
+  },
+  {
+    "id": "19",
+    "name": "Adata Premier 8GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5360
+  },
+  {
+    "id": "20",
+    "name": "Adata Premier 8GB 3200MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5360
+  },
+  {
+    "id": "21",
+    "name": "Corsair Vengeance LPX 8GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5380
+  },
+  {
+    "id": "22",
+    "name": "Adata XPG Gammix D35 8GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "modules": 1,
+    "price": 5408
+  },
+  {
+    "id": "23",
+    "name": "Crucial 8GB 4800MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "modules": 1,
+    "price": 7993
+  },
+  {
+    "id": "24",
+    "name": "Crucial 8GB 4800MHz CL40 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "modules": 1,
+    "price": 7993
+  },
+  {
+    "id": "25",
+    "name": "Adata 8GB 4800MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "modules": 1,
+    "price": 9140
+  },
+  {
+    "id": "26",
+    "name": "Adata 8GB 4800MHz CL40 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "modules": 1,
+    "price": 9140
+  },
+  {
+    "id": "27",
+    "name": "Patriot Viper RGB White 16GB (8GBX2) 3200MHz DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 2,
+    "price": 9167
+  },
+  {
+    "id": "28",
+    "name": "Thermaltake Toughram RGB White 16GB (8GBx2) 3600MHz CL18 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 16,
+    "modules": 2,
+    "price": 9300
+  },
+  {
+    "id": "29",
+    "name": "EVM 16GB 3200MHz CL19 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9399
+  },
+  {
+    "id": "30",
+    "name": "Crucial 16GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9400
+  },
+  {
+    "id": "31",
+    "name": "Crucial 16GB 3200MHz CL22 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9400
+  },
+  {
+    "id": "32",
+    "name": "G.Skill Aegis 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9480
+  },
+  {
+    "id": "33",
+    "name": "Adata XPG Gammix D30 Red 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9500
+  },
+  {
+    "id": "34",
+    "name": "Crucial Pro 16GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9540
+  },
+  {
+    "id": "35",
+    "name": "Adata 8GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 8,
+    "modules": 1,
+    "price": 9560
+  },
+  {
+    "id": "36",
+    "name": "Adata 8GB 5600MHz CL46 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 8,
+    "modules": 1,
+    "price": 9560
+  },
+  {
+    "id": "37",
+    "name": "G.Skill Ripjaws V 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9590
+  },
+  {
+    "id": "38",
+    "name": "Adata XPG Gammix D35 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9660
+  },
+  {
+    "id": "39",
+    "name": "Adata XPG Gammix D35 White 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9660
+  },
+  {
+    "id": "40",
+    "name": "Adata Premier 16GB 2666MHz CL19 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9800
+  },
+  {
+    "id": "41",
+    "name": "Adata Premier 16GB 2666MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 16,
+    "modules": 1,
+    "price": 9800
+  },
+  {
+    "id": "42",
+    "name": "Adata Premier 16GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 10160
+  },
+  {
+    "id": "43",
+    "name": "Adata Premier 16GB 3200MHz CL22 DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 10160
+  },
+  {
+    "id": "44",
+    "name": "Corsair Vengeance LPX 16GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 11000
+  },
+  {
+    "id": "45",
+    "name": "Corsair Vengeance RGB RS 16GB 3200MHz CL16 DDR4 Ram",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 12100
+  },
+  {
+    "id": "46",
+    "name": "Corsair Vengeance Lpx 16GB 3600MHz CL18 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 12460
+  },
+  {
+    "id": "47",
+    "name": "Thermaltake Toughram XG RGB 16GB (8GBx2) 4600MHz CL19 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 4600,
+    "capacity": 16,
+    "modules": 2,
+    "price": 13500
+  },
+  {
+    "id": "48",
+    "name": "Crucial 16GB 4800MHz CL40 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 16,
+    "modules": 1,
+    "price": 13957
+  },
+  {
+    "id": "49",
+    "name": "Crucial Pro 32GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 14256
+  },
+  {
+    "id": "50",
+    "name": "Adata 16GB 4800MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 16,
+    "modules": 1,
+    "price": 14360
+  },
+  {
+    "id": "51",
+    "name": "Adata 16GB 4800MHz DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 16,
+    "modules": 1,
+    "price": 14360
+  },
+  {
+    "id": "52",
+    "name": "G.Skill Ripjaws S5 16GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 15167
+  },
+  {
+    "id": "53",
+    "name": "Corsair Vengeance 16GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 15296
+  },
+  {
+    "id": "54",
+    "name": "Adata 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 15320
+  },
+  {
+    "id": "55",
+    "name": "Adata 16GB 5600MHz CL46 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 15320
+  },
+  {
+    "id": "56",
+    "name": "Kingston Fury Beast 16GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 15496
+  },
+  {
+    "id": "57",
+    "name": "Crucial 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16429
+  },
+  {
+    "id": "58",
+    "name": "Corsair Vengeance RGB 16GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16480
+  },
+  {
+    "id": "59",
+    "name": "TeamGroup T-Force Vulcan 16GB (16GBx1) DDR5 6000MHz Desktop Ram (Black)",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16480
+  },
+  {
+    "id": "60",
+    "name": "HP X1 16GB 5600MHz CL46 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16583
+  },
+  {
+    "id": "61",
+    "name": "ADATA XPG Lancer 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16760
+  },
+  {
+    "id": "62",
+    "name": "Crucial Pro 16GB 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16773
+  },
+  {
+    "id": "63",
+    "name": "Corsair Vengeance 16GB 5600MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 16780
+  },
+  {
+    "id": "64",
+    "name": "Crucial Pro OC Black 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17016
+  },
+  {
+    "id": "65",
+    "name": "Crucial Pro 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17077
+  },
+  {
+    "id": "66",
+    "name": "G.Skill Ripjaws S5 16GB 5600MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17077
+  },
+  {
+    "id": "67",
+    "name": "Corsair Vengeance 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17107
+  },
+  {
+    "id": "68",
+    "name": "Adata XPG Lancer White 16GB 6000MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17240
+  },
+  {
+    "id": "69",
+    "name": "Crucial Pro OC White 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17319
+  },
+  {
+    "id": "70",
+    "name": "G.Skill Ripjaws S5 Matte Black 16GB 6000MHz CL3636 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17360
+  },
+  {
+    "id": "71",
+    "name": "Adata XPG Lancer Blade 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17480
+  },
+  {
+    "id": "72",
+    "name": "Adata XPG Lancer Blade White 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17480
+  },
+  {
+    "id": "73",
+    "name": "ADATA XPG Lancer RGB 16GB 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17480
+  },
+  {
+    "id": "74",
+    "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17480
+  },
+  {
+    "id": "75",
+    "name": "Adata XPG Lancer Blade 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17500
+  },
+  {
+    "id": "76",
+    "name": "Adata XPG Lancer Blade White 16GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17500
+  },
+  {
+    "id": "77",
+    "name": "Kingston Fury Beast RGB 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17510
+  },
+  {
+    "id": "78",
+    "name": "Adata XPG Lancer Blade White 16GB 6000MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17840
+  },
+  {
+    "id": "79",
+    "name": "Adata XPG Lancer Blade White 16GB 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 17900
+  },
+  {
+    "id": "80",
+    "name": "Kingston Fury Beast RGB White 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18051
+  },
+  {
+    "id": "81",
+    "name": "G.Skill Trident Z5 RGB 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18128
+  },
+  {
+    "id": "82",
+    "name": "G.Skill Trident Z5 RGB White 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18128
+  },
+  {
+    "id": "83",
+    "name": "Adata XPG Lancer Blade RGB 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18320
+  },
+  {
+    "id": "84",
+    "name": "Adata XPG Lancer Blade RGB White 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18320
+  },
+  {
+    "id": "85",
+    "name": "Corsair Vengeance RGB Grey 16GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18772
+  },
+  {
+    "id": "86",
+    "name": "Crucial Pro OC 16GB 6400MHz CL38 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6400,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18870
+  },
+  {
+    "id": "87",
+    "name": "Adata XPG Lancer Blade RGB 16GB 6000MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 18920
+  },
+  {
+    "id": "88",
+    "name": "Adata XPG Lancer Blade 16GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 19520
+  },
+  {
+    "id": "89",
+    "name": "Adata XPG Lancer Blade White 16GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 19520
+  },
+  {
+    "id": "90",
+    "name": "Adata XPG Lancer Blade RGB 16GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 19760
+  },
+  {
+    "id": "91",
+    "name": "Adata XPG Lancer Blade RGB White 16GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "modules": 1,
+    "price": 19760
+  },
+  {
+    "id": "92",
+    "name": "Adata Premier 32GB 3200MHz CL22 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 21200
+  },
+  {
+    "id": "93",
+    "name": "Adata Premier 32GB 3200MHz DDR4 Laptop RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 21200
+  },
+  {
+    "id": "94",
+    "name": "Adata XPG Gammix D35 White 32GB 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 21836
+  },
+  {
+    "id": "95",
+    "name": "EVM 32GB 3200MHz CL15 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 21913
+  },
+  {
+    "id": "96",
+    "name": "TeamGroup T-Force Delta RGB White 32GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 27399
+  },
+  {
+    "id": "97",
+    "name": "Adata 32GB 4800MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 32,
+    "modules": 1,
+    "price": 28760
+  },
+  {
+    "id": "98",
+    "name": "Adata 32GB 4800MHz CL40 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 32,
+    "modules": 1,
+    "price": 28760
+  },
+  {
+    "id": "99",
+    "name": "Crucial 32GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 28840
+  },
+  {
+    "id": "100",
+    "name": "G.Skill Ripjaws S5 32GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 29252
+  },
+  {
+    "id": "101",
+    "name": "Adata XPG Lancer 32GB 5600MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 29870
+  },
+  {
+    "id": "102",
+    "name": "Adata 32GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 30080
+  },
+  {
+    "id": "103",
+    "name": "Adata 32GB 5600MHz CL46 DDR5 Laptop RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 30080
+  },
+  {
+    "id": "104",
+    "name": "Corsair Vengeance 32GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 30385
+  },
+  {
+    "id": "105",
+    "name": "Crucial Pro 32GB (16GBx2) 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 30385
+  },
+  {
+    "id": "106",
+    "name": "Crucial Pro OC 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 30385
+  },
+  {
+    "id": "107",
+    "name": "G.Skill Ripjaws S5 Matte Black 32GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 30385
+  },
+  {
+    "id": "108",
+    "name": "Kingston Fury Beast RGB 32GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 30385
+  },
+  {
+    "id": "109",
+    "name": "Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 30899
+  },
+  {
+    "id": "110",
+    "name": "ADATA XPG Lancer 32GB(16GBx2) 6000MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 30900
+  },
+  {
+    "id": "111",
+    "name": "Crucial Pro OC White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 30900
+  },
+  {
+    "id": "112",
+    "name": "Corsair Vengeance RGB 32GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "modules": 1,
+    "price": 31106
+  },
+  {
+    "id": "113",
+    "name": "Acer Predator Vesta II RGB Silver 32GB (16GBx2) 6000MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 31127
+  },
+  {
+    "id": "114",
+    "name": "G.Skill Trident Z5 RGB White 32GB 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 31132
+  },
+  {
+    "id": "115",
+    "name": "Corsair Vengeance 32GB 5600MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 31200
+  },
+  {
+    "id": "116",
+    "name": "Adata XPG Lancer Blade 32GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 31889
+  },
+  {
+    "id": "117",
+    "name": "Adata XPG Lancer Blade White 32GB 5600MHz CL46 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 31889
+  },
+  {
+    "id": "118",
+    "name": "Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32190
+  },
+  {
+    "id": "119",
+    "name": "Acer HT200 Silver 32GB (16GBx2) 7200MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32218
+  },
+  {
+    "id": "120",
+    "name": "Acer Predator Vesta II RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32600
+  },
+  {
+    "id": "121",
+    "name": "Acer Predator Vesta II RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32600
+  },
+  {
+    "id": "122",
+    "name": "G.Skill Trident Z5 RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32720
+  },
+  {
+    "id": "123",
+    "name": "G.Skill Trident Z5 RGB White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 32720
+  },
+  {
+    "id": "124",
+    "name": "Adata XPG Lancer Blade 32GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 33189
+  },
+  {
+    "id": "125",
+    "name": "Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 33260
+  },
+  {
+    "id": "126",
+    "name": "Acer HT200 32GB (16GBx2) 6000MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 33293
+  },
+  {
+    "id": "127",
+    "name": "Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35000
+  },
+  {
+    "id": "128",
+    "name": "Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35000
+  },
+  {
+    "id": "129",
+    "name": "Corsair Vengeance 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35500
+  },
+  {
+    "id": "130",
+    "name": "Corsair Vengeance 32GB 6000MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 35596
+  },
+  {
+    "id": "131",
+    "name": "Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35720
+  },
+  {
+    "id": "132",
+    "name": "Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL48 DDR5 Ram",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35741
+  },
+  {
+    "id": "133",
+    "name": "Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL48 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35741
+  },
+  {
+    "id": "134",
+    "name": "Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35935
+  },
+  {
+    "id": "135",
+    "name": "Adata XPG Lancer Blade RGB White 32GB (16GBx2) 6000MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 35935
+  },
+  {
+    "id": "136",
+    "name": "G.Skill Trident Z5 RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 36080
+  },
+  {
+    "id": "137",
+    "name": "Corsair Vengeance 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 36100
+  },
+  {
+    "id": "138",
+    "name": "Adata XPG Lancer White 32GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 36256
+  },
+  {
+    "id": "139",
+    "name": "G.Skill Ripjaws M5 RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 36622
+  },
+  {
+    "id": "140",
+    "name": "G.Skill Ripjaws M5 RGB White 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 36622
+  },
+  {
+    "id": "141",
+    "name": "Adata XPG Lancer RGB 32GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 36915
+  },
+  {
+    "id": "142",
+    "name": "Adata XPG Lancer Blade RGB 32GB 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 36915
+  },
+  {
+    "id": "143",
+    "name": "Corsair Vengeance RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37060
+  },
+  {
+    "id": "144",
+    "name": "Adata XPG Lancer Blade White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37173
+  },
+  {
+    "id": "145",
+    "name": "Adata XPG Lancer Blade 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37173
+  },
+  {
+    "id": "146",
+    "name": "Corsair Dominator Platinum RGB 32GB (16GBx2) 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37300
+  },
+  {
+    "id": "147",
+    "name": "Corsair Vengeance RGB Grey 32GB 6000MHz CL38 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 1,
+    "price": 37420
+  },
+  {
+    "id": "148",
+    "name": "Corsair Vengeance RGB DDR5 Grey Cherry Blossom 32GB (16GB x 2) 6000MHz CL30 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37700
+  },
+  {
+    "id": "149",
+    "name": "Corsair Vengeance RGB Light Grey 32GB (16GBx2) 6000MHz CL30 DDR5 RAM, Call Of Duty Warzone",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37700
+  },
+  {
+    "id": "150",
+    "name": "Corsair Vengeance RGB White Cherry Blossom 32GB (16GB x 2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37700
+  },
+  {
+    "id": "151",
+    "name": "Corsair Dominator Titanium RGB White 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37766
+  },
+  {
+    "id": "152",
+    "name": "Corsair Dominator Titanium RGB Grey 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37766
+  },
+  {
+    "id": "153",
+    "name": "Adata XPG Lancer Blade RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 37811
+  },
+  {
+    "id": "154",
+    "name": "Acer Predator Vesta II RGB Silver 32GB (16GBx2) 7200MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 39016
+  },
+  {
+    "id": "155",
+    "name": "Corsair Dominator Platinum RGB 32GB (16GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 39722
+  },
+  {
+    "id": "156",
+    "name": "Acer Predator Pallas II 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 40252
+  },
+  {
+    "id": "157",
+    "name": "Acer Predator Vesta II RGB 32GB (16GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "modules": 2,
+    "price": 40870
+  },
+  {
+    "id": "158",
+    "name": "Corsair Dominator Platinum RGB 32GB (16GBx2) CL36 5600MHz DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 2,
+    "price": 42230
+  },
+  {
+    "id": "159",
+    "name": "G.Skill Ripjaws S5 48GB 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 48,
+    "modules": 1,
+    "price": 42724
+  },
+  {
+    "id": "160",
+    "name": "Adata XPG Spectrix D35G RGB 64GB (32GBx2) 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 64,
+    "modules": 2,
+    "price": 43095
+  },
+  {
+    "id": "161",
+    "name": "Adata XPG Spectrix D35G RGB White 64GB (32GBx2) 3200MHz CL16 DDR4 RAM",
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 64,
+    "modules": 2,
+    "price": 43095
+  },
+  {
+    "id": "162",
+    "name": "Corsair Vengeance RGB 32GB (16GBx2) 7200MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 45629
+  },
+  {
+    "id": "163",
+    "name": "Corsair Dominator Platinum RGB White 32GB (16GBx2) 6200MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 46144
+  },
+  {
+    "id": "164",
+    "name": "Corsair Dominator Titanium RGB 32GB (16GBx2) 7200MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 32,
+    "modules": 2,
+    "price": 51809
+  },
+  {
+    "id": "165",
+    "name": "Adata XPG Lancer Blade RGB 48GB (24GBx2) 6400MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6400,
+    "capacity": 48,
+    "modules": 2,
+    "price": 52283
+  },
+  {
+    "id": "166",
+    "name": "Adata XPG Lancer RGB ROG 32GB (16GBx2) 6600MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 32,
+    "modules": 2,
+    "price": 52530
+  },
+  {
+    "id": "167",
+    "name": "G.Skill Ripjaws S5 64GB (32GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 60770
+  },
+  {
+    "id": "168",
+    "name": "CORSAIR Vengeance RGB 64GB (32GBx2) 6000MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 62006
+  },
+  {
+    "id": "169",
+    "name": "G.Skill Trident Z5 Neo RGB White 64GB (32GBx2) 6000MHz CL36 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 62480
+  },
+  {
+    "id": "170",
+    "name": "Kingston Fury Beast RGB EXPO 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 63036
+  },
+  {
+    "id": "171",
+    "name": "G.Skill Flare X5 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 64398
+  },
+  {
+    "id": "172",
+    "name": "CORSAIR Vengeance 64GB (32GBx2) 6600MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 64,
+    "modules": 2,
+    "price": 64684
+  },
+  {
+    "id": "173",
+    "name": "G.Skill Trident Z5 RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 65233
+  },
+  {
+    "id": "174",
+    "name": "G.Skill Trident Z5 RGB White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 65233
+  },
+  {
+    "id": "175",
+    "name": "Acer Predator Pallas II Silver 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 65590
+  },
+  {
+    "id": "176",
+    "name": "Acer Predator Vesta II RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 68062
+  },
+  {
+    "id": "177",
+    "name": "Adata XPG Lancer Blade Series 64GB (32GBx2) 6000MHz CL30 DDR5 Ram",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 69618
+  },
+  {
+    "id": "178",
+    "name": "Adata XPG Lancer Blade White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 69618
+  },
+  {
+    "id": "179",
+    "name": "ADATA DDR5 R-DIMM 32GB 5600MHz CL46 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "modules": 1,
+    "price": 71500
+  },
+  {
+    "id": "180",
+    "name": "Corsair Dominator Platinum RGB White 64GB (32GBx2) 5600MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 64,
+    "modules": 2,
+    "price": 73800
+  },
+  {
+    "id": "181",
+    "name": "Adata XPG Lancer Blade RGB 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 73995
+  },
+  {
+    "id": "182",
+    "name": "Adata XPG Lancer Blade RGB White 64GB (32GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 73995
+  },
+  {
+    "id": "183",
+    "name": "Corsair Dominator Platinum RGB 64GB (32GBx2) 6000MHz DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 64,
+    "modules": 2,
+    "price": 76941
+  },
+  {
+    "id": "184",
+    "name": "Corsair Dominator Platinum RGB 64GB (32GBx2) 6600MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 64,
+    "modules": 2,
+    "price": 77559
+  },
+  {
+    "id": "185",
+    "name": "Corsair Dominator Platinum RGB 64GB (32GBx2) 6800MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6800,
+    "capacity": 64,
+    "modules": 2,
+    "price": 78280
+  },
+  {
+    "id": "186",
+    "name": "Corsair Dominator Titanium RGB 64GB (32GBx2) 6600MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 64,
+    "modules": 2,
+    "price": 81473
+  },
+  {
+    "id": "187",
+    "name": "CORSAIR Vengeance 96GB (48GBx2) 7000MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7000,
+    "capacity": 96,
+    "modules": 2,
+    "price": 82400
+  },
+  {
+    "id": "188",
+    "name": "Corsair Vengeance RGB Grey 96GB (48GBx2) 6000MHz CL30 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 96,
+    "modules": 2,
+    "price": 85387
+  },
+  {
+    "id": "189",
+    "name": "Corsair Vengeance RGB 96GB (48GBx2) 6400MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6400,
+    "capacity": 96,
+    "modules": 2,
+    "price": 85696
+  },
+  {
+    "id": "190",
+    "name": "Corsair Vengeance RGB 96GB (48GBx2) 7200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 96,
+    "modules": 2,
+    "price": 86664
+  },
+  {
+    "id": "191",
+    "name": "Corsair Dominator Titanium RGB White 96GB (48GBx2) 6600MHz DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 96,
+    "modules": 2,
+    "price": 86829
+  },
+  {
+    "id": "192",
+    "name": "G.Skill Ripjaws S5 64GB (32GBx2) 6400MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6400,
+    "capacity": 64,
+    "modules": 2,
+    "price": 87838
+  },
+  {
+    "id": "193",
+    "name": "G.Skill Ripjaws S5 96GB (48GBx2) 5200MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 96,
+    "modules": 2,
+    "price": 90640
+  },
+  {
+    "id": "194",
+    "name": "G.Skill Ripjaws S5 96GB (48GBx2) 5600MHz CL40 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 96,
+    "modules": 2,
+    "price": 92700
+  },
+  {
+    "id": "195",
+    "name": "G.Skill Trident Z5 RGB 96GB (48GBx2) 6800MHz CL34 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6800,
+    "capacity": 96,
+    "modules": 2,
+    "price": 97726
+  },
+  {
+    "id": "196",
+    "name": "Corsair Dominator Titanium RGB 96GB (48GBx2) 6600MHz CL32 DDR5 RAM",
+    "type": "DDR5",
+    "speed": 6600,
+    "capacity": 96,
+    "modules": 2,
+    "price": 98983
+  },
+  {
+    "id": "197",
+    "name": "Samsung 128GB 4800MHz DDR5 Server RAM",
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 128,
+    "modules": 1,
+    "price": 155466
+  },
+  {
+    "id": "101",
+    "name": "G.Skill Trident Z5 RGB 64GB (2x32GB) DDR5-6400",
+    "type": "DDR5",
+    "speed": 6400,
+    "capacity": 64,
+    "modules": 2,
+    "price": 22000,
+    "image": "RAM/imgi_3_g-skill-trident-z5-rgb-ddr5-ram-hero-1759494666959.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Corsair Dominator Titanium 96GB (2x48GB) DDR5-7200",
+    "type": "DDR5",
+    "speed": 7200,
+    "capacity": 96,
+    "modules": 2,
+    "price": 52000,
+    "image": "RAM/imgi_3_g-skill-trident-z5-rgb-ddr5-ram-hero-1759494666959.jpg"
+  }
+]

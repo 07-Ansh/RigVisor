@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - How to Choose a CPU</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html" class="active">Guides</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in" style="padding-top: var(--space-xl);">
+        <section class="main-section" style="padding-bottom: var(--space-lg);">
+            <div class="container">
+                <div style="max-width: 1000px; margin: 0 auto;">
+                    <div
+                        style="color: var(--primary); font-weight: 700; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">
+                        Hardware Guide</div>
+                    <h1>How to Choose the Right CPU</h1>
+                    <p>The Central Processing Unit (CPU) is the brain of your computer. Here's everything you need to
+                        know to make the right choice.</p>
+                </div>
+            </div>
+        </section>
+        <section class="container" style="padding-bottom: var(--space-xl); max-width: 1000px;">
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>1. Cores vs. Threads</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Think of <strong>Cores</strong> as individual workers. More cores mean more workers to handle tasks
+                    simultaneously.
+                    <strong>Threads</strong> allow a single core to handle two tasks at once (Hyper-Threading/SMT).
+                </p>
+                <ul style="margin-top: 1rem; padding-left: 1.5rem; list-style-type: disc; color: var(--text-muted);">
+                    <li style="margin-bottom: 0.5rem;"><strong>4-6 Cores:</strong> Good for basic gaming and office
+                        work.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>8 Cores:</strong> The sweet spot for modern gaming and
+                        streaming.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>12+ Cores:</strong> Heavy productivity, video editing,
+                        and 3D rendering.</li>
+                </ul>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>2. Clock Speed (GHz)</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Measured in Gigahertz (GHz), this represents how fast a core can execute instructions.
+                    Generally, higher is better for gaming, while core count matters more for productivity.
+                </p>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>3. Intel vs. AMD</h2>
+                <div class="grid" style="grid-template-columns: 1fr 1fr; gap: var(--space-md); margin-top: 1.5rem;">
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-microchip"></i></div>
+                        <h3>Intel Core</h3>
+                        <p>Known for high clock speeds and strong single-core performance. Uses a mix of Performance (P)
+                            and Efficiency (E) cores in newer generations.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-fire"></i></i></div>
+                        <h3>AMD Ryzen</h3>
+                        <p>Often offers better multi-core value and power efficiency. The "X3D" chips are currently the
+                            kings of gaming performance.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>4. Matching with a GPU</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Avoid "bottlenecking" by pairing components of similar tiers. Don't pair a budget CPU (like an i3)
+                    with a top-tier GPU (like an RTX 4090), as the CPU won't keep up.
+                </p>
+            </div>
+            <div
+                style="background: var(--bg-surface-2); padding: var(--space-md); border-radius: var(--radius-md); text-align: center;">
+                <h3>Ready to choose?</h3>
+                <p style="margin: 1rem 0;">Head over to our builder to see compatible parts.</p>
+                <a href="builder.html" class="button blue-button">Go to Builder</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

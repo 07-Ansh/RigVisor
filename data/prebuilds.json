@@ -1,0 +1,65 @@
+[
+    {
+        "id": "starter",
+        "name": "Starter Gamer",
+        "price": 100000,
+        "description": "Perfect for 1080p gaming and esports titles.",
+        "specs": {
+            "cpu": "18",
+            "motherboard": "21",
+            "gpu": "101",
+            "ram": "17",
+            "storage": "103",
+            "psu": "44",
+            "case": "25",
+            "cooler": "11"
+        },
+        "image": "assets/prebuilds/starter.png",
+        "icon": "fa-gamepad",
+        "classes": "bento-card",
+        "style": "",
+        "badge": null
+    },
+    {
+        "id": "streamer",
+        "name": "Streamer Pro",
+        "price": 250000,
+        "description": "Designed for simultaneous gaming and streaming.",
+        "specs": {
+            "cpu": "46",
+            "motherboard": "6",
+            "gpu": "84",
+            "ram": "101",
+            "storage": "70",
+            "psu": "87",
+            "case": "364",
+            "cooler": "100"
+        },
+        "image": "assets/prebuilds/streamer.png",
+        "icon": "fa-crosshairs",
+        "classes": "bento-card large",
+        "style": "background: linear-gradient(145deg, var(--bg-surface), var(--bg-surface-2)); border-color: var(--primary);",
+        "badge": "BEST VALUE"
+    },
+    {
+        "id": "ultimate",
+        "name": "Ultimate 4K",
+        "price": 700000,
+        "description": "Uncompromised performance for 4K gaming and content creation.",
+        "specs": {
+            "cpu": "61",
+            "motherboard": "60",
+            "gpu": "141",
+            "ram": "183",
+            "storage": "107",
+            "psu": "142",
+            "case": "377",
+            "cooler": "204"
+        },
+        "image": "assets/prebuilds/ultimate.png",
+        "icon": "fa-dragon",
+        "classes": "bento-card",
+        "style": "",
+        "badge": null
+    }
+]

@@ -1,0 +1,2648 @@
+[
+  {
+    "id": "1",
+    "name": "Ant Esports Si11 M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 255,
+    "price": 1860
+  },
+  {
+    "id": "2",
+    "name": "Antec ST10M M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 250,
+    "price": 2000
+  },
+  {
+    "id": "3",
+    "name": "Ant Esports Si24 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 315,
+    "price": 2090
+  },
+  {
+    "id": "4",
+    "name": "Ant Esports Si25 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 315,
+    "price": 2150
+  },
+  {
+    "id": "5",
+    "name": "Antec ST10M TG M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 250,
+    "price": 2150
+  },
+  {
+    "id": "6",
+    "name": "Dawg V 110 M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 280,
+    "price": 2199
+  },
+  {
+    "id": "7",
+    "name": "Ant Value VM10 M-ATX Mid Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 250,
+    "price": 2250
+  },
+  {
+    "id": "8",
+    "name": "Dawg V 110 Grey M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 280,
+    "price": 2399
+  },
+  {
+    "id": "9",
+    "name": "Dawg V 110 White M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 280,
+    "price": 2399
+  },
+  {
+    "id": "10",
+    "name": "Ant Esports Elite 1100 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 2680
+  },
+  {
+    "id": "11",
+    "name": "Dawg V 210 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 325,
+    "price": 2699
+  },
+  {
+    "id": "12",
+    "name": "Dawg V 211 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 325,
+    "price": 2699
+  },
+  {
+    "id": "13",
+    "name": "Ant Value VM41 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 280,
+    "price": 2760
+  },
+  {
+    "id": "14",
+    "name": "Ant Value CV100 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 2810
+  },
+  {
+    "id": "15",
+    "name": "Ant Esports 120 Air Mini Tower M-ATX Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 2860
+  },
+  {
+    "id": "16",
+    "name": "Gamdias Aura GC9M ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 280,
+    "price": 2920
+  },
+  {
+    "id": "17",
+    "name": "Ant Value CV200 Black MATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 250,
+    "price": 2930
+  },
+  {
+    "id": "18",
+    "name": "Gamdias Aura GC8 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 2930
+  },
+  {
+    "id": "19",
+    "name": "Dawg V 210 White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 325,
+    "price": 2999
+  },
+  {
+    "id": "20",
+    "name": "Dawg V 211 White M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 325,
+    "price": 2999
+  },
+  {
+    "id": "21",
+    "name": "Cooler Master 310C ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3040
+  },
+  {
+    "id": "22",
+    "name": "Gamdias GC7 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 3050
+  },
+  {
+    "id": "23",
+    "name": "ANT Esports Elite 1200 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3100
+  },
+  {
+    "id": "24",
+    "name": "MSI PRO FORGE M050A Auto RGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 3150
+  },
+  {
+    "id": "25",
+    "name": "Ant Esports ICE-100 Auto RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3170
+  },
+  {
+    "id": "26",
+    "name": "Ant Esports ICE-112 Auto RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 310,
+    "price": 3340
+  },
+  {
+    "id": "27",
+    "name": "Ant Esports 205 Mini 6F ARGB White M-ATX Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 3380
+  },
+  {
+    "id": "28",
+    "name": "Ant Esports Eclipse Black-Grey ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3400
+  },
+  {
+    "id": "29",
+    "name": "Ant Esports ICE-100 Air Mini Mesh White M-ATX Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 290,
+    "price": 3400
+  },
+  {
+    "id": "30",
+    "name": "Ant Esports 205 Mini 6F ARGB M-ATX Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 3435
+  },
+  {
+    "id": "31",
+    "name": "Ant Esports Eclipse White-Grey ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3460
+  },
+  {
+    "id": "32",
+    "name": "Antec VX320 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 3479
+  },
+  {
+    "id": "33",
+    "name": "Dawg V 240 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3499
+  },
+  {
+    "id": "34",
+    "name": "Antec VX310 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 3519
+  },
+  {
+    "id": "35",
+    "name": "ANT Esports ICE 270M 6F ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3520
+  },
+  {
+    "id": "36",
+    "name": "Ant Esports Crystal Z2 ARGB M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 3520
+  },
+  {
+    "id": "37",
+    "name": "Ant Esports 200 Air Mini Mesh White M-ATX Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 3525
+  },
+  {
+    "id": "38",
+    "name": "ANT Esports ICE 270G 6F ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3595
+  },
+  {
+    "id": "39",
+    "name": "Ant Esports Pepper 5F ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3650
+  },
+  {
+    "id": "40",
+    "name": "Gamdias Aura GC6 WH ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 3650
+  },
+  {
+    "id": "41",
+    "name": "Dawg V 240 White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3699
+  },
+  {
+    "id": "42",
+    "name": "Gamdias Argus E4 Elite RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3740
+  },
+  {
+    "id": "43",
+    "name": "Dawg V 350 M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 3899
+  },
+  {
+    "id": "44",
+    "name": "MSI MAG Forge 120A Airflow ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 3900
+  },
+  {
+    "id": "45",
+    "name": "Ant Esports Box C Air Grey M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 300,
+    "price": 3940
+  },
+  {
+    "id": "46",
+    "name": "Gamdias Argus E4 Elite RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 3950
+  },
+  {
+    "id": "47",
+    "name": "Ant Esports 250 Air ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4000
+  },
+  {
+    "id": "48",
+    "name": "Ant Esports 205 Air ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4010
+  },
+  {
+    "id": "49",
+    "name": "Ant Esports X2 LCD ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4060
+  },
+  {
+    "id": "50",
+    "name": "Msi PAG Pano M110A RGB Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4060
+  },
+  {
+    "id": "51",
+    "name": "Ant Esports 220 Air Auto RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4070
+  },
+  {
+    "id": "52",
+    "name": "Gamdias Talos E3 Mesh ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4100
+  },
+  {
+    "id": "53",
+    "name": "Gamdias Talos E3 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4150
+  },
+  {
+    "id": "54",
+    "name": "Gamdias Talos E3 Mesh ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4150
+  },
+  {
+    "id": "55",
+    "name": "Gamdias Talos E3 WH ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4150
+  },
+  {
+    "id": "56",
+    "name": "AeroCool Cylon RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 346,
+    "price": 4180
+  },
+  {
+    "id": "57",
+    "name": "Dawg V 350 White M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 320,
+    "price": 4199
+  },
+  {
+    "id": "58",
+    "name": "AeroCool Quantum Mesh RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 297,
+    "price": 4200
+  },
+  {
+    "id": "59",
+    "name": "Ant Esports Infinity X ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4200
+  },
+  {
+    "id": "60",
+    "name": "Ant Esports X2 LCD White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4240
+  },
+  {
+    "id": "61",
+    "name": "Gamdias AURA GC11 Black ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4250
+  },
+  {
+    "id": "62",
+    "name": "MSI Mag Forge 130A Airflow Auto RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 4250
+  },
+  {
+    "id": "63",
+    "name": "Gamdias Aura GC4 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4340
+  },
+  {
+    "id": "64",
+    "name": "Dawg X 430 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4399
+  },
+  {
+    "id": "65",
+    "name": "Asus A21 M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 4400
+  },
+  {
+    "id": "66",
+    "name": "Gamdias AURA GC11 Wood ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4450
+  },
+  {
+    "id": "67",
+    "name": "Gamdias AURA GC4 Elite ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 4450
+  },
+  {
+    "id": "68",
+    "name": "Dawg X 440 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4499
+  },
+  {
+    "id": "69",
+    "name": "Ant Esports Crystal Z3 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 4550
+  },
+  {
+    "id": "70",
+    "name": "Cooler Master MasterBox K501L RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 4570
+  },
+  {
+    "id": "71",
+    "name": "Fingers HyperHawk White RGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 280,
+    "price": 4580
+  },
+  {
+    "id": "72",
+    "name": "Ant Esports 411 Air ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4660
+  },
+  {
+    "id": "73",
+    "name": "Cooler Master Elite 301 ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 365,
+    "price": 4660
+  },
+  {
+    "id": "74",
+    "name": "Cooler Master Elite 301 ARGB White M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 365,
+    "price": 4660
+  },
+  {
+    "id": "75",
+    "name": "Dawg X 430 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4699
+  },
+  {
+    "id": "76",
+    "name": "Cooler Master Elite 302 White ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 365,
+    "price": 4700
+  },
+  {
+    "id": "77",
+    "name": "Cooler Master Elite 490 ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 340,
+    "price": 4720
+  },
+  {
+    "id": "78",
+    "name": "Thermaltake S200 TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 4720
+  },
+  {
+    "id": "79",
+    "name": "Ant Esports Zen Wood C3 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4840
+  },
+  {
+    "id": "80",
+    "name": "Dawg X 490 E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 400,
+    "price": 4899
+  },
+  {
+    "id": "81",
+    "name": "Dawg X 440 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4899
+  },
+  {
+    "id": "82",
+    "name": "Ant Esports MeshX360 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 4900
+  },
+  {
+    "id": "83",
+    "name": "Thermaltake S200 TG ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 330,
+    "price": 4900
+  },
+  {
+    "id": "84",
+    "name": "Cooler Master CMP 520 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 350,
+    "price": 4960
+  },
+  {
+    "id": "85",
+    "name": "ANT Esports Crystal X7 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5000
+  },
+  {
+    "id": "86",
+    "name": "Cooler Master Elite 490 White ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 340,
+    "price": 5020
+  },
+  {
+    "id": "87",
+    "name": "Cooler Master Elite 481 Wood ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 320,
+    "price": 5080
+  },
+  {
+    "id": "88",
+    "name": "MSI MAG Forge 320R Airflow ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 5080
+  },
+  {
+    "id": "89",
+    "name": "Deepcool CG580 White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5100
+  },
+  {
+    "id": "90",
+    "name": "Ant Esports ICE-410TG ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5110
+  },
+  {
+    "id": "91",
+    "name": "Asus A21 White M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 5124
+  },
+  {
+    "id": "92",
+    "name": "Ant Esports ICE-590TG ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5150
+  },
+  {
+    "id": "93",
+    "name": "DeepCool CH160 Plus M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 305,
+    "price": 5150
+  },
+  {
+    "id": "94",
+    "name": "Ant Esports ICE-4000 RGB ATX Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5200
+  },
+  {
+    "id": "95",
+    "name": "AeroCool Mirage ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 356,
+    "price": 5240
+  },
+  {
+    "id": "96",
+    "name": "Antec CX800 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 5260
+  },
+  {
+    "id": "97",
+    "name": "Gamdias Talos E3 Mesh Elite ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5260
+  },
+  {
+    "id": "98",
+    "name": "Dawg X 520 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5299
+  },
+  {
+    "id": "99",
+    "name": "ProLab Design AI628 Mid Tower Workstation PC Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5300
+  },
+  {
+    "id": "100",
+    "name": "Ant Esports Crystal X3 LCD ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5320
+  },
+  {
+    "id": "101",
+    "name": "NZXT H3 Flow White M-ATX Mini Tower Case 2025 Edition",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 365,
+    "price": 5320
+  },
+  {
+    "id": "102",
+    "name": "Cooler Master Elite 502 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5380
+  },
+  {
+    "id": "103",
+    "name": "Cooler Master Elite 690 Wood ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5380
+  },
+  {
+    "id": "104",
+    "name": "Montech X3 Glass RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 5390
+  },
+  {
+    "id": "105",
+    "name": "Dawg X617 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5399
+  },
+  {
+    "id": "106",
+    "name": "Gamdias ATHENA M4M ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 340,
+    "price": 5400
+  },
+  {
+    "id": "107",
+    "name": "NZXT H3 Flow M-ATX Mini Tower Case 2025 Edition",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 365,
+    "price": 5400
+  },
+  {
+    "id": "108",
+    "name": "Ant Esports Crystal X3 LCD ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5425
+  },
+  {
+    "id": "109",
+    "name": "MSI MAG Forge 320R Airflow White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 5440
+  },
+  {
+    "id": "110",
+    "name": "DeepCool CH170 Plus M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 305,
+    "price": 5450
+  },
+  {
+    "id": "111",
+    "name": "Dawg X 617 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 5499
+  },
+  {
+    "id": "112",
+    "name": "Thermaltake View 270 TG ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5500
+  },
+  {
+    "id": "113",
+    "name": "Montech X3 Mesh RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 5549
+  },
+  {
+    "id": "114",
+    "name": "Gamdias ATHENA M4M Wood M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 340,
+    "price": 5550
+  },
+  {
+    "id": "115",
+    "name": "Montech Air 900 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 370,
+    "price": 5550
+  },
+  {
+    "id": "116",
+    "name": "Cooler Master CD600 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5560
+  },
+  {
+    "id": "117",
+    "name": "AeroCool Tor ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 370,
+    "price": 5585
+  },
+  {
+    "id": "118",
+    "name": "Cooler Master Elite 681 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5599
+  },
+  {
+    "id": "119",
+    "name": "Dawg X 540 ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 400,
+    "price": 5599
+  },
+  {
+    "id": "120",
+    "name": "Cooler Master Elite 502 White ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5620
+  },
+  {
+    "id": "121",
+    "name": "Phanteks Eclipse P400 Air DRGB Cabinet",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 5660
+  },
+  {
+    "id": "122",
+    "name": "Montech Air 900 MESH E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 370,
+    "price": 5675
+  },
+  {
+    "id": "123",
+    "name": "Cooler Master CD600 White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5680
+  },
+  {
+    "id": "124",
+    "name": "Cooler Master Elite 690 Wood White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5680
+  },
+  {
+    "id": "125",
+    "name": "Gamdias Atlas M1 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5680
+  },
+  {
+    "id": "126",
+    "name": "Dawg X 678 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 5699
+  },
+  {
+    "id": "127",
+    "name": "Ant Esports Dynamic GT ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 5740
+  },
+  {
+    "id": "128",
+    "name": "Dawg X 540 ARGB White E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 400,
+    "price": 5799
+  },
+  {
+    "id": "129",
+    "name": "Dawg X 678 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 5799
+  },
+  {
+    "id": "130",
+    "name": "Gamdias Atlas M1 White ARGB Mid Tower ATX Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5800
+  },
+  {
+    "id": "131",
+    "name": "Thermaltake H570 TG ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 5800
+  },
+  {
+    "id": "132",
+    "name": "MSI Mag Forge 321R Airflow ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 5840
+  },
+  {
+    "id": "133",
+    "name": "Ant Esports Crystal ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 5980
+  },
+  {
+    "id": "134",
+    "name": "Antec CX600M Trio ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 410,
+    "price": 5980
+  },
+  {
+    "id": "135",
+    "name": "Antec CX700 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 5980
+  },
+  {
+    "id": "136",
+    "name": "Asus Prime AP201 M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 338,
+    "price": 5980
+  },
+  {
+    "id": "137",
+    "name": "DeepCool CH170 Digital Black Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 305,
+    "price": 5980
+  },
+  {
+    "id": "138",
+    "name": "Dawg Y 720 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 5999
+  },
+  {
+    "id": "139",
+    "name": "Montech Air X ARGB Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6000
+  },
+  {
+    "id": "140",
+    "name": "Cooler Master Elite 681 White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 6010
+  },
+  {
+    "id": "141",
+    "name": "ASUS Prime AP201 White M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 338,
+    "price": 6040
+  },
+  {
+    "id": "142",
+    "name": "Ant Esports Crystal X6 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6080
+  },
+  {
+    "id": "143",
+    "name": "Thermaltake View 270 TG ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 6080
+  },
+  {
+    "id": "144",
+    "name": "Thermaltake H570 TG ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 6100
+  },
+  {
+    "id": "145",
+    "name": "Montech X3 Glass RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 6150
+  },
+  {
+    "id": "146",
+    "name": "Ant Esports Crystal Mirror ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6170
+  },
+  {
+    "id": "147",
+    "name": "Dawg Y 720 White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 6199
+  },
+  {
+    "id": "148",
+    "name": "Montech X3 MESH FRGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 305,
+    "price": 6200
+  },
+  {
+    "id": "149",
+    "name": "Ant Esports Crystal ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 6210
+  },
+  {
+    "id": "150",
+    "name": "Ant Esports ICE Digital C3 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6210
+  },
+  {
+    "id": "151",
+    "name": "Montech Air 100 ARGB M-ATX White Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 330,
+    "price": 6350
+  },
+  {
+    "id": "152",
+    "name": "Ant Esports Crystal Mirror White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6395
+  },
+  {
+    "id": "153",
+    "name": "Ant Esports 711 Air Mesh ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 6400
+  },
+  {
+    "id": "154",
+    "name": "DeepCool CG530 4F ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 6400
+  },
+  {
+    "id": "155",
+    "name": "Montech Sky One Lite Mesh ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 350,
+    "price": 6600
+  },
+  {
+    "id": "156",
+    "name": "Antec C3 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 6640
+  },
+  {
+    "id": "157",
+    "name": "DeepCool CG530 4F White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 6650
+  },
+  {
+    "id": "158",
+    "name": "Gigabyte C301 Glass V2 ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 6650
+  },
+  {
+    "id": "159",
+    "name": "Montech AIR 1000 Lite White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6650
+  },
+  {
+    "id": "160",
+    "name": "Montech AIR 1000 Silent ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6700
+  },
+  {
+    "id": "161",
+    "name": "Thermaltake H590 TG White ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 6740
+  },
+  {
+    "id": "162",
+    "name": "Ant Esports Crystal X4 ARGB Grey ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 6770
+  },
+  {
+    "id": "163",
+    "name": "Dawg Y 738 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 6799
+  },
+  {
+    "id": "164",
+    "name": "Phanteks XT Pro Ultra D-RGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 6800
+  },
+  {
+    "id": "165",
+    "name": "Lian Li A3-mATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 415,
+    "price": 6850
+  },
+  {
+    "id": "166",
+    "name": "Lian Li A3-mATX White Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 415,
+    "price": 6850
+  },
+  {
+    "id": "167",
+    "name": "ProLab Design AI828 Mid Tower Workstation PC Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 6880
+  },
+  {
+    "id": "168",
+    "name": "Dawg Y 745 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 6899
+  },
+  {
+    "id": "169",
+    "name": "Antec CX700 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7000
+  },
+  {
+    "id": "170",
+    "name": "Lian Li Vector V100 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 7000
+  },
+  {
+    "id": "171",
+    "name": "Ant Esports Crystal Spectra ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 7040
+  },
+  {
+    "id": "172",
+    "name": "Thermaltake View 380 TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 7040
+  },
+  {
+    "id": "173",
+    "name": "Montech Sky One Lite Mesh ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 350,
+    "price": 7050
+  },
+  {
+    "id": "174",
+    "name": "Montech XR ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 7200
+  },
+  {
+    "id": "175",
+    "name": "Montech XR White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 7200
+  },
+  {
+    "id": "176",
+    "name": "MSI MAG Pano 110R PZ ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 7230
+  },
+  {
+    "id": "177",
+    "name": "Ant Esports Crystal ARC ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 7250
+  },
+  {
+    "id": "178",
+    "name": "Dawg Y 740 Cube ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 330,
+    "price": 7299
+  },
+  {
+    "id": "179",
+    "name": "Thermaltake View 380 TG ARGB Snow ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 7340
+  },
+  {
+    "id": "180",
+    "name": "Ant Esports Crystal ARC ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 7345
+  },
+  {
+    "id": "181",
+    "name": "AeroCool Cronus ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 387,
+    "price": 7350
+  },
+  {
+    "id": "182",
+    "name": "Montech X5 E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 7350
+  },
+  {
+    "id": "183",
+    "name": "Montech X5 White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 7350
+  },
+  {
+    "id": "184",
+    "name": "Cooler Master MasterBox 520 Mesh ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7360
+  },
+  {
+    "id": "185",
+    "name": "Gigabyte C500 Panoramic Stealth Black ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7400
+  },
+  {
+    "id": "186",
+    "name": "Montech AIR 1000 Premium ARGB ATX Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 7400
+  },
+  {
+    "id": "187",
+    "name": "Cooler Master MasterBox MB520 Mesh ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7450
+  },
+  {
+    "id": "188",
+    "name": "Lian Li Vector V100 White ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 7500
+  },
+  {
+    "id": "189",
+    "name": "Ant Esports Crystal X11 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 7550
+  },
+  {
+    "id": "190",
+    "name": "Dawg Y 804 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 7599
+  },
+  {
+    "id": "191",
+    "name": "Thermaltake View 270 SP ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 7700
+  },
+  {
+    "id": "192",
+    "name": "Thermaltake H550 TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 300,
+    "price": 7708
+  },
+  {
+    "id": "193",
+    "name": "Cooler Master MasterBox NR200P M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 330,
+    "price": 7780
+  },
+  {
+    "id": "194",
+    "name": "Dawg Y 804 White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 7799
+  },
+  {
+    "id": "195",
+    "name": "Montech AIR 1000 Premium ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 340,
+    "price": 7800
+  },
+  {
+    "id": "196",
+    "name": "ProLab Design AI748 E-ATX Full Tower Workstation Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 450,
+    "price": 7850
+  },
+  {
+    "id": "197",
+    "name": "ProLab Design AI838 Mid Tower Workstation Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 7850
+  },
+  {
+    "id": "198",
+    "name": "Nzxt H5 Flow 2024 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7880
+  },
+  {
+    "id": "199",
+    "name": "Nzxt H5 Flow 2024 Edition E-ATX White Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 7880
+  },
+  {
+    "id": "200",
+    "name": "Thermaltake Divider 300 TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 7999
+  },
+  {
+    "id": "201",
+    "name": "Thermaltake Divider 300 TG White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 7999
+  },
+  {
+    "id": "202",
+    "name": "Cooler Master MasterBox 600 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8000
+  },
+  {
+    "id": "203",
+    "name": "Lian Li Lancool 207 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 8000
+  },
+  {
+    "id": "204",
+    "name": "Lian Li Lancool 207 White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 8000
+  },
+  {
+    "id": "205",
+    "name": "MSI MAG Pano 110R PZ ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 8000
+  },
+  {
+    "id": "206",
+    "name": "Lian Li A3-mATX Wood White Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 415,
+    "price": 8090
+  },
+  {
+    "id": "207",
+    "name": "MSI MAG PANO M100R PZ ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 390,
+    "price": 8115
+  },
+  {
+    "id": "208",
+    "name": "Cooler Master MasterBox 600 ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8240
+  },
+  {
+    "id": "209",
+    "name": "Cooler Master MasterBox TD500 Mesh V2 ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8250
+  },
+  {
+    "id": "210",
+    "name": "Cooler Master MasterBox TD500 Mesh V2 ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8250
+  },
+  {
+    "id": "211",
+    "name": "Gigabyte C500 Panoramic Stealth ICE ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8250
+  },
+  {
+    "id": "212",
+    "name": "Xigmatek Aqua M ARGB M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 340,
+    "price": 8275
+  },
+  {
+    "id": "213",
+    "name": "Gamdias Athena P3 E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 8300
+  },
+  {
+    "id": "214",
+    "name": "Lian Li A3-mATX Wood White Mini Tower Case with Glass Side Panel",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 415,
+    "price": 8300
+  },
+  {
+    "id": "215",
+    "name": "Montech Air 903 Max E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8300
+  },
+  {
+    "id": "216",
+    "name": "Montech Air 903 Max White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8300
+  },
+  {
+    "id": "217",
+    "name": "Thermaltake View 290 TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8300
+  },
+  {
+    "id": "218",
+    "name": "MSI MAG PANO M100R PZ ARGB White M-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 8399
+  },
+  {
+    "id": "219",
+    "name": "Antec C8 E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 8450
+  },
+  {
+    "id": "220",
+    "name": "MONTECH King 65 Pro ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 8500
+  },
+  {
+    "id": "221",
+    "name": "Montech Sky Two ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8500
+  },
+  {
+    "id": "222",
+    "name": "Cooler Master Elite 600 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8540
+  },
+  {
+    "id": "223",
+    "name": "ProLab Design AI848 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8540
+  },
+  {
+    "id": "224",
+    "name": "Antec C5 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8660
+  },
+  {
+    "id": "225",
+    "name": "Thermaltake View 290 TG ARGB Snow White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8660
+  },
+  {
+    "id": "226",
+    "name": "Thermaltake Ceres 330 TG ARGB E-ATX Mid Tower Case (Hydrangea Blue)",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 370,
+    "price": 8660
+  },
+  {
+    "id": "227",
+    "name": "CORSAIR 3500X Call of Duty OPS 6 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8670
+  },
+  {
+    "id": "228",
+    "name": "Antec C8 White E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 8780
+  },
+  {
+    "id": "229",
+    "name": "DeepCool CG580 4F V2 White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 8900
+  },
+  {
+    "id": "230",
+    "name": "Alseye Ai Pro ARGB Mesh White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 8930
+  },
+  {
+    "id": "231",
+    "name": "MSI MPG VELOX 100R ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 9020
+  },
+  {
+    "id": "232",
+    "name": "MSI MPG Velox 100R ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 9075
+  },
+  {
+    "id": "233",
+    "name": "Cooler Master Elite 600 ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 9080
+  },
+  {
+    "id": "234",
+    "name": "MONTECH King 65 Pro ARGB ATX Mid Tower White Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 9100
+  },
+  {
+    "id": "235",
+    "name": "Montech Sky Two ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 9100
+  },
+  {
+    "id": "236",
+    "name": "Antec C8 Aluminum White E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 9115
+  },
+  {
+    "id": "237",
+    "name": "Lian Li Lancool 216 ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 392,
+    "price": 9340
+  },
+  {
+    "id": "238",
+    "name": "Antec C5 Curve ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9380
+  },
+  {
+    "id": "239",
+    "name": "Dawg Y 820 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 9399
+  },
+  {
+    "id": "240",
+    "name": "CORSAIR Frame 4000D RS ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 9450
+  },
+  {
+    "id": "241",
+    "name": "CORSAIR Frame 4000D RS ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 360,
+    "price": 9450
+  },
+  {
+    "id": "242",
+    "name": "Corsair 3500X ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9510
+  },
+  {
+    "id": "243",
+    "name": "Antec P120 Crystal White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 9560
+  },
+  {
+    "id": "244",
+    "name": "Gamdias Atlas P2 CG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9560
+  },
+  {
+    "id": "245",
+    "name": "Corsair 3500X RS-R ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9650
+  },
+  {
+    "id": "246",
+    "name": "Corsair 3500X RS-R ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9650
+  },
+  {
+    "id": "247",
+    "name": "Nzxt H6 Flow White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 365,
+    "price": 9690
+  },
+  {
+    "id": "248",
+    "name": "Dawg Y 820 ARGB ATX Mid Tower White Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 9699
+  },
+  {
+    "id": "249",
+    "name": "Thermaltake View 380 XL TG ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 9720
+  },
+  {
+    "id": "250",
+    "name": "Thermaltake The Tower 200 White M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 380,
+    "price": 9730
+  },
+  {
+    "id": "251",
+    "name": "Nzxt H6 Flow ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 365,
+    "price": 9900
+  },
+  {
+    "id": "252",
+    "name": "Thermaltake TR100 Snow White M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 360,
+    "price": 9900
+  },
+  {
+    "id": "253",
+    "name": "Ant Esports Crystal XL ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 9980
+  },
+  {
+    "id": "254",
+    "name": "Nzxt H5 Flow RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 365,
+    "price": 10000
+  },
+  {
+    "id": "255",
+    "name": "Thermaltake View 380 XL TG ARGB Gravel Sand ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 10020
+  },
+  {
+    "id": "256",
+    "name": "Thermaltake View 380 XL TG ARGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 10020
+  },
+  {
+    "id": "257",
+    "name": "Gigabyte Aorus C300 Glass (Black)",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 10100
+  },
+  {
+    "id": "258",
+    "name": "DeepCool CH690 Digital ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10160
+  },
+  {
+    "id": "259",
+    "name": "Phanteks NV5 MKII E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 440,
+    "price": 10160
+  },
+  {
+    "id": "260",
+    "name": "Thermaltake View 380 XL TG Future Dusk ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 10350
+  },
+  {
+    "id": "261",
+    "name": "Nzxt H5 Flow RGB 2024 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10370
+  },
+  {
+    "id": "262",
+    "name": "Nzxt H5 Flow RGB 2024 Edition E-ATX White Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10370
+  },
+  {
+    "id": "263",
+    "name": "Lian Li Lancool 207 Digital ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 10400
+  },
+  {
+    "id": "264",
+    "name": "ANT Esports Cypher G5 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 10540
+  },
+  {
+    "id": "265",
+    "name": "Antec C7 ARGB Black E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10580
+  },
+  {
+    "id": "266",
+    "name": "ANT Esports Cypher G3 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 380,
+    "price": 10660
+  },
+  {
+    "id": "267",
+    "name": "Antec C8 ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 10680
+  },
+  {
+    "id": "268",
+    "name": "DeepCool CH690 Digital WH ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10700
+  },
+  {
+    "id": "269",
+    "name": "Antec C7 White ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10880
+  },
+  {
+    "id": "270",
+    "name": "Cooler Master HAF 500 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 10940
+  },
+  {
+    "id": "271",
+    "name": "MSI MPG Velox 300R Airflow PZ ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 10965
+  },
+  {
+    "id": "272",
+    "name": "Cooler Master HAF 500 White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 11060
+  },
+  {
+    "id": "273",
+    "name": "Antec C8 ARGB White E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 11100
+  },
+  {
+    "id": "274",
+    "name": "Thermaltake The Tower 250 M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 360,
+    "price": 11190
+  },
+  {
+    "id": "275",
+    "name": "ANT Esports Cypher G7 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 11250
+  },
+  {
+    "id": "276",
+    "name": "Lian Li Lancool 217 Wood White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 395,
+    "price": 11300
+  },
+  {
+    "id": "277",
+    "name": "MSI MPG Velox 300R Airflow PZ ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 11300
+  },
+  {
+    "id": "278",
+    "name": "Thermaltake The Tower 250 Snow White M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 360,
+    "price": 11310
+  },
+  {
+    "id": "279",
+    "name": "Corsair 2500D Airflow White M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 400,
+    "price": 11400
+  },
+  {
+    "id": "280",
+    "name": "Lian Li Lancool 217 INF ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 395,
+    "price": 11450
+  },
+  {
+    "id": "281",
+    "name": "Xigmatek Endorphin Ultra Arctic ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 11500
+  },
+  {
+    "id": "282",
+    "name": "Xigmatek Endorphin Ultra ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 11500
+  },
+  {
+    "id": "283",
+    "name": "Thermaltake View 390 Air ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 11520
+  },
+  {
+    "id": "284",
+    "name": "NZXT H7 Flow E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 11720
+  },
+  {
+    "id": "285",
+    "name": "Thermaltake View 390 Air ARGB Snow White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 11760
+  },
+  {
+    "id": "286",
+    "name": "MSI MAG PANO 100R PZ ARGB ATX Black Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 11780
+  },
+  {
+    "id": "287",
+    "name": "ANT Esports Cypher K9 ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 11840
+  },
+  {
+    "id": "288",
+    "name": "Lian Li Lancool 217 INF ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 395,
+    "price": 11900
+  },
+  {
+    "id": "289",
+    "name": "Lian Li O11 Vision Compact E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 410,
+    "price": 12000
+  },
+  {
+    "id": "290",
+    "name": "Thermaltake CTE E550 TG Black E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 12020
+  },
+  {
+    "id": "291",
+    "name": "Montech HS02 PRO ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 12100
+  },
+  {
+    "id": "292",
+    "name": "Montech HS02 PRO White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 12100
+  },
+  {
+    "id": "293",
+    "name": "Nzxt H6 Flow RGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 365,
+    "price": 12100
+  },
+  {
+    "id": "294",
+    "name": "Nzxt H6 Flow RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 365,
+    "price": 12100
+  },
+  {
+    "id": "295",
+    "name": "Thermaltake View 300 MX ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 12240
+  },
+  {
+    "id": "296",
+    "name": "Thermaltake CTE E550 TG Matcha Green E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 415,
+    "price": 12320
+  },
+  {
+    "id": "297",
+    "name": "Thermaltake View 300 MX Snow ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 12360
+  },
+  {
+    "id": "298",
+    "name": "Asus TUF Gaming GT502 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 12460
+  },
+  {
+    "id": "299",
+    "name": "Hyte X50 Air E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 12499
+  },
+  {
+    "id": "300",
+    "name": "Hyte X50 Air Snow White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 12499
+  },
+  {
+    "id": "301",
+    "name": "MSI MAG PANO 100R PZ White ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 12540
+  },
+  {
+    "id": "302",
+    "name": "Thermaltake View 600 TG ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 400,
+    "price": 12560
+  },
+  {
+    "id": "303",
+    "name": "MSI Pano 130R MLG Edition ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 12600
+  },
+  {
+    "id": "304",
+    "name": "Xigmatek Aqua Ultra Air Arctic ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 430,
+    "price": 12700
+  },
+  {
+    "id": "305",
+    "name": "Xigmatek Aqua Ultra Arctic ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 430,
+    "price": 12700
+  },
+  {
+    "id": "306",
+    "name": "Xigmatek Aqua Ultra ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 430,
+    "price": 12700
+  },
+  {
+    "id": "307",
+    "name": "Montech Heritage PRO M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 400,
+    "price": 12900
+  },
+  {
+    "id": "308",
+    "name": "Montech Heritage PRO White M-ATX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 400,
+    "price": 12900
+  },
+  {
+    "id": "309",
+    "name": "Thermaltake View 600 TG Snow ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 400,
+    "price": 12920
+  },
+  {
+    "id": "310",
+    "name": "Hyte Y40 TG Black and White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 422,
+    "price": 12999
+  },
+  {
+    "id": "311",
+    "name": "Hyte Y40 TG ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 422,
+    "price": 12999
+  },
+  {
+    "id": "312",
+    "name": "Hyte Y40 TG White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 422,
+    "price": 12999
+  },
+  {
+    "id": "313",
+    "name": "Lian Li SUP01 White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 13200
+  },
+  {
+    "id": "314",
+    "name": "Thermaltake Ceres 500 TG ARGB Snow White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 425,
+    "price": 13320
+  },
+  {
+    "id": "315",
+    "name": "Dawg Y 909 E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 450,
+    "price": 13499
+  },
+  {
+    "id": "316",
+    "name": "Nzxt H7 Flow RGB 2024 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 13820
+  },
+  {
+    "id": "317",
+    "name": "Nzxt H7 Flow RGB White 2024 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 13820
+  },
+  {
+    "id": "318",
+    "name": "Lian Li A4 H2O M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 322,
+    "price": 14120
+  },
+  {
+    "id": "319",
+    "name": "Nzxt H7 Flow RGB White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 14300
+  },
+  {
+    "id": "320",
+    "name": "Thermaltake The Tower 600 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 14300
+  },
+  {
+    "id": "321",
+    "name": "Thermaltake Core P6 Tempered Glass ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 458,
+    "price": 14320
+  },
+  {
+    "id": "322",
+    "name": "Nzxt H9 Flow 2025 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 435,
+    "price": 14750
+  },
+  {
+    "id": "323",
+    "name": "Nzxt H9 Flow White 2025 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 435,
+    "price": 14750
+  },
+  {
+    "id": "324",
+    "name": "Thermaltake The Tower 600 Snow White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 14750
+  },
+  {
+    "id": "325",
+    "name": "Hyte X50 Matcha E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 14999
+  },
+  {
+    "id": "326",
+    "name": "Hyte X50 E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 14999
+  },
+  {
+    "id": "327",
+    "name": "Hyte X50 Snow White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 14999
+  },
+  {
+    "id": "328",
+    "name": "Hyte X50 Taro Milk E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 14999
+  },
+  {
+    "id": "329",
+    "name": "Cooler Master MasterFrame 500 Mesh ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 15460
+  },
+  {
+    "id": "330",
+    "name": "Cooler Master MasterFrame 500 Mesh ARGB Silver E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 15640
+  },
+  {
+    "id": "331",
+    "name": "Corsair Frame 5000D RS White ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 15860
+  },
+  {
+    "id": "332",
+    "name": "Dawg Y 907 ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 450,
+    "price": 15999
+  },
+  {
+    "id": "333",
+    "name": "Thermaltake View 51 Snow White ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 440,
+    "price": 16200
+  },
+  {
+    "id": "334",
+    "name": "Montech King 95 Pro ARGB ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 16580
+  },
+  {
+    "id": "335",
+    "name": "Corsair Frame 4500X RS-R ARGB Panoramic Glass White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 16800
+  },
+  {
+    "id": "336",
+    "name": "DeepCool CH780 ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 480,
+    "price": 16900
+  },
+  {
+    "id": "337",
+    "name": "HYTE Y60 Red and Black E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 16999
+  },
+  {
+    "id": "338",
+    "name": "Hyte Y60 White Mid Tower ATX Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 16999
+  },
+  {
+    "id": "339",
+    "name": "Hyte Y60 Black and White ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 16999
+  },
+  {
+    "id": "340",
+    "name": "Hyte Y60 ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 375,
+    "price": 16999
+  },
+  {
+    "id": "341",
+    "name": "DeepCool CH780 WH ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 480,
+    "price": 17400
+  },
+  {
+    "id": "342",
+    "name": "Corsair Frame 5000D RS Black ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 17900
+  },
+  {
+    "id": "343",
+    "name": "Nzxt H9 Flow RGB 2025 Edition E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 435,
+    "price": 18120
+  },
+  {
+    "id": "344",
+    "name": "Lian Li O11 Dynamic EVO RGB E-ATX White Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 455,
+    "price": 18160
+  },
+  {
+    "id": "345",
+    "name": "Lian Li O11 Dynamic EVO RGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 455,
+    "price": 18160
+  },
+  {
+    "id": "346",
+    "name": "Phanteks Enthoo Evolv X Matte White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 435,
+    "price": 18380
+  },
+  {
+    "id": "347",
+    "name": "Nzxt H9 Flow RGB 2025 Edition E-ATX White Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 435,
+    "price": 18600
+  },
+  {
+    "id": "348",
+    "name": "Cooler Master MasterFrame 360 Panorama ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 18850
+  },
+  {
+    "id": "349",
+    "name": "Cooler Master MasterFrame 600 Mesh ARGB Silver E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 19100
+  },
+  {
+    "id": "350",
+    "name": "Cooler Master MasterFrame 600 Mesh ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 19100
+  },
+  {
+    "id": "351",
+    "name": "Corsair Air 5400 RS-R ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 19400
+  },
+  {
+    "id": "352",
+    "name": "Corsair Air 5400 RS-R ARGB E-ATX White Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 19400
+  },
+  {
+    "id": "353",
+    "name": "CORSAIR 5000T E-ATX Mid Tower White Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 20050
+  },
+  {
+    "id": "354",
+    "name": "Cooler Master MasterFrame 600 ARGB Silver E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 20440
+  },
+  {
+    "id": "355",
+    "name": "Arctic Xtender VG ARGB E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 20799
+  },
+  {
+    "id": "356",
+    "name": "HYTE Y70 Blueberry Milk E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "357",
+    "name": "HYTE Y70 Strawberry Milk E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "358",
+    "name": "HYTE Y70 E-ATX Mid Tower Taro Milk Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "359",
+    "name": "Hyte Y70 Black and White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "360",
+    "name": "Hyte Y70 E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "361",
+    "name": "Hyte Y70 White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 20999
+  },
+  {
+    "id": "362",
+    "name": "Arctic Xtender VG ARGB Mirror Black E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 21399
+  },
+  {
+    "id": "363",
+    "name": "Arctic Xtender VG ARGB White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 21999
+  },
+  {
+    "id": "364",
+    "name": "Lian Li O11 Dynamic EVO XL ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 460,
+    "price": 23000
+  },
+  {
+    "id": "365",
+    "name": "Lian Li O11 Dynamic EVO XL ARGB White E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 460,
+    "price": 23000
+  },
+  {
+    "id": "366",
+    "name": "Asus ProArt PA602 E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 450,
+    "price": 23080
+  },
+  {
+    "id": "367",
+    "name": "Cooler Master MasterFrame 360 Stage LCD ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 400,
+    "price": 24800
+  },
+  {
+    "id": "368",
+    "name": "Cooler Master HAF 700 Titanium Grey ARGB E-ATX Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 490,
+    "price": 24800
+  },
+  {
+    "id": "369",
+    "name": "Antec Performance 1 M Aventurine M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 350,
+    "price": 25960
+  },
+  {
+    "id": "370",
+    "name": "Antec Performance 1 M Black M-ITX Mini Tower Case",
+    "form_factor": "Mini Tower",
+    "max_gpu_length": 350,
+    "price": 25960
+  },
+  {
+    "id": "371",
+    "name": "Thermaltake AX700 TG Workstation Super Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 600,
+    "price": 29140
+  },
+  {
+    "id": "372",
+    "name": "Dawg Y 990 ARGB E-ATX Mid Tower Case with Pre-installed 360mm AIO Cooler",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 34999
+  },
+  {
+    "id": "373",
+    "name": "Dawg Y 990 ARGB E-ATX Mid Tower White Case with Pre-installed 360mm AIO Cooler",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 420,
+    "price": 35999
+  },
+  {
+    "id": "374",
+    "name": "Hyte Y70 Touch Infinite Black Cherry E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 43999
+  },
+  {
+    "id": "375",
+    "name": "Hyte Y70 Touch Infinite E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 43999
+  },
+  {
+    "id": "376",
+    "name": "Hyte Y70 Touch Infinite Panda E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 43999
+  },
+  {
+    "id": "377",
+    "name": "Hyte Y70 Touch Infinite White E-ATX Mid Tower Case",
+    "form_factor": "Mid Tower",
+    "max_gpu_length": 390,
+    "price": 43999
+  },
+  {
+    "id": "378",
+    "name": "CORSAIR 9000D RGB Airflow Super Full Tower Case",
+    "form_factor": "Full Tower",
+    "max_gpu_length": 530,
+    "price": 47000
+  }
+]

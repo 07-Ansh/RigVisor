@@ -1,0 +1,2337 @@
+[
+    {
+        "id": "1",
+        "name": "Asus GT 710 2GB DDR5 Graphics Card",
+        "chipset": "GeForce GT 710",
+        "vram": 2,
+        "length": 167,
+        "tdp": 19,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 3400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Gigabyte GT 710 2GB DDR3 Gaming Graphics Card",
+        "chipset": "GeForce GT 710",
+        "vram": 2,
+        "length": 145,
+        "tdp": 19,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 3425,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Msi GT 710 2GB Graphics Card",
+        "chipset": "GeForce GT 710",
+        "vram": 2,
+        "length": 146,
+        "tdp": 19,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 3760,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "4",
+        "name": "PowerColor RX 550 Red Dragon 2GB GDDR5 Low Profile Graphics Card",
+        "chipset": "Radeon RX 550",
+        "vram": 2,
+        "length": 152,
+        "tdp": 50,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 4950,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Asus GT 1030 2GB Graphics Card",
+        "chipset": "GeForce GT 1030",
+        "vram": 2,
+        "length": 184,
+        "tdp": 30,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 6600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "6",
+        "name": "MSI GT 730 4GB Graphics Card",
+        "chipset": "GeForce GT 730",
+        "vram": 4,
+        "length": 146,
+        "tdp": 38,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 6900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "7",
+        "name": "PowerColor RX 550 2GB Low Profile OEM Graphics Card",
+        "chipset": "Radeon RX 550",
+        "vram": 2,
+        "length": 152,
+        "tdp": 50,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 6999,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "8",
+        "name": "ASRock RX 550 Phantom Gaming 4GB Graphics Card",
+        "chipset": "Radeon RX 550",
+        "vram": 4,
+        "length": 170,
+        "tdp": 50,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 7000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "9",
+        "name": "PNY Quadro T400 4GB GDDR6 Graphics Card",
+        "chipset": "NVIDIA T400",
+        "vram": 4,
+        "length": 156,
+        "tdp": 30,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 13700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Pny Quadro NVS510 2GB",
+        "chipset": "NVIDIA NVS 510",
+        "vram": 2,
+        "length": 160,
+        "tdp": 35,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 13999
+    },
+    {
+        "id": "11",
+        "name": "NVIDIA Quadro RTX A400 4GB GDDR6 Graphics Card",
+        "chipset": "NVIDIA RTX A400",
+        "vram": 4,
+        "length": 163,
+        "tdp": 50,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 14150,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "12",
+        "name": "INNO3D GeForce RTX 3050 Twin X2 V2 6GB Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 222,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 15970,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "13",
+        "name": "ZOTAC Gaming GeForce RTX 3050 Twin Edge OC 6GB GDDR6 GPU",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 224,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 15995,
+        "image": "GPUs/imgi_4_gigabyte-geforce-rtx-3050-gaming-oc-8gb-128-bit-hero-1759906736314.webp"
+    },
+    {
+        "id": "14",
+        "name": "Gigabyte RTX 3050 Windforce OC V2 6GB Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 191,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 16400,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "15",
+        "name": "MSI RTX 3050 Ventus 2X OC 6GB Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 235,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 16499,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "16",
+        "name": "MSI GeForce RTX 3050 Ventus 2X E 6GB OC GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 205,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 16499,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "17",
+        "name": "Asus Dual RTX 3050 OC Edition 6GB Gaming Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 200,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 16610,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Asus RTX 3050 LP BRK OC 6GB GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 3050 (6GB)",
+        "vram": 6,
+        "length": 182,
+        "tdp": 70,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 17500,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "19",
+        "name": "Gigabyte RTX 3050 Windforce OC V2 8GB Gaming Graphics Card",
+        "chipset": "GeForce RTX 3050 (8GB)",
+        "vram": 8,
+        "length": 243,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 21075,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "20",
+        "name": "MSI RTX 3050 Ventus 2X XS OC 8GB Graphics Card",
+        "chipset": "GeForce RTX 3050 (8GB)",
+        "vram": 8,
+        "length": 205,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 21700,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "21",
+        "name": "Asus Dual RTX 3050 V2 OC Edition 8GB Graphics Card",
+        "chipset": "GeForce RTX 3050 (8GB)",
+        "vram": 8,
+        "length": 200,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 22000,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "22",
+        "name": "ASUS Dual RX 7600 EVO OC 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 7600",
+        "vram": 8,
+        "length": 229,
+        "tdp": 165,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 23499,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "23",
+        "name": "Inno3d RTX 3060 Twin X2 LHR 12GB Graphics Card",
+        "chipset": "GeForce RTX 3060",
+        "vram": 12,
+        "length": 240,
+        "tdp": 170,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 23700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "24",
+        "name": "Gigabyte RX 7600 Gaming OC 8GB Graphics Card",
+        "chipset": "Radeon RX 7600",
+        "vram": 8,
+        "length": 282,
+        "tdp": 165,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 24110,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "25",
+        "name": "MSI RTX 3060 Ventus 2X OC LHR 12GB Gaming Graphics Card",
+        "chipset": "GeForce RTX 3060",
+        "vram": 12,
+        "length": 235,
+        "tdp": 170,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 26500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "26",
+        "name": "MSI RTX 5050 Shadow 2X OC 8GB GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 5050",
+        "vram": 8,
+        "length": 197,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 26950,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "27",
+        "name": "MSI RTX 5050 Ventus 2X OC 8GB GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 5050",
+        "vram": 8,
+        "length": 205,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 28150,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "28",
+        "name": "Zotac RTX 5050 Twin Edge OC 8GB GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 5050",
+        "vram": 8,
+        "length": 222,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 28525,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "29",
+        "name": "INNO3D RTX 5060 Twin X2 SFF 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 210,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 30600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "30",
+        "name": "INNO3D RTX 5060 Twin X2 OC White SFF 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 210,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 30960,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "31",
+        "name": "ASRock RX 9060 XT Challenger OC 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 249,
+        "tdp": 150,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 31270,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "32",
+        "name": "INNO3D RTX 5060 Twin X2 OC SFF 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 210,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 31560,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "33",
+        "name": "Sapphire Pulse RX 9060 XT OC 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 244,
+        "tdp": 170,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 31610,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "34",
+        "name": "ZOTAC Gaming RTX 5060 Twin Edge 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 222,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 32015,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "35",
+        "name": "MSI RTX 5060 Shadow 2X OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 197,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 32075,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "36",
+        "name": "PowerColor Reaper RX 9060 XT 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 220,
+        "tdp": 150,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 32320,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "37",
+        "name": "MSI RTX 5060 Ventus 2X OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 205,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 32776,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "38",
+        "name": "ASUS Dual RX 9060 XT 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 202,
+        "tdp": 150,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 33170,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "39",
+        "name": "ZOTAC Gaming RTX 5060 Twin Edge OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 222,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 33400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "40",
+        "name": "MSI RTX 5060 Ventus 2X OC White 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 205,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 33540,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "41",
+        "name": "ASRock RX 9060 XT Steel Legend OC 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 298,
+        "tdp": 160,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 33650,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "42",
+        "name": "Gigabyte RX 9060 XT Gaming OC 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 281,
+        "tdp": 160,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 34315,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "43",
+        "name": "ZOTAC RTX 5060 Twin Edge OC White 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 222,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 34475,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "44",
+        "name": "ASUS Dual RTX 5060 OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 203,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 34800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "45",
+        "name": "MSI RTX 5060 Inspire 2X OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 204,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 35220,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "46",
+        "name": "NVIDIA Quadro RTX A1000 8GB GDDR6 Graphics Card",
+        "chipset": "NVIDIA RTX A1000",
+        "vram": 8,
+        "length": 169,
+        "tdp": 60,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 35580,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "47",
+        "name": "ZOTAC RTX 5060 AMP 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 235,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 35625,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "48",
+        "name": "ASUS Prime RX 9060 XT OC Edition 8GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 8,
+        "length": 304,
+        "tdp": 160,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 35895,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "49",
+        "name": "PNY Quadro T1000 8GB GDDR6 Graphics Card",
+        "chipset": "NVIDIA T1000",
+        "vram": 8,
+        "length": 156,
+        "tdp": 50,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 36100,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "50",
+        "name": "MSI RTX 5060 Gaming OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 247,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 36350,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "51",
+        "name": "ASUS Prime RTX 5060 OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060",
+        "vram": 8,
+        "length": 269,
+        "tdp": 145,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 37980,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "52",
+        "name": "Sapphire Pulse RX 9060 XT OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 16,
+        "length": 244,
+        "tdp": 160,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 39600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "53",
+        "name": "Gigabyte RTX 5060 Ti Windforce 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 240,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 40160,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "54",
+        "name": "INNO3D RTX 5060 Ti Twin X2 OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 240,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 40200,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "55",
+        "name": "Gigabyte RTX 5060 Ti Windforce OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 240,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 40750,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "56",
+        "name": "Sapphire Pure RX 9060 XT OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 16,
+        "length": 250,
+        "tdp": 170,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 41100,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "57",
+        "name": "ZOTAC RTX 5060 Ti Twin Edge 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 226,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 41220,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "58",
+        "name": "Gigabyte RTX 5060 Ti Eagle OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 282,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 41400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "59",
+        "name": "MSI RTX 5060 Ti Shadow 2X OC Plus 8GB GDDR6 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 235,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 41520,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "60",
+        "name": "ZOTAC RTX 5060 Ti Twin Edge OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 226,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 42235,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "61",
+        "name": "ASUS Dual RTX 5060 Ti OC Edition 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 227,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 42350,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "62",
+        "name": "ZOTAC Gaming RTX 5060 Ti AMP 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 231,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 43260,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "63",
+        "name": "Sapphire Nitro Plus RX 9060 XT OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9060 XT",
+        "vram": 16,
+        "length": 320,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 43300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "64",
+        "name": "Gigabyte RTX 5060 Ti Eagle OC Ice 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 282,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 43900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "65",
+        "name": "MSI RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 232,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 44600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "66",
+        "name": "MSI RTX 5060 Ti Inspire 2X OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 204,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 45300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "67",
+        "name": "Gigabyte RTX 5060 Ti Aero OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 281,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 47095,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "68",
+        "name": "MSI RTX 5060 Ti Gaming OC 8GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 8,
+        "length": 247,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 47220,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "69",
+        "name": "INNO3D RTX 5060 Ti Twin X2 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 250,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 48200,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "70",
+        "name": "INNO3D RTX 5060 Ti Twin X2 OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 250,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 49080,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "71",
+        "name": "INNO3D RTX 5060 Ti Twin X2 OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 250,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 49260,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "72",
+        "name": "ZOTAC Gaming RTX 5060 Ti Twin Edge 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 226,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 49700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "73",
+        "name": "Asus Dual RTX 5060 Ti 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 227,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 50700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "74",
+        "name": "ZOTAC RTX 5060 Ti Twin Edge OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 226,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 50750,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "75",
+        "name": "Gigabyte RTX 5060 Ti Windforce 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 240,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 51350,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "76",
+        "name": "Zotac RTX 5060 Ti Twin Edge OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 226,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 52150,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "77",
+        "name": "ZOTAC RTX 5060 Ti AMP 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 231,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 52650,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "78",
+        "name": "Gigabyte RTX 5060 Ti Windforce Max OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 265,
+        "tdp": 185,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 53000,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "79",
+        "name": "MSI RTX 5060 Ti Shadow 2X OC Plus 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 235,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 53000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "80",
+        "name": "MSI RTX 5060 Ti Ventus 2X OC Plus 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 232,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 53880,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "81",
+        "name": "MSI RTX 5060 Ti Inspire 2X OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 204,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 55500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "82",
+        "name": "Gigabyte RTX 5060 Ti Eagle OC ICE 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 282,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 57250,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "83",
+        "name": "Inno3d RTX 5070 Twin X2 SFF 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 250,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 57640,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "84",
+        "name": "INNO3D RTX 5070 Twin X2 OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 250,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 58600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "85",
+        "name": "INNO3D RTX 5070 Twin X2 OC White 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 250,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 60040,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "86",
+        "name": "MSI RTX 5070 Shadow 2X OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 242,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 60400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "87",
+        "name": "MSI Geforce RTX 5070 Ventus 2X OC 12G GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 232,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 60532,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "88",
+        "name": "Zotac RTX 5070 Twin Edge 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 234,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 61300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "89",
+        "name": "MSI RTX 5060 Ti Gaming Trio OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5060 Ti",
+        "vram": 16,
+        "length": 323,
+        "tdp": 180,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 61500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "90",
+        "name": "Zotac RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 234,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 62800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "91",
+        "name": "Zotac Gaming RTX 5070 Solid 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 300,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 62966,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "92",
+        "name": "MSI RTX 5070 Ventus 2X OC White 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 232,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 63140,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "93",
+        "name": "Zotac Gaming RTX 5070 Solid OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 300,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 64500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "94",
+        "name": "Gigabyte RTX 5070 Eagle OC SFF 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 261,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 64575,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "95",
+        "name": "Gigabyte RTX 5070 Gaming OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 286,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 66160,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "96",
+        "name": "MSI RTX 5070 Ventus 3X OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 308,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 67940,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "97",
+        "name": "MSI RTX 5070 Shadow 3X OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 310,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 68200,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "98",
+        "name": "MSI RTX 5070 Inspire 3X OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 305,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 68780,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "99",
+        "name": "Zotac RTX 5070 AMP White Edition 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 295,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 69999,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Sapphire Pulse RX 9070 XT 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9070 XT",
+        "vram": 16,
+        "length": 280,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 71500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "101",
+        "name": "MSI RTX 5070 Gaming Trio OC 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 323,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 71540,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "102",
+        "name": "MSI RTX 5070 Gaming Trio OC White 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 323,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 73000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Sapphire Nitro Plus RX 9070 OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9070",
+        "vram": 16,
+        "length": 320,
+        "tdp": 230,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 73900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Sapphire Pure RX 9070 XT OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9070 XT",
+        "vram": 16,
+        "length": 310,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 74300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Sapphire Nitro Plus RX 9070 XT OC 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9070 XT",
+        "vram": 16,
+        "length": 320,
+        "tdp": 250,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 79600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "106",
+        "name": "ASUS TUF Gaming RX 9070 XT OC Edition 16GB GDDR6 Graphics Card",
+        "chipset": "Radeon RX 9070 XT",
+        "vram": 16,
+        "length": 320,
+        "tdp": 260,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 2,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 81700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Gigabyte Aorus RTX 5070 Master 12GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070",
+        "vram": 12,
+        "length": 342,
+        "tdp": 260,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 81945,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Zotac Gaming RTX 5070 Ti Solid SFF 16GB Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 303,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 87538,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "109",
+        "name": "MSI RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 315,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 87740,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "110",
+        "name": "MSI RTX 5070 Ti Ventus 3X OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 308,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 87942,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Zotac RTX 5070 Ti Solid SFF OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 303,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 92900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "112",
+        "name": "MSI RTX 5070 Ti Inspire 3X OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 310,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 93400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "113",
+        "name": "GALAX RTX 5070 Ti EX 1-Click OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 315,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 96500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Zotac RTX 5070 Ti Solid Core OC White Edition 16GB Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 303,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 97000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "115",
+        "name": "MSI RTX 5070 Ti Ventus 3X PZ OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 308,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 98200,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "116",
+        "name": "MSI RTX 5070 Ti Expert OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 312,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 98800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "117",
+        "name": "Gigabyte RTX 5070 Ti Aero OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 300,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 100600,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "118",
+        "name": "MSI RTX 5070 Ti Gaming Trio OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 337,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 101060,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "119",
+        "name": "Zotac RTX 5070 Ti AMP Extreme Infinity 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 355,
+        "tdp": 320,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 101205,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "120",
+        "name": "MSI RTX 5070 Ti MLG Edition OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5070 Ti",
+        "vram": 16,
+        "length": 337,
+        "tdp": 300,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 110800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "121",
+        "name": "PNY RTX 5080 OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 331,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 114500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "122",
+        "name": "INNO3D RTX 5080 X3 OC 16GB GDDR7 SFF Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 310,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 115700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "123",
+        "name": "Inno3d RTX 5080 X3 OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 310,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 119300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "124",
+        "name": "NVIDIA Quadro RTX 4000 ADA Generation 20GB GDDR6 Graphics Card",
+        "chipset": "NVIDIA RTX 4000 Ada",
+        "vram": 20,
+        "length": 241,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 1,
+            "pcie_12V_2x6": 0
+        },
+        "price": 121700,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "125",
+        "name": "Gigabyte RTX 5080 WindForce OC SFF 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 310,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 122470,
+        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+    },
+    {
+        "id": "126",
+        "name": "PNY Nvidia Quadro RTX 4000 Ada 20GB Graphics Card",
+        "chipset": "NVIDIA RTX 4000 Ada",
+        "vram": 20,
+        "length": 241,
+        "tdp": 130,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 1,
+            "pcie_12V_2x6": 0
+        },
+        "price": 126500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "127",
+        "name": "INNO3D RTX 5080 ichill X3 16GB Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 320,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 128900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "128",
+        "name": "MSI RTX 5080 Inspire 3X OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 315,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 131180,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "129",
+        "name": "MSI RTX 5080 Ventus 3X OC Plus 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 322,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 131800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "130",
+        "name": "MSI RTX 5080 Ventus 3X OC White 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 322,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 131800,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "131",
+        "name": "MSI RTX 5080 Expert OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 312,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 135400,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "132",
+        "name": "Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 320,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 136850,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "133",
+        "name": "GALAX RTX 5080 1-Click OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 320,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 141500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "134",
+        "name": "Zotac Gaming RTX 5080 Solid OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 330,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 155900,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "135",
+        "name": "MSI RTX 5080 Gaming Trio OC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 337,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 164300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "136",
+        "name": "MSI RTX 5080 Gaming Trio OC 16GB GDDR7 White Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 337,
+        "tdp": 400,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 169100,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "137",
+        "name": "MSI RTX 5080 Suprim SOC 16GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5080",
+        "vram": 16,
+        "length": 338,
+        "tdp": 420,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 185300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "138",
+        "name": "Inno3d RTX 5090 X3 OC 32GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5090",
+        "vram": 32,
+        "length": 340,
+        "tdp": 575,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 280100,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "139",
+        "name": "Zotac Gaming RTX 5090 Solid OC 32GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5090",
+        "vram": 32,
+        "length": 330,
+        "tdp": 575,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 296300,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "140",
+        "name": "Zotac RTX 5090 AMP Extreme Infinity 32GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5090",
+        "vram": 32,
+        "length": 355,
+        "tdp": 600,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 311500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "141",
+        "name": "MSI RTX 5090 Vanguard SOC 32GB GDDR7 Graphics Card",
+        "chipset": "GeForce RTX 5090",
+        "vram": 32,
+        "length": 340,
+        "tdp": 575,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 1
+        },
+        "price": 340000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "51",
+        "name": "Gigabyte GeForce RTX 4060 EAGLE OC 8G",
+        "chipset": "GeForce RTX 4060",
+        "vram": 8,
+        "length": 272,
+        "tdp": 115,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 29500,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "52",
+        "name": "Gigabyte GeForce RTX 4070 Ti EAGLE OC 12G",
+        "chipset": "GeForce RTX 4070 Ti",
+        "vram": 12,
+        "length": 261,
+        "tdp": 285,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 1,
+            "pcie_12V_2x6": 0
+        },
+        "price": 78000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "53",
+        "name": "Gigabyte GeForce RTX 4080 SUPER WINDFORCE V2 16G",
+        "chipset": "GeForce RTX 4080 Super",
+        "vram": 16,
+        "length": 330,
+        "tdp": 320,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 1,
+            "pcie_12V_2x6": 0
+        },
+        "price": 105000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "101",
+        "name": "NVIDIA GeForce RTX 4060 Ti 16GB",
+        "chipset": "GeForce RTX 4060 Ti",
+        "vram": 16,
+        "length": 250,
+        "tdp": 165,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 1,
+            "pcie_12VHPWR": 0,
+            "pcie_12V_2x6": 0
+        },
+        "price": 45000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    },
+    {
+        "id": "102",
+        "name": "ASUS ROG Strix GeForce RTX 4090 OC Edition",
+        "chipset": "GeForce RTX 4090",
+        "vram": 24,
+        "length": 358,
+        "tdp": 450,
+        "power_connectors": {
+            "pcie_6_pin": 0,
+            "pcie_8_pin": 0,
+            "pcie_12VHPWR": 1,
+            "pcie_12V_2x6": 0
+        },
+        "price": 220000,
+        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+    }
+]

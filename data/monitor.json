@@ -1,0 +1,1064 @@
+[
+    {
+        "id": "1",
+        "name": "BenQ MOBIUZ EX271Q 27” 2K QHD 180Hz Gaming Monitor",
+        "price": 35990,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "2",
+        "name": "BenQ MOBIUZ EX271U 27” 4K UHD 165Hz Gaming Monitor",
+        "price": 64990,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "165Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "3",
+        "name": "LG Ultragear 24GS65F IPS Full HD Gaming Monitor",
+        "price": 20000,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "4",
+        "name": "MSI MAG 255F E20 24.5-Inch FHD 1920x1080 Gaming Monitor",
+        "price": 12999,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "5",
+        "name": "Acer Nitro KG271 X1 27 Inch IPS Full HD Gaming Monitor",
+        "price": 13000,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "6",
+        "name": "BenQ Zowie XL2566X+ Fast TN 400Hz Gaming Monitor",
+        "price": 77500,
+        "size": "24.1 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "400Hz",
+        "panel_type": "Fast TN"
+    },
+    {
+        "id": "7",
+        "name": "Acer Nitro VG240Y X1 23.8 Inch IPS Full HD Gaming Monitor",
+        "price": 12999,
+        "size": "23.8 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "8",
+        "name": "AOC 24G42E 24 inch FHD Fast IPS Gaming Monitor",
+        "price": 23990,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "9",
+        "name": "LG 27GS65F 27 Inch Ultragear IPS Full HD Gaming Monitor",
+        "price": 23500,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "10",
+        "name": "Samsung Odyssey G5 Curved Gaming Monitor (LC34G55TWWWXXL)",
+        "price": 55300,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "165Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "11",
+        "name": "LG Ultragear 32GS60QC QHD 1000R Curved Gaming Monitor",
+        "price": 60000,
+        "size": "32 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "12",
+        "name": "BenQ Zowie XL2566X+ Fast TN 400Hz Gaming Monitor",
+        "price": 77500,
+        "size": "24.1 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "400Hz",
+        "panel_type": "Fast TN"
+    },
+    {
+        "id": "13",
+        "name": "Samsung Odyssey G5 2K Curved Gaming Monitor (LS27CG550EWXXL)",
+        "price": 45100,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "165Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "14",
+        "name": "Alienware AW2525HM 25\" FHD 320Hz Gaming Monitor",
+        "price": 22623,
+        "size": "25 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "320Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "15",
+        "name": "Acer Nitro VG271U M3 27 Inch IPS WQHD Gaming Monitor",
+        "price": 23999,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "16",
+        "name": "LG 27GS75Q-B Ultragear QHD IPS Gaming Monitor",
+        "price": 32000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "17",
+        "name": "Acer ED270U S3 27 Inch WQHD Curved Gaming Monitor",
+        "price": 19999,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "18",
+        "name": "Acer ED270 Z 27 Inch Full HD Curved Gaming Monitor",
+        "price": 21000,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "280Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "19",
+        "name": "Lenovo Legion R25f-30 25 Inch FHD Gaming Monitor",
+        "price": 34000,
+        "size": "25 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "20",
+        "name": "Dell SE2425HG 23.8\" FHD IPS Gaming Monitor",
+        "price": 16799,
+        "size": "23.8 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "21",
+        "name": "Zebronics S27A 27\" Gaming Monitor",
+        "price": 28999,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "220Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "22",
+        "name": "Samsung M8 Vision AI Smart Monitor (LS32FM801UWXXL)",
+        "price": 98500,
+        "size": "32 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "23",
+        "name": "Samsung Odyssey G7 4K Smart Gaming Monitor (LS27DG700EWXXL)",
+        "price": 108900,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "144Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "24",
+        "name": "ViewSonic XG2409 24 Inch FHD IPS Gaming Monitor",
+        "price": 20200,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "25",
+        "name": "Dell SE2725HG 27\" FHD IPS Gaming Monitor",
+        "price": 20999,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "26",
+        "name": "Lenovo Legion R27q-30 27 Inch 2K QHD Gaming Monitor",
+        "price": 29890,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "27",
+        "name": "Lenovo Legion R24e 24\" FHD Gaming Monitor",
+        "price": 12490,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "28",
+        "name": "Lenovo Legion R27fc-30 27 Inch FHD Gaming Monitor",
+        "price": 23690,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "29",
+        "name": "Acer ED320Q X2 31.5 Inch FHD Curved Gaming Monitor",
+        "price": 22999,
+        "size": "31.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "30",
+        "name": "ZEBRONICS N25A 25\" Gaming Monitor",
+        "price": 23999,
+        "size": "25 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "31",
+        "name": "Samsung Odyssey G4 IPS Gaming Monitor (LS25BG400EWXXL)",
+        "price": 40700,
+        "size": "25 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "32",
+        "name": "LG 24G411A-B 24-inch Ultragear FHD IPS Gaming Monitor",
+        "price": 20000,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "144Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "33",
+        "name": "MSI MAG 255PXF 24.5 Inch FHD Gaming Monitor",
+        "price": 12000,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "300Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "34",
+        "name": "ASUS ROG Strix XG27ACS 27” QHD Gaming Monitor",
+        "price": 37706,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "35",
+        "name": "MSI MAG 274QRFW 27 Inch WQHD Gaming Monitor",
+        "price": 50000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "36",
+        "name": "Acer Nitro VG270 X1 27 Inch IPS Full HD Gaming Monitor",
+        "price": 12000,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "37",
+        "name": "Alienware AW3225QF 32\" 4K QD-OLED Gaming Monitor",
+        "price": 116157,
+        "size": "32 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "38",
+        "name": "Samsung Odyssey G3 Gaming Monitor (LS27DG300EWXXL)",
+        "price": 24800,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "39",
+        "name": "MSI Modern MD271UL 27 Inch 4K UHD IPS Monitor",
+        "price": 43000,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "40",
+        "name": "BenQ MOBIUZ EX271 27” FHD Gaming Monitor",
+        "price": 22990,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "41",
+        "name": "Samsung Odyssey G5 Fast IPS 2K Gaming Monitor (LS27DG502EWXXL)",
+        "price": 80000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "42",
+        "name": "Acer EK240Y P6 23.8 Inch IPS Full HD Monitor",
+        "price": 12000,
+        "size": "23.8 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "144Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "43",
+        "name": "Samsung Odyssey OLED G9 Curved Gaming Monitor (LS49DG930SWXXL)",
+        "price": 247000,
+        "size": "49 inch",
+        "resolution": "5120 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "OLED"
+    },
+    {
+        "id": "44",
+        "name": "ViewSonic VX2479A-HD-PRO 24'' FHD IPS Gaming Monitor",
+        "price": 13900,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "45",
+        "name": "Predator XB253Q F3 24.5 Inch IPS FHD Gaming Monitor",
+        "price": 19000,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "320Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "46",
+        "name": "Acer Nitro XV272U X1 27 Inch WQHD IPS Gaming Monitor",
+        "price": 19999,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "200Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "47",
+        "name": "Acer ED343CUR J 34 Inch UWQHD Curved Monitor",
+        "price": 26999,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "120Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "48",
+        "name": "AOC 22E2H 22\" Gaming Monitor",
+        "price": 14790,
+        "size": "22 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "175Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "49",
+        "name": "FRONTECH 22 Inch LED Monitor (MON-0091)",
+        "price": 10000,
+        "size": "22 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "50",
+        "name": "Samsung Odyssey G9 Curved Gaming Monitor (LS49FG910EWXXL)",
+        "price": 175000,
+        "size": "49 inch",
+        "resolution": "5120 x 1440",
+        "refresh_rate": "144Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "51",
+        "name": "Alienware AW3423DWF 34\" Curved QD-OLED Gaming Monitor",
+        "price": 111842,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "165Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "52",
+        "name": "Lenovo Legion-R32qc-30 32\" QHD Curved Gaming Monitor",
+        "price": 32390,
+        "size": "32 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "53",
+        "name": "Samsung Odyssey G8 QD-OLED 4K Gaming Monitor (LS27FG810SWXXL)",
+        "price": 195000,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "54",
+        "name": "BenQ MOBIUZ EX251 24.5” FHD Gaming Monitor",
+        "price": 19990,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "220Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "55",
+        "name": "Acer EK220Q 21.5 Inch Full HD VA Monitor",
+        "price": 7699,
+        "size": "21.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "56",
+        "name": "Kreo Obsidian 27 Inch 2K QHD Gaming Monitor",
+        "price": 30000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "200Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "57",
+        "name": "Samsung Odyssey G5 Fast IPS 2K Gaming Monitor (LS32DG500EWXXL)",
+        "price": 59600,
+        "size": "32 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "58",
+        "name": "MSI MAG 274URFW 27 Inch 4K UHD Gaming Monitor",
+        "price": 69999,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "160Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "59",
+        "name": "AOC 24G4 24 inch FHD Fast IPS Gaming Monitor",
+        "price": 24990,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "60",
+        "name": "ZEBRONICS A24FHD LED Monitor",
+        "price": 24999,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "61",
+        "name": "AOC 22B30HM2 21.5\" Full HD Gaming Monitor",
+        "price": 13790,
+        "size": "21.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "62",
+        "name": "MSI MAG 27CQ6F 27 Inch 2K WQHD Curved Gaming Monitor",
+        "price": 34000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Rapid VA"
+    },
+    {
+        "id": "63",
+        "name": "FRONTECH 27″ QHD 2K Gaming Monitor (MON-0052P)",
+        "price": 23000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "64",
+        "name": "FRONTECH 27-inch Curved Gaming Monitor (MON-0052)",
+        "price": 15000,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "65",
+        "name": "Acer Nitro XV272K V5 27 Inch UHD IPS Gaming Monitor",
+        "price": 39999,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "160Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "66",
+        "name": "FRONTECH 22-inch Curved FHD Monitor (MON-0079C)",
+        "price": 19500,
+        "size": "22 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "75Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "67",
+        "name": "Lenovo Legion 27Q-10 27\" QHD IPS Gaming Monitor",
+        "price": 22690,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "68",
+        "name": "LG Ultragear 27GS65F IPS Full HD Gaming Monitor",
+        "price": 23500,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "69",
+        "name": "Acer Nitro XV272U F3 27 inch WQHD IPS Gaming Monitor",
+        "price": 32999,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "300Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "70",
+        "name": "MSI MAG 271QPX QD-OLED E2 26.5-inch Gaming Monitor",
+        "price": 116000,
+        "size": "26.5 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "71",
+        "name": "Samsung Odyssey G5 Gaming Monitor (LS27FG510EWXXL)",
+        "price": 85550,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "72",
+        "name": "Samsung 24\" S3 Flat Monitor (LS24D300GAWXXL)",
+        "price": 15200,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "73",
+        "name": "AOC C27G4Z 27\" FHD Curved Monitor",
+        "price": 41990,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "280Hz",
+        "panel_type": "Fast VA"
+    },
+    {
+        "id": "74",
+        "name": "Samsung M7 Vision AI Smart Monitor (LS43FM701UWXXL)",
+        "price": 67740,
+        "size": "43 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "75",
+        "name": "ViewSonic VX2758A-2K-PRO-3 27 Inch QHD Gaming Monitor",
+        "price": 36000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "76",
+        "name": "MSI MAG 274QRF QD E2 27 Inch 2K WQHD Gaming Monitor",
+        "price": 39999,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "77",
+        "name": "ASUS ROG Swift OLED PG32UCDM Gaming Monitor",
+        "price": 230000,
+        "size": "32 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "78",
+        "name": "Acer GA321QU 31.5 Inch WQHD VA Gaming Smart Monitor",
+        "price": 36999,
+        "size": "31.5 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "79",
+        "name": "Acer Nitro ED270 X0 27 inch FHD VA Curved Gaming Monitor",
+        "price": 14999,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "200Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "80",
+        "name": "Samsung Odyssey G5 2K Curved Gaming Monitor (LS32CG550EWXXL)",
+        "price": 49700,
+        "size": "32 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "165Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "81",
+        "name": "ZEBRONICS Zeb-V19Hd 18.5 Inch LED Monitor",
+        "price": 6999,
+        "size": "18.5 inch",
+        "resolution": "1366 x 768",
+        "refresh_rate": "60Hz",
+        "panel_type": "TN"
+    },
+    {
+        "id": "82",
+        "name": "LG 34GP63A 34 Inch Ultragear Curved Gaming Monitor",
+        "price": 34000,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "160Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "83",
+        "name": "BenQ Zowie XL2566X+ Fast TN 400Hz Gaming Monitor",
+        "price": 77500,
+        "size": "24.1 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "400Hz",
+        "panel_type": "Fast TN"
+    },
+    {
+        "id": "84",
+        "name": "LG 29WQ500 29 Inch UltraWide FHD IPS Monitor",
+        "price": 23500,
+        "size": "29 inch",
+        "resolution": "2560 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "85",
+        "name": "Acer EK240Y G0 23.8 Inch IPS Full HD Monitor",
+        "price": 8000,
+        "size": "23.8 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "120Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "86",
+        "name": "MSI MPG 341CQPX QD-OLED 34 Inch Curved Gaming Monitor",
+        "price": 164000,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "87",
+        "name": "AOC C32G2ZE2 32\" FHD Curved Gaming Monitor",
+        "price": 45990,
+        "size": "32 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "250Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "88",
+        "name": "Alienware AW2725DM 27\" QHD Fast IPS Monitor",
+        "price": 33038,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "89",
+        "name": "LG Ultragear 27GP750-B 27 Inch FHD Gaming Monitor",
+        "price": 39000,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "90",
+        "name": "LG 27MS550 27 Inch IPS Full HD Monitor",
+        "price": 19500,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "91",
+        "name": "MSI MAG 342CQR E2 34 Inch 2K UWQHD Curved Gaming Monitor",
+        "price": 49999,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "92",
+        "name": "ViewSonic VX2779-HD-PRO 27 Inch FHD IPS Gaming Monitor",
+        "price": 20600,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "93",
+        "name": "Acer Nitro XV275K P5 27 Inch 4K Mini LED Gaming Monitor",
+        "price": 54999,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "160Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "94",
+        "name": "MSI MAG 321UPX QD-OLED 31.5 Inch 4K UHD Gaming Monitor",
+        "price": 150000,
+        "size": "31.5 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "95",
+        "name": "MSI PRO MP223 E2 21.45 Inch FHD Monitor",
+        "price": 10999,
+        "size": "21.45 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "96",
+        "name": "ViewSonic VX2779A-HD-PRO 27 inch FHD IPS Gaming Monitor",
+        "price": 20100,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "97",
+        "name": "BenQ GW2790Q 27 Inch 2K QHD IPS Monitor",
+        "price": 22990,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "98",
+        "name": "LG 39GS95QE 39 inch OLED WQHD Curved Gaming Monitor",
+        "price": 190000,
+        "size": "39 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "240Hz",
+        "panel_type": "OLED"
+    },
+    {
+        "id": "99",
+        "name": "BenQ EW2790U 27” 4K UHD Entertainment Monitor",
+        "price": 38500,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "100",
+        "name": "Acer ED320QR H 31.5 Inch Full HD Curved Monitor",
+        "price": 16999,
+        "size": "31.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "101",
+        "name": "Acer EI491CR S 49 Inch Curved DFHD VA Monitor",
+        "price": 71999,
+        "size": "49 inch",
+        "resolution": "3840 x 1080",
+        "refresh_rate": "144Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "102",
+        "name": "LG 27UP850K 27 Inch 4K UHD IPS Display",
+        "price": 52000,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "103",
+        "name": "FRONTECH LED Monitor 24.5 Inch (MON-0087G)",
+        "price": 6000,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "104",
+        "name": "BenQ Zowie XL2546X 24.5” Fast TN 240Hz Gaming Monitor",
+        "price": 54990,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "240Hz",
+        "panel_type": "Fast TN"
+    },
+    {
+        "id": "105",
+        "name": "AOC CU34G2XP/BK 34 Inch Ultra QHD Curved Gaming Monitor",
+        "price": 69990,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "106",
+        "name": "Dell S2425HSM 24\" FHD Monitor",
+        "price": 16000,
+        "size": "24 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "144Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "107",
+        "name": "MSI MAG 341CQP QD-OLED 34 Inch Curved Gaming Monitor",
+        "price": 142000,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "175Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "108",
+        "name": "LG 27GS60F 27 Inch Ultragear FHD IPS Gaming Monitor",
+        "price": 28500,
+        "size": "27 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    },
+    {
+        "id": "109",
+        "name": "ASUS ROG Strix XG27UCS 27” 4K Gaming Monitor",
+        "price": 121000,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "160Hz",
+        "panel_type": "Fast IPS"
+    },
+    {
+        "id": "110",
+        "name": "LG 22MR410 22 Inch FHD Monitor",
+        "price": 14000,
+        "size": "22 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "100Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "111",
+        "name": "LG 32GS85Q 32 Inch QHD Nano IPS Ultragear Gaming Monitor",
+        "price": 45000,
+        "size": "32 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Nano IPS"
+    },
+    {
+        "id": "112",
+        "name": "MSI G255F 24.5 Inch FHD Gaming Monitor",
+        "price": 24999,
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "180Hz",
+        "panel_type": "Rapid IPS"
+    },
+    {
+        "id": "113",
+        "name": "ASUS ROG Swift PG27UCDM 27” 4K QD-OLED Gaming Monitor",
+        "price": 100146,
+        "size": "27 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "240Hz",
+        "panel_type": "QD-OLED"
+    },
+    {
+        "id": "114",
+        "name": "LG 27GS85Q Ultragear 27 Inch QHD Gaming Monitor",
+        "price": 35000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "Nano IPS"
+    },
+    {
+        "id": "115",
+        "name": "Alienware AW3425DWM 34\" WQHD Curved Monitor",
+        "price": 47308,
+        "size": "34 inch",
+        "resolution": "3440 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "116",
+        "name": "PHILIPS 42M2N8900 42 inch 4K OLED Gaming Monitor",
+        "price": 189990,
+        "size": "42 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "138Hz",
+        "panel_type": "OLED"
+    },
+    {
+        "id": "117",
+        "name": "Samsung M7 UHD 4K Smart Monitor (LS32DM701UWXXL)",
+        "price": 54200,
+        "size": "32 inch",
+        "resolution": "3840 x 2160",
+        "refresh_rate": "60Hz",
+        "panel_type": "VA"
+    },
+    {
+        "id": "118",
+        "name": "ViewSonic VX2758A-2K-PRO-4 27 Inch QHD Gaming Monitor",
+        "price": 19000,
+        "size": "27 inch",
+        "resolution": "2560 x 1440",
+        "refresh_rate": "180Hz",
+        "panel_type": "IPS"
+    }
+]

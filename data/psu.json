@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "1",
+    "name": "Ant Value ECO400 SMPS",
+    "wattage": 400,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 930
+  },
+  {
+    "id": "2",
+    "name": "Ant Value ECO500 Smps",
+    "wattage": 500,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 960
+  },
+  {
+    "id": "3",
+    "name": "Fingers Gamma-12-407 Smps",
+    "wattage": 400,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 1100
+  },
+  {
+    "id": "4",
+    "name": "Ant Esports VS400L SMPS",
+    "wattage": 400,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 1260
+  },
+  {
+    "id": "5",
+    "name": "Ant Esports VS450L SMPS",
+    "wattage": 450,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 1680
+  },
+  {
+    "id": "6",
+    "name": "GAMDIAS Aura GP450 Pro SMPS",
+    "wattage": 450,
+    "efficiency": "80 Plus",
+    "modular": "Non-Modular",
+    "price": 1800
+  },
+  {
+    "id": "7",
+    "name": "Antec Atom V450 V2 SMPS",
+    "wattage": 450,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 1900
+  },
+  {
+    "id": "8",
+    "name": "Ant Esports VS500L SMPS",
+    "wattage": 500,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2050
+  },
+  {
+    "id": "9",
+    "name": "Gamdias Aura GP 550 Watt 80 Plus SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus",
+    "modular": "Non-Modular",
+    "price": 2080
+  },
+  {
+    "id": "10",
+    "name": "Antec Atom V550 V2 Smps",
+    "wattage": 550,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2160
+  },
+  {
+    "id": "11",
+    "name": "Ant Esports VS600L SMPS",
+    "wattage": 600,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2250
+  },
+  {
+    "id": "12",
+    "name": "ANT Esports VS650L SMPS",
+    "wattage": 650,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2360
+  },
+  {
+    "id": "13",
+    "name": "ANT ESPORTS VS550L 550 Watt Smps",
+    "wattage": 550,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2370
+  },
+  {
+    "id": "14",
+    "name": "GAMDIAS Aura GP650 SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus",
+    "modular": "Non-Modular",
+    "price": 2610
+  },
+  {
+    "id": "15",
+    "name": "Thermaltake Litepower 450 Watt Smps",
+    "wattage": 450,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2650
+  },
+  {
+    "id": "16",
+    "name": "Ant Esports VS700L 700 Watt SMPS",
+    "wattage": 700,
+    "efficiency": "",
+    "modular": "Non-Modular",
+    "price": 2800
+  },
+  {
+    "id": "17",
+    "name": "ANT Esports RX550 80 Plus Bronze Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3150
+  },
+  {
+    "id": "18",
+    "name": "Gamdias Kratos E1-500 80 Plus SMPS",
+    "wattage": 500,
+    "efficiency": "80 Plus",
+    "modular": "Non-Modular",
+    "price": 3150
+  },
+  {
+    "id": "19",
+    "name": "Ant Esports RX550 White Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3215
+  },
+  {
+    "id": "20",
+    "name": "Ant Esports FP550B 80 Plus Bronze SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3270
+  },
+  {
+    "id": "21",
+    "name": "Cooler Master MWE 450 V2 80 Plus Bronze SMPS",
+    "wattage": 450,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3330
+  },
+  {
+    "id": "22",
+    "name": "ANT Esports RX650 White 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3430
+  },
+  {
+    "id": "23",
+    "name": "ANT Esports RX650 80 Plus Bronze Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3450
+  },
+  {
+    "id": "24",
+    "name": "GAMDIAS Helios M1 550B SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3510
+  },
+  {
+    "id": "25",
+    "name": "GIGABYTE P550SS Silver ATX 3.0 Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Silver",
+    "modular": "Non-Modular",
+    "price": 3525
+  },
+  {
+    "id": "26",
+    "name": "Gigabyte P550SS Silver 550 Watt ATX 3.1 Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Silver",
+    "modular": "Non-Modular",
+    "price": 3650
+  },
+  {
+    "id": "27",
+    "name": "Gamdias Helios E1-600 SMPS",
+    "wattage": 600,
+    "efficiency": "80 Plus",
+    "modular": "Non-Modular",
+    "price": 3700
+  },
+  {
+    "id": "28",
+    "name": "Antec CSK550 80 Plus Bronze SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3750
+  },
+  {
+    "id": "29",
+    "name": "MSI MAG A550BN 550 Watt 80 Plus Bronze SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3750
+  },
+  {
+    "id": "30",
+    "name": "Thermaltake Smart BX1 550 Watt 80 Plus Bronze SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3750
+  },
+  {
+    "id": "31",
+    "name": "DeepCool PL550D Bronze 550W ATX 3.1 Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3810
+  },
+  {
+    "id": "32",
+    "name": "Ant Esports FP650B SMPS - 650 Watt",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 3850
+  },
+  {
+    "id": "33",
+    "name": "Thermaltake Smart BX3 550 Watt ATX 3.1 Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4000
+  },
+  {
+    "id": "34",
+    "name": "Corsair CX550 80 Plus Bronze SMPS",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4040
+  },
+  {
+    "id": "35",
+    "name": "GAMDIAS Helios M1-750B Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4050
+  },
+  {
+    "id": "36",
+    "name": "Cooler Master MWE 550 Watt V3 ATX 3.1 Bronze Smps",
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4170
+  },
+  {
+    "id": "37",
+    "name": "ANT Esports RX750 80 Plus Bronze Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4295
+  },
+  {
+    "id": "38",
+    "name": "Ant Esports FP750B Force 750 Watt 80 Plus Bronze SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4350
+  },
+  {
+    "id": "39",
+    "name": "GIGABYTE P650SS Silver ATX 3.0 Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Silver",
+    "modular": "Non-Modular",
+    "price": 4450
+  },
+  {
+    "id": "40",
+    "name": "GIGABYTE P650SS Silver ATX 3.1 Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Silver",
+    "modular": "Non-Modular",
+    "price": 4555
+  },
+  {
+    "id": "41",
+    "name": "MSI MAG A650BN 650 Watt 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4590
+  },
+  {
+    "id": "42",
+    "name": "Ant Esports FG650 V2 650 Watt Fully Modular Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 4710
+  },
+  {
+    "id": "43",
+    "name": "Thermaltake Smart BX1 650W 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4750
+  },
+  {
+    "id": "44",
+    "name": "Deepcool PL650D ATX 3.1 Bronze 650 Watt Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 4950
+  },
+  {
+    "id": "45",
+    "name": "ANT Esports RX850 80 Plus Bronze Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5000
+  },
+  {
+    "id": "46",
+    "name": "Thermaltake Smart BX3 650 Watt ATX 3.1 Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5000
+  },
+  {
+    "id": "47",
+    "name": "Antec G650 Gold 650 Watt Semi Modular SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Gold",
+    "modular": "Semi Modular",
+    "price": 5165
+  },
+  {
+    "id": "48",
+    "name": "Gigabyte P650G Gold Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Gold",
+    "modular": "Non-Modular",
+    "price": 5200
+  },
+  {
+    "id": "49",
+    "name": "Corsair CX650 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5299
+  },
+  {
+    "id": "50",
+    "name": "Cooler Master MWE Bronze 650 V3 ATX 3.1 80 Plus Bronze Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5300
+  },
+  {
+    "id": "51",
+    "name": "Ant Esports FG750 V2 750 Watt Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 5400
+  },
+  {
+    "id": "52",
+    "name": "GAMDIAS Helios P1A-650G Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Gold",
+    "modular": "Non-Modular",
+    "price": 5550
+  },
+  {
+    "id": "53",
+    "name": "DeepCool PL750D ATX 3.1 750 Watt 80 Plus Bronze SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5660
+  },
+  {
+    "id": "54",
+    "name": "Seasonic S12II 520W 80 Plus Bronze Smps",
+    "wattage": 520,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5800
+  },
+  {
+    "id": "55",
+    "name": "Thermaltake Smart BX1 750W 80 Plus Bronze SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5850
+  },
+  {
+    "id": "56",
+    "name": "MSI MAG A750BN PCIE5 750 Watt 80 Plus Bronze SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5869
+  },
+  {
+    "id": "57",
+    "name": "Asus Prime 650 Watt 80 Plus Bronze Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 5930
+  },
+  {
+    "id": "58",
+    "name": "Thermaltake Smart BX3 Bronze 750 Watt ATX 3.1 Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6000
+  },
+  {
+    "id": "59",
+    "name": "Corsair CX750 80 Plus Bronze SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6020
+  },
+  {
+    "id": "60",
+    "name": "Asus TUF Gaming 650B 650 Watt 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6100
+  },
+  {
+    "id": "61",
+    "name": "Ant Esports FG850 V2 ATX 3.1 Gold Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 6250
+  },
+  {
+    "id": "62",
+    "name": "Corsair CX650M ATX 3.1 Cybenetics Bronze Semi Modular Smps",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Semi Modular",
+    "price": 6380
+  },
+  {
+    "id": "63",
+    "name": "Thermaltake Smart BM3 650 Watt 80 Plus Bronze SMPS",
+    "wattage": 650,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Semi Modular",
+    "price": 6450
+  },
+  {
+    "id": "64",
+    "name": "Cooler Master MWE Bronze 750 V3 ATX 3.1 80 Plus Bronze Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6510
+  },
+  {
+    "id": "65",
+    "name": "ProLab Design XPower XP-750 ATX 3.1 Gold Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 6600
+  },
+  {
+    "id": "66",
+    "name": "Asus Prime 750 Watt 80 Plus Bronze Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6820
+  },
+  {
+    "id": "67",
+    "name": "Antec CSK850 PRO ATX 3.1 Bronze SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 6990
+  },
+  {
+    "id": "68",
+    "name": "DeepCool Gamer Storm PN750D Gold ATX 3.1 Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Non-Modular",
+    "price": 7000
+  },
+  {
+    "id": "69",
+    "name": "Corsair CX750M ATX 3.1 Cybenetics Bronze Semi Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Semi Modular",
+    "price": 7330
+  },
+  {
+    "id": "70",
+    "name": "Gigabyte P750GM 80 Plus Gold SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 7340
+  },
+  {
+    "id": "71",
+    "name": "ProLab Design XPower XP-850 ATX 3.1 Gold Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 7650
+  },
+  {
+    "id": "72",
+    "name": "GIGABYTE UD750GM PG5 Gold ATX 3.0 Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 7865
+  },
+  {
+    "id": "73",
+    "name": "DeepCool Gamer Storm PN850D Gold ATX 3.1 Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Non-Modular",
+    "price": 7930
+  },
+  {
+    "id": "74",
+    "name": "DeepCool Gamer Storm PN750M Gold ATX 3.1 Fully Modular SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 8060
+  },
+  {
+    "id": "75",
+    "name": "MSI MAG A750GL PCIE5 ATX 3.1 Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 8160
+  },
+  {
+    "id": "76",
+    "name": "Thermaltake Toughpower GF A3 750W Gold ATX 3.0 Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 8600
+  },
+  {
+    "id": "77",
+    "name": "Gigabyte P850GM 850 Watt 80 Plus Gold SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 8790
+  },
+  {
+    "id": "78",
+    "name": "Antec CSK1000 PRO ATX 3.1 Bronze SMPS",
+    "wattage": 1000,
+    "efficiency": "80 Plus Bronze",
+    "modular": "Non-Modular",
+    "price": 8820
+  },
+  {
+    "id": "79",
+    "name": "Gamdias Helios P2-850G 850 Watt 80 Plus Gold ATX 3.0 SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Non-Modular",
+    "price": 8820
+  },
+  {
+    "id": "80",
+    "name": "Thermaltake Toughpower GF A3 850 Watt 80 Plus Gold ATX 3.0 SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 8930
+  },
+  {
+    "id": "81",
+    "name": "ProLab Design XPower XP-1000 ATX 3.1 Gold Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9000
+  },
+  {
+    "id": "82",
+    "name": "GIGABYTE UD850GM PG5 Gold ATX 3.0 Black Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9150
+  },
+  {
+    "id": "83",
+    "name": "Cooler Master MWE Gold 750 V2 ATX 3.1 Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9180
+  },
+  {
+    "id": "84",
+    "name": "Thermaltake ToughPower GF A3 Gold 850 Watt ATX 3.1 Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9200
+  },
+  {
+    "id": "85",
+    "name": "MSI Mag A850GL PCIE5 ATX 3.1 Gold Fully Modular SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9450
+  },
+  {
+    "id": "86",
+    "name": "DeepCool Gamer Storm PN850M Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9670
+  },
+  {
+    "id": "87",
+    "name": "Corsair RM750e ATX 3.1 Cybenetics Gold Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 9700
+  },
+  {
+    "id": "88",
+    "name": "Cooler Master MWE Gold 850 V2 ATX 3.1 Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 10440
+  },
+  {
+    "id": "89",
+    "name": "EVGA 1000 GQ ATX 3.1 1000 Watt Gold Semi Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Semi Modular",
+    "price": 10500
+  },
+  {
+    "id": "90",
+    "name": "EVGA SuperNova 850 P5 Platinum 850 Watt Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 10999
+  },
+  {
+    "id": "91",
+    "name": "GIGABYTE Aorus Elite 850W ATX 3.1 Platinum Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 11150
+  },
+  {
+    "id": "92",
+    "name": "Corsair RM850x Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 11600
+  },
+  {
+    "id": "93",
+    "name": "ProLab Design XPower XP-1000P ATX 3.1 Platinum Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 11620
+  },
+  {
+    "id": "94",
+    "name": "ProLab Design XPower XP-1200 ATX 3.1 Gold Fully Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 11680
+  },
+  {
+    "id": "95",
+    "name": "Asus ROG Strix 750W 80 Plus Gold SMPS",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 11960
+  },
+  {
+    "id": "96",
+    "name": "Corsair RM750x Shift Gold ATX 3.1 Fully Modular White Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 11999
+  },
+  {
+    "id": "97",
+    "name": "EVGA SuperNova 1000 P5 Platinum 1000 Watt Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 12499
+  },
+  {
+    "id": "98",
+    "name": "Corsair RM850x Shift Gold ATX 3.1 White Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 13260
+  },
+  {
+    "id": "99",
+    "name": "Asus ROG Strix 850W 80 Plus Gold SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 13560
+  },
+  {
+    "id": "100",
+    "name": "Cooler Master V750 SFX Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 13750
+  },
+  {
+    "id": "101",
+    "name": "Thermaltake Toughpower GF A3 1050 Watt Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 1050,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 13910
+  },
+  {
+    "id": "102",
+    "name": "Deepcool Gamer Storm PN1000M Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 14000
+  },
+  {
+    "id": "103",
+    "name": "Thermaltake Toughpower GF A3 1050 Watt 80 Plus Gold ATX 3.0 SMPS",
+    "wattage": 1050,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 14150
+  },
+  {
+    "id": "104",
+    "name": "Cooler Master V SFX Gold 850 Watt ATX 3.1 Fully Modular Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 14510
+  },
+  {
+    "id": "105",
+    "name": "ProLab Design XPower XP-1250P ATX 3.1 Platinum Fully Modular Smps",
+    "wattage": 1250,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 14650
+  },
+  {
+    "id": "106",
+    "name": "MSI MAG A1000GL PCIE5 ATX 3.1 SMPS",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 14750
+  },
+  {
+    "id": "107",
+    "name": "Corsair RM1000x Shift 1000 Watt 80 Plus Gold ATX 3.1 SMPS",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 15180
+  },
+  {
+    "id": "108",
+    "name": "Corsair RM1000x Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 15300
+  },
+  {
+    "id": "109",
+    "name": "Corsair SF750 Platinum ATX 3.1 Fully Modular SFX Smps",
+    "wattage": 750,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 15500
+  },
+  {
+    "id": "110",
+    "name": "Corsair RM1000x Shift Gold ATX 3.1 Fully Modular White SMPS",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 15780
+  },
+  {
+    "id": "111",
+    "name": "Deepcool Gamer Storm PN1200M Gold ATX 3.1 Fully Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 15900
+  },
+  {
+    "id": "112",
+    "name": "Cooler Master MWE Gold 1050 Watt V2 ATX 3.1 Smps",
+    "wattage": 1050,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 16080
+  },
+  {
+    "id": "113",
+    "name": "Nzxt C1000 Gold Fully Modular ATX 3.1 SMPS (White)",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 16400
+  },
+  {
+    "id": "114",
+    "name": "Asus ROG Thor 850P 850 Watt 80 Plus Platinum SMPS",
+    "wattage": 850,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 16520
+  },
+  {
+    "id": "115",
+    "name": "Thermaltake Toughpower GF A3 1200 Watt 80 Plus Gold ATX 3.0 Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 16700
+  },
+  {
+    "id": "116",
+    "name": "Antec HCG1000 PRO Platinum ATX 3.1 Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 16790
+  },
+  {
+    "id": "117",
+    "name": "Thermaltake Toughpower PF3 1050W Platinum ATX 3.0 Fully Modular Smps",
+    "wattage": 1050,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 16790
+  },
+  {
+    "id": "118",
+    "name": "Nzxt C1200 Gold Fully Modular ATX 3.1 SMPS",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 17020
+  },
+  {
+    "id": "119",
+    "name": "Corsair SF850 Platinum ATX 3.1 Fully Modular SFX Smps",
+    "wattage": 850,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 17170
+  },
+  {
+    "id": "120",
+    "name": "Asus TUF Gaming 1000 Watt ATX 3.1 Fully Modular 80 Plus Gold Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 17260
+  },
+  {
+    "id": "121",
+    "name": "EVGA SuperNova 1300 G Plus ATX 3.1 1300 Watt Gold Fully Modular Smps",
+    "wattage": 1300,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 17699
+  },
+  {
+    "id": "122",
+    "name": "Super Flower Leadex VII Platinum Pro 1200W ATX 3.1 Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 17900
+  },
+  {
+    "id": "123",
+    "name": "Corsair RM1200x Shift ATX 3.1 Gold 1200 Watt Fully Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 17920
+  },
+  {
+    "id": "124",
+    "name": "Nzxt C1200 Gold Fully Modular ATX 3.1 SMPS (White)",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 18500
+  },
+  {
+    "id": "125",
+    "name": "Corsair RM1200x Shift Gold ATX 3.1 Fully Modular White SMPS",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 19000
+  },
+  {
+    "id": "126",
+    "name": "EVGA SuperNova 1300 P Plus Platinum 1300 Watt Fully Modular Smps",
+    "wattage": 1300,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 19399
+  },
+  {
+    "id": "127",
+    "name": "MSI MAG A1250GL PCIE5 ATX 3.1 SMPS",
+    "wattage": 1250,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 19550
+  },
+  {
+    "id": "128",
+    "name": "ASUS TUF Gaming 1200W Gold 1200 Watt ATX 3.0 Fully Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 19620
+  },
+  {
+    "id": "129",
+    "name": "Corsair HX1000i ATX 3.1 Platinum 1000 Watt Fully Modular Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 19860
+  },
+  {
+    "id": "130",
+    "name": "Corsair SF1000 Platinum ATX 3.1 Fully Modular SFX Smps",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 19990
+  },
+  {
+    "id": "131",
+    "name": "Cooler Master MWE Gold 1250 V2 ATX 3.1 Fully Modular Smps",
+    "wattage": 1250,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 20630
+  },
+  {
+    "id": "132",
+    "name": "Thermaltake Toughpower GF3 1350 Watt 80 Plus Gold ATX 3.0 Smps",
+    "wattage": 1350,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 21230
+  },
+  {
+    "id": "133",
+    "name": "GIGABYTE UD1300GM PG5 Gold 1300 Watt Fully Modular Smps",
+    "wattage": 1300,
+    "efficiency": "80 Plus Gold",
+    "modular": "Fully Modular",
+    "price": 21995
+  },
+  {
+    "id": "134",
+    "name": "CORSAIR HX1200i ATX 3.1 Platinum 1200 Watt Fully Modular Smps",
+    "wattage": 1200,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 24300
+  },
+  {
+    "id": "135",
+    "name": "Cooler Master V Platinum 1300 V2 ATX 3.1 Fully Modular Smps",
+    "wattage": 1300,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 24400
+  },
+  {
+    "id": "136",
+    "name": "Asus ROG Thor 1000P2 1000 Watt 80 Plus Platinum SMPS",
+    "wattage": 1000,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 28870
+  },
+  {
+    "id": "137",
+    "name": "MSI MEG Ai1300P PCIE5 1300 Watt 80 Plus Platinum SMPS",
+    "wattage": 1300,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 29460
+  },
+  {
+    "id": "138",
+    "name": "MSI MEG Ai1300P PCIE5 ATX 3.1 Fully Modular Smps",
+    "wattage": 1300,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 29560
+  },
+  {
+    "id": "139",
+    "name": "Nzxt C1500 ATX 3.1 - 1500 Watt 80 Plus Platinum Fully Modular SMPS",
+    "wattage": 1500,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 31000
+  },
+  {
+    "id": "140",
+    "name": "Corsair HX1500i Platinum 1500 Watt ATX 3.1 Fully Modular Smps",
+    "wattage": 1500,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 34740
+  },
+  {
+    "id": "141",
+    "name": "Cooler Master V Platinum 1600 Watt V2 ATX 3.1 Fully Modular Smps",
+    "wattage": 1600,
+    "efficiency": "80 Plus Platinum",
+    "modular": "Fully Modular",
+    "price": 36050
+  },
+  {
+    "id": "142",
+    "name": "Corsair AX1600i Titanium 1600 Watt Fully Modular SMPS",
+    "wattage": 1600,
+    "efficiency": "80 Plus Titanium",
+    "modular": "Fully Modular",
+    "price": 45040
+  }
+]

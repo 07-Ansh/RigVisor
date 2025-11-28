@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - Cooling Guide</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html" class="active">Guides</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in" style="padding-top: var(--space-xl);">
+        <section class="main-section" style="padding-bottom: var(--space-lg);">
+            <div class="container">
+                <div style="max-width: 1000px; margin: 0 auto;">
+                    <div
+                        style="color: var(--primary); font-weight: 700; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">
+                        Hardware Guide</div>
+                    <h1>Cooling Basics</h1>
+                    <p>Heat is the enemy of performance. Learn how to keep your system cool and quiet.</p>
+                </div>
+            </div>
+        </section>
+        <section class="container" style="padding-bottom: var(--space-xl); max-width: 1000px;">
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>1. Air vs. Liquid (AIO)</h2>
+                <div class="grid" style="grid-template-columns: 1fr 1fr; gap: var(--space-md); margin-top: 1.5rem;">
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-wind"></i></div>
+                        <h3>Air Cooling</h3>
+                        <p>Reliable, cheaper, and zero risk of leaks. High-end air coolers can rival liquid coolers in
+                            performance.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-water"></i></div>
+                        <h3>Liquid Cooling (AIO)</h3>
+                        <p>Cleaner look, better for high-wattage CPUs, and takes longer to heat soak. Requires a
+                            radiator mount.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>2. Airflow Pressure</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    <strong>Positive Pressure:</strong> More intake fans than exhaust. Keeps dust out (air is pushed out
+                    of cracks). Recommended.<br>
+                    <strong>Negative Pressure:</strong> More exhaust than intake. Good for temps but sucks dust in
+                    through every opening.<br>
+                    <strong>Neutral Pressure:</strong> Balanced intake and exhaust.
+                </p>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>3. Fan Curves</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Don't run your fans at 100% all the time. Go into your BIOS and set a fan curve.
+                </p>
+                <ul style="margin-top: 1rem; padding-left: 1.5rem; list-style-type: disc; color: var(--text-muted);">
+                    <li style="margin-bottom: 0.5rem;"><strong>Idle (30-40°C):</strong> Low RPM (20-30%) for silence.
+                    </li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Gaming (60-70°C):</strong> Ramp up to 60-70%.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Max Load (85°C+):</strong> 100% to prevent throttling.
+                    </li>
+                </ul>
+            </div>
+            <div
+                style="background: var(--bg-surface-2); padding: var(--space-md); border-radius: var(--radius-md); text-align: center;">
+                <h3>Stay frosty</h3>
+                <p style="margin: 1rem 0;">Browse our selection of fans and coolers.</p>
+                <a href="builder.html" class="button blue-button">Go to Builder</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+</html>

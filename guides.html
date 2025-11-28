@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - Guides</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html" class="active">Guides</a>
+            <a href="contact.html">Contact</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in">
+        <section class="main-section">
+            <div class="container">
+                <h1>PC Building Guides</h1>
+                <p>Expert tutorials to help you build your dream PC.</p>
+            </div>
+        </section>
+        <section class="features-section">
+            <div class="container">
+                <h2 style="margin-bottom: var(--space-md); text-align: center;">Deep Dive Topics</h2>
+                <div class="feature-grid">
+                    <a href="cpu-guide.html" class="feature-card wide" style="text-decoration: none; color: inherit;">
+                        <div class="feature-icon"><i class="fa-solid fa-microchip"></i></div>
+                        <div class="feature-content">
+                            <h3>How to Choose a CPU</h3>
+                            <p>Understanding cores, threads, and clock speeds. Should you go Intel or AMD for your
+                                specific needs? We break it down.</p>
+                        </div>
+                    </a>
+                    <a href="gpu-guide.html" class="feature-card" style="text-decoration: none; color: inherit;">
+                        <div class="feature-icon"><i class="fa-solid fa-screwdriver-wrench"></i></div>
+                        <div class="feature-content">
+                            <h3>GPU Installation</h3>
+                            <p>Step-by-step guide to safely installing your graphics card.</p>
+                        </div>
+                    </a>
+                    <a href="ram-guide.html" class="feature-card" style="text-decoration: none; color: inherit;">
+                        <div class="feature-icon"><i class="fa-solid fa-memory"></i></div>
+                        <div class="feature-content">
+                            <h3>RAM Speeds</h3>
+                            <p>DDR4 vs DDR5 and what XMP/EXPO profiles mean for performance.</p>
+                        </div>
+                    </a>
+                    <a href="cable-management-guide.html" class="feature-card wide"
+                        style="text-decoration: none; color: inherit;">
+                        <div class="feature-icon"><i class="fa-solid fa-plug"></i></div>
+                        <div class="feature-content">
+                            <h3>Cable Management 101</h3>
+                            <p>Tips and tricks to keep your build looking clean and ensuring proper airflow. Don't let
+                                the spaghetti win.</p>
+                        </div>
+                    </a>
+                    <a href="cooling-guide.html" class="feature-card wide"
+                        style="text-decoration: none; color: inherit;">
+                        <div class="feature-icon"><i class="fa-solid fa-temperature-arrow-down"></i></div>
+                        <div class="feature-content">
+                            <h3>Cooling Basics</h3>
+                            <p>Air cooling vs Liquid cooling (AIO). How to set up fan curves for silence and
+                                performance.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section class="interactive-split" style="padding-bottom: var(--space-xl);">
+            <div class="container">
+                <div class="grid" style="grid-template-columns: 1fr 1fr; gap: var(--space-lg); align-items: start;">
+                    <div class="checklist-column">
+                        <h2 style="margin-bottom: var(--space-md);">Interactive Build Checklist</h2>
+                        <div class="checklist" id="build-checklist">
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-1">
+                                <span class="checkmark"></span>
+                                <span class="text">Prepare Workspace & Tools</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-2">
+                                <span class="checkmark"></span>
+                                <span class="text">Install CPU on Motherboard</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-3">
+                                <span class="checkmark"></span>
+                                <span class="text">Install RAM</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-4">
+                                <span class="checkmark"></span>
+                                <span class="text">Install M.2 SSDs</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-5">
+                                <span class="checkmark"></span>
+                                <span class="text">Install CPU Cooler</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-6">
+                                <span class="checkmark"></span>
+                                <span class="text">Mount Motherboard in Case</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-7">
+                                <span class="checkmark"></span>
+                                <span class="text">Install Power Supply (PSU)</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-8">
+                                <span class="checkmark"></span>
+                                <span class="text">Connect Front Panel Cables</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-9">
+                                <span class="checkmark"></span>
+                                <span class="text">Install Graphics Card (GPU)</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-10">
+                                <span class="checkmark"></span>
+                                <span class="text">Connect Power Cables</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-11">
+                                <span class="checkmark"></span>
+                                <span class="text">First Boot & BIOS Check</span>
+                            </label>
+                            <label class="checklist-item">
+                                <input type="checkbox" id="check-12">
+                                <span class="checkmark"></span>
+                                <span class="text">Install Operating System</span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="troubleshooting-column">
+                        <h2 style="margin-bottom: var(--space-md);">Having Issues?</h2>
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>PC won't turn on (No Power)</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Check if the PSU switch is flipped to 'I' (On).<br>
+                                        2. Ensure the power cable is firmly plugged into the wall and PSU.<br>
+                                        3. Verify the Front Panel connectors (Power SW) are plugged into the correct
+                                        pins on the motherboard.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>Fans spin, but no display</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Ensure your monitor is plugged into the GPU, not the motherboard (unless using
+                                        iGPU).<br>
+                                        2. Reseat the RAM sticks. Push until you hear a click.<br>
+                                        3. Check if the GPU power cables are fully seated.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>Boot loop (Restarts repeatedly)</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Check CPU temperature in BIOS if possible. Cooler might not be mounted
+                                        correctly.<br>
+                                        2. Try booting with only one stick of RAM.<br>
+                                        3. Clear CMOS (remove motherboard battery for 5 mins).</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>"No Boot Device Found"</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Check if your SSD/HDD is connected (SATA power & data).<br>
+                                        2. Ensure your USB installation media is plugged in if you haven't installed
+                                        Windows yet.<br>
+                                        3. Check boot order in BIOS.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>System Overheating</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Check if the CPU cooler plastic peel was removed.<br>
+                                        2. Ensure thermal paste was applied.<br>
+                                        3. Verify case fans are oriented correctly (intake vs exhaust).</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>Blue Screen of Death (BSOD)</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Note the error code (e.g., MEMORY_MANAGEMENT).<br>
+                                        2. Update all drivers and Windows.<br>
+                                        3. Test RAM stability with MemTest86.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>No Internet Connection</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Install LAN/Wi-Fi drivers from the motherboard manufacturer's
+                                        website.<br>
+                                        2. Screw in the Wi-Fi antennas if using wireless.<br>
+                                        3. Check ethernet cable integrity.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>Loud Fan Noise</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Adjust fan curves in BIOS to be less aggressive.<br>
+                                        2. Check for cables hitting fan blades.<br>
+                                        3. Ensure the PC has good airflow so fans don't have to spin max speed.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <button class="accordion-header">
+                                    <span>XMP/EXPO Not Working</span>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                                <div class="accordion-content">
+                                    <p>1. Update BIOS to the latest version (improves memory compatibility).<br>
+                                        2. Ensure RAM is in the correct slots (usually 2nd and 4th).<br>
+                                        3. Try a lower frequency manually if the profile is unstable.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

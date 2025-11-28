@@ -1,0 +1,668 @@
+[
+    {
+        "id": "1",
+        "name": "Logitech G PRO X Superlight 2 Lightspeed Wireless Gaming Mouse",
+        "price": 16995,
+        "dpi": 32000,
+        "wireless": true,
+        "buttons": 5,
+        "color": "Black"
+    },
+    {
+        "id": "2",
+        "name": "Kreo Chimera V2 Wireless Gaming Mouse",
+        "price": 4000,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": 6,
+        "color": null
+    },
+    {
+        "id": "3",
+        "name": "Logitech G402 Hyperion Fury USB Wired Gaming Mouse",
+        "price": 3395,
+        "dpi": 4000,
+        "wireless": false,
+        "buttons": 8,
+        "color": "Black"
+    },
+    {
+        "id": "4",
+        "name": "Razer DeathAdder V3 Wired Gaming Mouse",
+        "price": 12999,
+        "dpi": 30000,
+        "wireless": false,
+        "buttons": 6,
+        "color": "Black"
+    },
+    {
+        "id": "5",
+        "name": "EvoFox Banshee 2 Wireless Mouse",
+        "price": 2799,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": 6,
+        "color": null
+    },
+    {
+        "id": "6",
+        "name": "HyperX Pulsefire Haste 2 Wireless Gaming Mouse",
+        "price": 9087,
+        "dpi": 26000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "7",
+        "name": "Alienware 610M Wired/Wireless Gaming Mouse",
+        "price": 8900,
+        "dpi": 16000,
+        "wireless": true,
+        "buttons": 7,
+        "color": null
+    },
+    {
+        "id": "8",
+        "name": "Redragon M724 Wired Gaming Mouse",
+        "price": 1490,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": 5,
+        "color": "Black"
+    },
+    {
+        "id": "9",
+        "name": "EvoFox Performance Series Ghost Air Gaming Mouse",
+        "price": 1899,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": null,
+        "color": "Grey"
+    },
+    {
+        "id": "10",
+        "name": "HyperX Pulsefire Fuse Wireless Gaming Mouse",
+        "price": 4469,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "11",
+        "name": "Razer DeathAdder V3 Pro Wireless Gaming Mouse",
+        "price": 26999,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": 5,
+        "color": "White"
+    },
+    {
+        "id": "12",
+        "name": "Corsair Katar Pro Ultra-Light Optical Gaming Mouse",
+        "price": 2400,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "13",
+        "name": "HyperX Pulsefire Haste 2 Core Gaming Mouse",
+        "price": 5967,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "14",
+        "name": "Cosmic Byte Velox Ultra-Light Tri-Mode Gaming Mouse",
+        "price": 4499,
+        "dpi": 26000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "15",
+        "name": "Logitech G USB PRO X Superlight Wireless Gaming Mouse",
+        "price": 16395,
+        "dpi": 25600,
+        "wireless": true,
+        "buttons": 5,
+        "color": "White"
+    },
+    {
+        "id": "16",
+        "name": "Lenovo M210 RGB Gaming Wired USB Mouse",
+        "price": 2590,
+        "dpi": 8000,
+        "wireless": false,
+        "buttons": 7,
+        "color": null
+    },
+    {
+        "id": "17",
+        "name": "Razer Orochi V2 Mobile Wireless Gaming Mouse",
+        "price": 8999,
+        "dpi": 18000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "18",
+        "name": "Razer Viper V3 Pro Faker Edition",
+        "price": 29999,
+        "dpi": 35000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Faker"
+    },
+    {
+        "id": "19",
+        "name": "Kreo Anzu Ultralight Ergonomic Wireless Gaming Mouse",
+        "price": 8000,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "20",
+        "name": "Kreo Hawk Wired Gaming Mouse",
+        "price": 2500,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": 8,
+        "color": "White Hawk"
+    },
+    {
+        "id": "21",
+        "name": "Razer Basilisk V3 Customizable Ergonomic Gaming Mouse",
+        "price": 7499,
+        "dpi": 26000,
+        "wireless": false,
+        "buttons": 11,
+        "color": "Classic Black"
+    },
+    {
+        "id": "22",
+        "name": "Razer DeathAdder Essential Gaming Mouse",
+        "price": 1300,
+        "dpi": 6400,
+        "wireless": false,
+        "buttons": 5,
+        "color": "Mercury White"
+    },
+    {
+        "id": "23",
+        "name": "Redragon M916AK PRO 3-Mode Anime Gaming Mouse",
+        "price": 4490,
+        "dpi": 26000,
+        "wireless": true,
+        "buttons": null,
+        "color": null
+    },
+    {
+        "id": "24",
+        "name": "Razer Viper V3 Pro Wireless Esports Gaming Mouse",
+        "price": 28999,
+        "dpi": 35000,
+        "wireless": true,
+        "buttons": null,
+        "color": null
+    },
+    {
+        "id": "25",
+        "name": "Razer Basilisk V3 Pro Ergonomic Wireless Gaming Mouse",
+        "price": 27999,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": 11,
+        "color": null
+    },
+    {
+        "id": "26",
+        "name": "Redragon M693 Gaming Mouse",
+        "price": 2290,
+        "dpi": 8000,
+        "wireless": true,
+        "buttons": 7,
+        "color": null
+    },
+    {
+        "id": "27",
+        "name": "Cosmic Byte Atlas Tri-Mode Gaming Mouse",
+        "price": 2999,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "28",
+        "name": "Logitech G502 X Lightspeed Plus Wireless RGB Gaming Mouse",
+        "price": 17495,
+        "dpi": 25600,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "29",
+        "name": "ASUS USB Wireless Optical Sensor Mouse",
+        "price": 36653,
+        "dpi": null,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "30",
+        "name": "Razer DeathAdder V2 X Hyper Speed",
+        "price": 14999,
+        "dpi": 14000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "31",
+        "name": "Offbeat Alpha Bluetooth Wireless Gaming Mouse",
+        "price": 1190,
+        "dpi": 3200,
+        "wireless": true,
+        "buttons": 7,
+        "color": null
+    },
+    {
+        "id": "32",
+        "name": "Razer Basilisk V3 Pro Wireless Gaming Mouse (White)",
+        "price": 27999,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": 11,
+        "color": "White"
+    },
+    {
+        "id": "33",
+        "name": "HP G360 RGB Backlighting USB Wired Gaming Mouse",
+        "price": 2499,
+        "dpi": 6200,
+        "wireless": false,
+        "buttons": 6,
+        "color": null
+    },
+    {
+        "id": "34",
+        "name": "Razer Deathadder Essential (Black)",
+        "price": 4499,
+        "dpi": 6400,
+        "wireless": false,
+        "buttons": 5,
+        "color": "Black"
+    },
+    {
+        "id": "35",
+        "name": "EVGA X12 Gaming Mouse",
+        "price": 1300,
+        "dpi": 16000,
+        "wireless": false,
+        "buttons": 8,
+        "color": "Black"
+    },
+    {
+        "id": "36",
+        "name": "Kreo Pegasus 58 GMS Ultra Lightweight Wireless Gaming Mouse",
+        "price": 8000,
+        "dpi": 26000,
+        "wireless": true,
+        "buttons": 6,
+        "color": "White"
+    },
+    {
+        "id": "37",
+        "name": "ATTACK SHARK X11 Gaming Mouse",
+        "price": 9999,
+        "dpi": 22000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "38",
+        "name": "Logitech G502 Hero High Performance Wired USB Gaming Mouse",
+        "price": 5495,
+        "dpi": 25600,
+        "wireless": false,
+        "buttons": 11,
+        "color": "Black"
+    },
+    {
+        "id": "39",
+        "name": "Razer DeathAdder Essential White Edition",
+        "price": 4499,
+        "dpi": 6400,
+        "wireless": false,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "40",
+        "name": "Razer DeathAdder V4 Pro Wireless Gaming Mouse",
+        "price": 31099,
+        "dpi": 45000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "41",
+        "name": "Lenovo Legion M300 RGB USB Gaming Mouse",
+        "price": 3390,
+        "dpi": 8000,
+        "wireless": false,
+        "buttons": 8,
+        "color": null
+    },
+    {
+        "id": "42",
+        "name": "Redragon M913 Impact Elite Wireless Gaming Mouse",
+        "price": 3590,
+        "dpi": 16000,
+        "wireless": true,
+        "buttons": 16,
+        "color": null
+    },
+    {
+        "id": "43",
+        "name": "Redragon M811 Aatrox MMO Gaming Mouse",
+        "price": 2290,
+        "dpi": null,
+        "wireless": false,
+        "buttons": 15,
+        "color": null
+    },
+    {
+        "id": "44",
+        "name": "Cosmic Byte Pulse Wired RGB Gaming Mouse",
+        "price": 2399,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "45",
+        "name": "ASUS ROG Harpe Ace Extreme Wireless Gaming Mouse",
+        "price": 46274,
+        "dpi": 42000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "46",
+        "name": "Attack Shark X11 Wireless Gaming Mouse with Grip Tape",
+        "price": 4999,
+        "dpi": 22000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Red"
+    },
+    {
+        "id": "47",
+        "name": "Redragon M987 Lightweight Honeycomb USB Gaming Mouse",
+        "price": 1590,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": 6,
+        "color": null
+    },
+    {
+        "id": "48",
+        "name": "Archer Tech Lab Bluetooth Wireless Pro Gaming Mouse",
+        "price": 7999,
+        "dpi": 13800,
+        "wireless": true,
+        "buttons": 7,
+        "color": "Hawkeye"
+    },
+    {
+        "id": "49",
+        "name": "HyperX Pulsefire Core RGB USB Gaming Mouse",
+        "price": 4290,
+        "dpi": 6200,
+        "wireless": false,
+        "buttons": 7,
+        "color": "Black"
+    },
+    {
+        "id": "50",
+        "name": "HyperX Pulsefire Surge RGB Wired Optical USB Gaming Mouse",
+        "price": 6955,
+        "dpi": 16000,
+        "wireless": false,
+        "buttons": 6,
+        "color": "Black"
+    },
+    {
+        "id": "51",
+        "name": "Razer Viper V3 Pro Wireless Esports Gaming Mouse (Faker Edition)",
+        "price": 48296,
+        "dpi": 35000,
+        "wireless": true,
+        "buttons": 8,
+        "color": "Faker Edition"
+    },
+    {
+        "id": "52",
+        "name": "Lenovo Legion M300s RGB Wired Gaming Mouse",
+        "price": 4490,
+        "dpi": 8000,
+        "wireless": false,
+        "buttons": 6,
+        "color": "Black"
+    },
+    {
+        "id": "53",
+        "name": "Logitech G502 X Wired Gaming Mouse (White)",
+        "price": 8395,
+        "dpi": 25600,
+        "wireless": false,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "54",
+        "name": "Cosmic Byte Firestorm RGB Wired Gaming Mouse",
+        "price": 1799,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "55",
+        "name": "HyperX Pulsefire Haste 2 Mini Wireless Gaming Mouse",
+        "price": 8567,
+        "dpi": 26000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "56",
+        "name": "Razer Basilisk V3 Pro 35K Wireless Gaming Mouse",
+        "price": 24999,
+        "dpi": 35000,
+        "wireless": true,
+        "buttons": 13,
+        "color": "Black"
+    },
+    {
+        "id": "57",
+        "name": "Logitech G PRO X Superlight 2 DEX Lightspeed Wireless Gaming Mouse",
+        "price": 17995,
+        "dpi": 44000,
+        "wireless": true,
+        "buttons": 5,
+        "color": "Black"
+    },
+    {
+        "id": "58",
+        "name": "HyperX Pulsefire Haste 2 Core Wireless White Gaming Mouse",
+        "price": 5967,
+        "dpi": 12000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "59",
+        "name": "Sony INZONE Mouse-A Ultra-Lightweight Wireless Gaming Mouse",
+        "price": 18990,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": null,
+        "color": null
+    },
+    {
+        "id": "60",
+        "name": "Razer Cobra Pro Wireless Gaming Mouse",
+        "price": 21999,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": 10,
+        "color": "White"
+    },
+    {
+        "id": "61",
+        "name": "Redragon Impact M908 RGB LED MMO USB Mouse",
+        "price": 2299,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": 18,
+        "color": "Black"
+    },
+    {
+        "id": "62",
+        "name": "Offbeat – LYKAN Wired Gaming 12D Macro Buttons Mouse",
+        "price": 2990,
+        "dpi": 20000,
+        "wireless": false,
+        "buttons": 12,
+        "color": null
+    },
+    {
+        "id": "63",
+        "name": "Archer Tech Lab Bluetooth Wireless Gaming Mouse",
+        "price": 9999,
+        "dpi": 22000,
+        "wireless": true,
+        "buttons": 7,
+        "color": "Quest"
+    },
+    {
+        "id": "64",
+        "name": "Razer Viper V3 HyperSpeed Wireless Esports Gaming Mouse",
+        "price": 9999,
+        "dpi": 30000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Classic Black"
+    },
+    {
+        "id": "65",
+        "name": "Redragon M901 Gaming USB Mouse",
+        "price": 2499,
+        "dpi": 12400,
+        "wireless": false,
+        "buttons": 19,
+        "color": "Black"
+    },
+    {
+        "id": "66",
+        "name": "Logitech G502 X Wired Gaming Mouse (Black)",
+        "price": 8395,
+        "dpi": 25600,
+        "wireless": false,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "67",
+        "name": "HyperX Pulsefire Haste 2 USB Ultra Lightweight Gaming Mouse",
+        "price": 4795,
+        "dpi": 26000,
+        "wireless": false,
+        "buttons": null,
+        "color": "Black"
+    },
+    {
+        "id": "68",
+        "name": "Razer Viper Ultimate Hyperspeed Wireless Gaming Mouse",
+        "price": 12000,
+        "dpi": 20000,
+        "wireless": true,
+        "buttons": 8,
+        "color": null
+    },
+    {
+        "id": "69",
+        "name": "Ant Esports GM610 7D Crystal Full RGB Gaming Mouse",
+        "price": 2999,
+        "dpi": 12800,
+        "wireless": false,
+        "buttons": 7,
+        "color": "White"
+    },
+    {
+        "id": "70",
+        "name": "HyperX Pulsefire Core - RGB Gaming Mouse",
+        "price": 4095,
+        "dpi": 6200,
+        "wireless": false,
+        "buttons": 7,
+        "color": "White/Pink"
+    },
+    {
+        "id": "71",
+        "name": "amazon basics Mini Ultralight Wired Gaming Mouse",
+        "price": 5599,
+        "dpi": 8500,
+        "wireless": false,
+        "buttons": 6,
+        "color": null
+    },
+    {
+        "id": "72",
+        "name": "Redragon M686 Wireless Gaming Mouse",
+        "price": 3990,
+        "dpi": 16000,
+        "wireless": true,
+        "buttons": null,
+        "color": null
+    },
+    {
+        "id": "73",
+        "name": "Razer Orochi V2 Mobile Wireless Gaming Mouse (White)",
+        "price": 8999,
+        "dpi": 18000,
+        "wireless": true,
+        "buttons": null,
+        "color": "White"
+    },
+    {
+        "id": "74",
+        "name": "Razer DeathAdder V4 Pro Gaming Mouse (Black)",
+        "price": 27999,
+        "dpi": 45000,
+        "wireless": true,
+        "buttons": null,
+        "color": "Black"
+    }
+]

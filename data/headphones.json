@@ -1,0 +1,1532 @@
+[
+    {
+        "id": "1",
+        "name": "Razer BlackShark V2 X Wired Gaming On Ear Headset",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "2",
+        "name": "HAMMER Blaze Wired Over Ear Gaming Headphones",
+        "price": 8999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Cyan",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "3",
+        "name": "ZEBRONICS Havoc Premium Wired Gaming Over Ear Headphone",
+        "price": 2999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "4",
+        "name": "pTron Studio Urban 35dB Active Noise Cancellation Bluetooth Wireless Headphones",
+        "price": 7499,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "5",
+        "name": "JBL Quantum 100M2 Wired Gaming Headphones",
+        "price": 4499,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "6",
+        "name": "HyperX Cloud Stinger 2 Core Essential PC Gaming Wired Headset",
+        "price": 4797,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "7",
+        "name": "Razer Kraken V3 X Ultra Light Wired USB Gaming Headset",
+        "price": 6999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "8",
+        "name": "EvoFox Hyperion Gaming Headphones with Mic",
+        "price": 2899,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "9",
+        "name": "EvoFox Hyperion Gaming Headphones with Mic (White)",
+        "price": 2899,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "10",
+        "name": "Razer BlackShark V2 X USB Wired Esports Gaming Headset",
+        "price": 8999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "11",
+        "name": "JBL Quantum 100 Wired Over Ear Gaming Headphones",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "12",
+        "name": "Logitech G435 Light Speed Wireless Gaming Headphones",
+        "price": 9595,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "13",
+        "name": "boAt Rockerz 480 Bluetooth Wireless Over Ear Headphone",
+        "price": 3790,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black Sabre",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "14",
+        "name": "amazon basics Tri-Mode Wireless RGB Gaming Headphones",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "15",
+        "name": "Kreo Beluga V2 Wired Gaming Headphone",
+        "price": 4500,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "16",
+        "name": "HyperX CloudX Stinger 2 Core Gaming Headphones",
+        "price": 4537,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "17",
+        "name": "HyperX CloudX Stinger 2 Core (White)",
+        "price": 4537,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "18",
+        "name": "Razer BlackShark V2 X White Wired Esports Headset",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "19",
+        "name": "Cosmic Byte CryoCore 7.1 Surround Wired Gaming Headset",
+        "price": 4499,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "20",
+        "name": "EvoFox Hyperion 7.1 Gaming Headphones",
+        "price": 3499,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "21",
+        "name": "HyperX Cloud II Wired Gaming Headset",
+        "price": 12987,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black-Red",
+        "frequency_response": "15 Hz - 25 kHz"
+    },
+    {
+        "id": "22",
+        "name": "Ant Esports Stealth 10 Wireless Gaming Headset",
+        "price": 2999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "23",
+        "name": "Razer Barracuda X (2022) Wireless Headset",
+        "price": 14999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "24",
+        "name": "Cosmic Byte Inferno Wireless + Bluetooth + Wired Headphone",
+        "price": 6999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "25",
+        "name": "HyperX Cloud III Wired Gaming Headset",
+        "price": 11037,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black/Red",
+        "frequency_response": "10 Hz - 21 kHz"
+    },
+    {
+        "id": "26",
+        "name": "havit H2002d Gaming Headsets",
+        "price": 8999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "27",
+        "name": "EKSA E900 Wired Stereo Gaming Headset",
+        "price": 3990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Red",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "28",
+        "name": "GOBOULT Fluid X Bluetooth Wireless Headphones",
+        "price": 5999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Jet Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "29",
+        "name": "Razer Blackshark V2 X Gaming Wired Headphones (Green)",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Green",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "30",
+        "name": "Cosmic Byte Proteus Headset Dual Input",
+        "price": 1999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "31",
+        "name": "daWg HeadBug G60 Lightweight Wireless Gaming Headphones",
+        "price": 8999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "32",
+        "name": "ZEBRONICS Envy 2 Wireless Over Ear Headphone",
+        "price": 3299,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "33",
+        "name": "Razer Kraken X Lite Ultralight Gaming Headset",
+        "price": 6999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Classic Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "34",
+        "name": "Cosmic Byte Immortal Wireless + Bluetooth Headphone",
+        "price": 5999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "35",
+        "name": "TAG Gamerz Titan RGB White Over-Ear Gaming Wired Headphone",
+        "price": 2199,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "36",
+        "name": "Cosmic Byte G2050 RGB 7.1 Surround Sound USB Gaming Headphone",
+        "price": 2599,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Blue",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "37",
+        "name": "EKSA E7000 Fenrir Gaming Wired On Ear Headset",
+        "price": 3199,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Black Green",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "38",
+        "name": "Logitech G431 Wired Over Ear Headphones",
+        "price": 7995,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "39",
+        "name": "EKSA E900 Pro Yellow Gaming Wired Headphones",
+        "price": 4990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Yellow",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "40",
+        "name": "SpinBot Ranger HX300 Wireless Bluetooth Over The Ear Headphones",
+        "price": 2999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "41",
+        "name": "SpinBot Ranger HX500 Over-Ear Tri-Mode Wireless Gaming Headphones",
+        "price": 2999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "42",
+        "name": "ASUS ROG Pelta Wireless Gaming Headset",
+        "price": 25812,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "43",
+        "name": "Sony INZONE H9 Wireless Noise Cancelling Gaming Headset",
+        "price": 27990,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "5 Hz - 20,000 Hz"
+    },
+    {
+        "id": "44",
+        "name": "HyperX Cloud Stinger 2 Gaming Headset",
+        "price": 4279,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "10 Hz - 28 kHz"
+    },
+    {
+        "id": "45",
+        "name": "Adcom Cyberpunk Wireless Bluetooth On Ear Gaming Headphones",
+        "price": 4999,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "46",
+        "name": "HyperX Cloud Stinger 2 Wireless Over Ear Gaming Headset",
+        "price": 11427,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "10 Hz - 20.2 kHz"
+    },
+    {
+        "id": "47",
+        "name": "Razer Kraken V4 X Wired Gaming Headset",
+        "price": 13999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "48",
+        "name": "GM True Wireless Earbuds",
+        "price": 2999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "49",
+        "name": "Logitech G 733 Lightspeed Over Ear Wireless Gaming Headset",
+        "price": 19495,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "50",
+        "name": "JBL Quantum 910 Wireless Headphones",
+        "price": 63699,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "51",
+        "name": "Hayden HY-HD10 Professional Studio Headphones",
+        "price": 2999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "52",
+        "name": "boAt Rockerz 550 Bluetooth Wireless Over Ear Headphones",
+        "price": 4999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Red",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "53",
+        "name": "CLAW GH40 Wired RGB Gaming Headset",
+        "price": 2490,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "54",
+        "name": "Razer BlackShark V2 Pro Wireless Gaming Headset 2023 Edition",
+        "price": 24999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "55",
+        "name": "Corsair HS35 v2 Wired Gaming Headset",
+        "price": 6000,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Blue",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "56",
+        "name": "GOBOULT Q Over Ear Bluetooth Headphones",
+        "price": 5999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "57",
+        "name": "boAt Rockerz 650 Pro Bluetooth Over Ear Headphones",
+        "price": 8990,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Starry Night",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "58",
+        "name": "Corsair HS80 RGB Wired USB Premium Gaming Headphones",
+        "price": 16250,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Carbon",
+        "frequency_response": "20 Hz - 40,000 Hz"
+    },
+    {
+        "id": "59",
+        "name": "ASUS ROG Delta S Animate Gaming Headset",
+        "price": 33134,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 40,000 Hz"
+    },
+    {
+        "id": "60",
+        "name": "Adcom Vision 7.1 USB Gaming Over Ear Stereo Headphone",
+        "price": 5999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Steel Grey",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "61",
+        "name": "Cosmic Byte Hades Wireless + Bluetooth Headphone",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "62",
+        "name": "Logitech G Pro X Gaming Wired Over Ear Headphones",
+        "price": 17495,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "63",
+        "name": "Ant Esports H1000 Pro Wired Over Ear Headphones",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "64",
+        "name": "boAt Rockerz 512 ANC Bluetooth Headphones",
+        "price": 7990,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Cosmic Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "65",
+        "name": "DROP + EPOS PC38X Gaming Wired Headphones",
+        "price": 67000,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Yellow",
+        "frequency_response": "10 Hz - 30 kHz"
+    },
+    {
+        "id": "66",
+        "name": "ZEBRONICS Duke Plus Wireless Over Ear Headphone",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "67",
+        "name": "Logitech G 335 Wired Gaming Headset",
+        "price": 7895,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "68",
+        "name": "ASUS Rog Cetra True In Ear Wireless Gaming Headphones",
+        "price": 35376,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Moonlight White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "69",
+        "name": "Hydro RGB Light Wireless Bluetooth Over Ear Gaming Headphone",
+        "price": 4999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "70",
+        "name": "Razer BlackShark V2 X - Analog Wired Gaming on Ear Headset - Quartz Edition",
+        "price": 7999,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Quartz Pink",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "71",
+        "name": "HyperX Cloud Stinger Core Gaming Headset",
+        "price": 4200,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "72",
+        "name": "PowerA LucidSound LS10P Gen 2 Wired Gaming Headset",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "73",
+        "name": "Boult Anchor Bluetooth Wireless Over Ear Headphones",
+        "price": 9999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "74",
+        "name": "EKSA StarEngine E5000S Gaming Headset",
+        "price": 4490,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "75",
+        "name": "Kreo Beluga V2 Wired Gaming Headset",
+        "price": 239900,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "76",
+        "name": "Razer Barracuda X (2022) Wireless Headset - Mercury White",
+        "price": 14999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Mercury White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "77",
+        "name": "AULA S505 USB Wired Gaming in Ear Headphones",
+        "price": 3999,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "Green",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "78",
+        "name": "Razer BlackShark V2 HyperSpeed Wireless Gaming Headset",
+        "price": 17999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "79",
+        "name": "Razer Barracuda X Chroma Wireless Headset",
+        "price": 21999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "80",
+        "name": "Razer Barracuda X Chroma - White Edition",
+        "price": 21999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "81",
+        "name": "Portronics Muffs M5 Over Ear Hybrid ANC Bluetooth Headphone",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "82",
+        "name": "Razer BlackShark V2 HyperSpeed - White Edition",
+        "price": 20999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "83",
+        "name": "Picozon Gaming Headset with Microphone",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Camouflage",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "84",
+        "name": "HyperX Cloud Alpha Gaming Headset",
+        "price": 24618,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Red/Black",
+        "frequency_response": "13 Hz - 27 kHz"
+    },
+    {
+        "id": "85",
+        "name": "Corsair HS55 Stereo Gaming Headset",
+        "price": 6200,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Carbon",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "86",
+        "name": "Corsair Virtuoso PRO Open Back Multiplatform Wired Gaming Headset",
+        "price": 27600,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Carbon",
+        "frequency_response": "20 Hz - 40 kHz"
+    },
+    {
+        "id": "87",
+        "name": "JBL Quantum 400 Premium Wired Over-Ear Gaming Headphones",
+        "price": 23868,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "88",
+        "name": "Redragon H510 Zeus Wired Gaming Headphones",
+        "price": 4990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "89",
+        "name": "Sony INZONE H3 Wired Gaming Headset",
+        "price": 9990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "10 Hz - 20,000 Hz"
+    },
+    {
+        "id": "90",
+        "name": "Sanpyl Wireless Gaming Headsets Cat Ear",
+        "price": 31334,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Rose",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "91",
+        "name": "HyperX Cloud Earbuds II Gaming Earbuds",
+        "price": 5187,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "92",
+        "name": "Noise Airwave Max 4 Wireless Over Ear Headphones",
+        "price": 5999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Carbon Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "93",
+        "name": "EKSA E1000 USB Gaming Headset",
+        "price": 3699,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "94",
+        "name": "Razer Kraken V3 Wired USB Gaming Headset",
+        "price": 14999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "95",
+        "name": "Boult Mustang Torq Wireless in Ear Earbuds",
+        "price": 5999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Yellow",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "96",
+        "name": "ASUS Rog Fusion Ii 300 Gaming Headset",
+        "price": 19999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 40,000 Hz"
+    },
+    {
+        "id": "97",
+        "name": "Razer BlackShark V2 X PlayStation Gaming Headset",
+        "price": 9999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "12 Hz - 28 kHz"
+    },
+    {
+        "id": "98",
+        "name": "Sony INZONE E9 Wired in-Ear Monitor",
+        "price": 18990,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "10 Hz - 20,000 Hz"
+    },
+    {
+        "id": "99",
+        "name": "Razer Barracuda Pro Wireless Gaming & Mobile Headset",
+        "price": 29990,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "100",
+        "name": "FRONTECH Dragon Warrior Gaming Headphone (Combo Set)",
+        "price": 3000,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "101",
+        "name": "Nitho NX200 Gaming Headset",
+        "price": 2299,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Blue",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "102",
+        "name": "Drumstone 5 Years Warranty Wired Over-Ear Gaming Headphones",
+        "price": 5299,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "103",
+        "name": "ATORSE Psh-200 Gaming Headset",
+        "price": 4799,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Pink",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "104",
+        "name": "EKSA StarEngine Wired Gaming Headset",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "105",
+        "name": "Lenovo H110 Wired Gaming Headphones",
+        "price": 5090,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "106",
+        "name": "Wireless Gaming Headset 2.4GHz Bluetooth 5.4",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black-White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "107",
+        "name": "FIFINE Gaming Headset for PC H9",
+        "price": 15047,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "108",
+        "name": "Circle Aura Magnus Wired Gaming USB Headphones",
+        "price": 4990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "109",
+        "name": "Gaming Headphones Onikuma K16 RGB",
+        "price": 399,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "110",
+        "name": "beyerdynamic MMX 100 Analog Gaming Headset",
+        "price": 10339,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "5 Hz - 30 kHz"
+    },
+    {
+        "id": "111",
+        "name": "Redragons H510 Zeus Gaming Headphones",
+        "price": 12340,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Red/Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "112",
+        "name": "DIGIMORE Professional Studio Headphones",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "113",
+        "name": "SteelSeries New Arctis Nova Pro Xbox Wired Gaming Headset",
+        "price": 39999,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "10 Hz - 40 kHz"
+    },
+    {
+        "id": "114",
+        "name": "Vibez by Lifelong Gaming Headphones",
+        "price": 7699,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "115",
+        "name": "Razer Barracuda X (2022) Wireless Headset - Quartz Pink",
+        "price": 16999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Quartz Pink",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "116",
+        "name": "Amazon Basics Pro Series Wired USB On Ear Headset",
+        "price": 3999,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "117",
+        "name": "Gaming Headphones K10 7.1 Wired Headset",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "118",
+        "name": "Headphones Cat Ear Wireless Bluetooth",
+        "price": 6397,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Blue",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "119",
+        "name": "JBL Quantum Wired Over Ear Headphones",
+        "price": 5499,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "120",
+        "name": "HyperX Cloud Core Wireless Gaming On Ear Headset",
+        "price": 659900,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "10 Hz - 21 kHz"
+    },
+    {
+        "id": "121",
+        "name": "JBL Tune 510BT On Ear Wireless Headphones",
+        "price": 4449,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "122",
+        "name": "Sennheiser HD 560S Open-Back Audiophile Headphones",
+        "price": 20990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "6 Hz - 38 kHz"
+    },
+    {
+        "id": "123",
+        "name": "Hecate Edifier G30 II Wired Gaming Headset",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "124",
+        "name": "CrossBeats Fury Max Gaming TWS in-Ear Buds",
+        "price": 5999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "125",
+        "name": "Pink Gaming Headset with Mic",
+        "price": 8719,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Pink",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "126",
+        "name": "PSS Gaming Headset with Microphone",
+        "price": 3990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "127",
+        "name": "Audio-Technica ATH-M50X Wired Over Ear Headphones",
+        "price": 23600,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "15 Hz - 28,000 Hz"
+    },
+    {
+        "id": "128",
+        "name": "FIFINE USB Gaming Headset AmpliGame H6",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "129",
+        "name": "realme Buds Wireless 5 ANC in Ear Bluetooth Headphones",
+        "price": 2799,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Midnight Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "130",
+        "name": "Hyperx Cloud Stinger Core Bluetooth Wireless Headphones",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "131",
+        "name": "ASUS TUF H3 Wired Over Ear Headphones",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Gun Metal",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "132",
+        "name": "Edifier G35 PC Gaming Headset",
+        "price": 8990,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "133",
+        "name": "soundcore by Anker H30i Wireless On-Ear Headphones",
+        "price": 3999,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "134",
+        "name": "GM G+ Headphones Over The Ear",
+        "price": 3299,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "135",
+        "name": "WeCool Moonwalk M1 Pro Open Ear Earbuds",
+        "price": 189900,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "136",
+        "name": "CLAW SM50 Professional Studio Monitoring Wired Headphones",
+        "price": 174,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "137",
+        "name": "realme Buds Wireless 3 in Ear Bluetooth Headphones",
+        "price": 2999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "138",
+        "name": "Cat Ear Bluetooth Headphones for Kids & Adults",
+        "price": 11281,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black Sword",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "139",
+        "name": "Skullcandy Hesh ANC Wireless Headphones",
+        "price": 599900,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "140",
+        "name": "OnePlus Nord Buds 3 Pro Truly Wireless Earbuds",
+        "price": 3699,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Starry Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "141",
+        "name": "HAMMER Bash Pro Hybrid ANC Wireless Headphones",
+        "price": 11999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "142",
+        "name": "HAMMER Bash 2.0 Over The Ear Wireless Bluetooth Headphones",
+        "price": 8245,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Grey",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "143",
+        "name": "Audio Array AH-50 Professional Studio Headphones",
+        "price": 194900,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "144",
+        "name": "Zebronics in-Ear Wireless Earbuds (Monk Pro)",
+        "price": 5999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Grey",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "145",
+        "name": "JBL Tune 510BT On Ear Wireless Headphones (White)",
+        "price": 4499,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "146",
+        "name": "JBL Tune 720BT Wireless Over Ear Headphones",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Blue",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "147",
+        "name": "Sony IER-EX15C Wired in Ear Headphones",
+        "price": 2490,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "148",
+        "name": "boAt Immortal 181 in Ear TWS Gaming Earbuds",
+        "price": 3490,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "White Sabre",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "149",
+        "name": "soundcore V20I By Anker Open Ear Headphones",
+        "price": 7998,
+        "type": "On-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "150",
+        "name": "Honeywell New Suono P40 Wired On-Ear Headphones",
+        "price": 4999,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "151",
+        "name": "Apple EarPods (USB-C)",
+        "price": 2000,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "152",
+        "name": "Drumstone Wired Gaming Headphones RGB Light",
+        "price": 7289,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "153",
+        "name": "Noise Airwave Pro Bluetooth in Ear Neckband",
+        "price": 3999,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Matte Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "154",
+        "name": "Astro A10 Gaming Headset Gen 2",
+        "price": 14433,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "155",
+        "name": "Sony WH-1000XM6 Wireless Noise Canceling Headphones",
+        "price": 49990,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Midnight Blue",
+        "frequency_response": "4 Hz - 40,000 Hz"
+    },
+    {
+        "id": "156",
+        "name": "Concept Kart KZ ZSN Pro X Monitor In Ear Earphones",
+        "price": 3999,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "Golden",
+        "frequency_response": "20 Hz - 40 kHz"
+    },
+    {
+        "id": "157",
+        "name": "Drumstone G9000 Pro 7.1 Surround Gaming Headphones",
+        "price": 7999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "158",
+        "name": "MAONO Professional Over Ear Headphones for Studio Recording",
+        "price": 3299,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "159",
+        "name": "Boat Nirvana Ion TWS Earbuds",
+        "price": 7990,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Charcoal Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "160",
+        "name": "PowerA LucidSound LS10P Gen 2 Wired Gaming Headset (Black)",
+        "price": 3999,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "161",
+        "name": "Noise Master Buds Max Wireless Over-Ear Headphones",
+        "price": 11999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Onyx",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "162",
+        "name": "Edifier G2 II Gaming Headset",
+        "price": 0,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "163",
+        "name": "Lenovo Legion H200 Wired On Ear Headphones",
+        "price": 6190,
+        "type": "On-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "164",
+        "name": "Razer Barracuda Wireless Gaming & Mobile Headset",
+        "price": 20198,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "165",
+        "name": "KZ Gale Gaming IEM Wired in-Ear Monitor Earphones",
+        "price": 2579,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "166",
+        "name": "Apple EarPods with Lightning Connector",
+        "price": 2000,
+        "type": "In-ear",
+        "wireless": false,
+        "color": "White",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "167",
+        "name": "OneOdio A71 Over Ear Headphones",
+        "price": 301099,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "168",
+        "name": "Drumstone Wireless Over-Ear Gaming Headphones",
+        "price": 6999,
+        "type": "Over-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "169",
+        "name": "BigPassport USB Wired Over Ear Headphones",
+        "price": 3250,
+        "type": "Over-ear",
+        "wireless": false,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    },
+    {
+        "id": "170",
+        "name": "Spigen Audio SA-TW P20 True Wireless Earbuds",
+        "price": 4299,
+        "type": "In-ear",
+        "wireless": true,
+        "color": "Black",
+        "frequency_response": "20 Hz - 20 kHz"
+    }
+]

@@ -1,0 +1,1200 @@
+[
+    {
+        "id": "1",
+        "name": "WD Black SN850 X PCIE Gen4 2TB SSD with Heatsink New",
+        "price": 30157,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_2_wd-black-sn850-x-pcie-gen4-2tb-ssd-with-heatsink-new-1747637472458.webp"
+    },
+    {
+        "id": "2",
+        "name": "WD Blue 3D NAND 4 TB",
+        "price": 28063,
+        "type": "SATA SSD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_3_wd-blue-3d-nand-4-tb-1747641871468.jpg"
+    },
+    {
+        "id": "3",
+        "name": "WD Blue SA510 WDS200T3B0A-00C7K0 - SSD - 2 TB",
+        "price": 14241,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_4_wd-blue-sa510-wds200t3b0a-00c7k0-ssd-2-tb-sata-6gbs-hero-1761658366764.avif"
+    },
+    {
+        "id": "4",
+        "name": "WD Blue 3D NAND 500 GB (WDS500G3B0A-00AXR0)",
+        "price": 4747,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_5_wd-blue-3d-nand-500-gb-wds500g3b0a-00axr0-1747644498779.webp"
+    },
+    {
+        "id": "5",
+        "name": "WD Blue 3D NAND 250 GB (WDS250G3B0A-00AXR0)",
+        "price": 3490,
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_6_wd-blue-3d-nand-250-gb-wds250g3b0a-00axr0-1747644843243.webp"
+    },
+    {
+        "id": "6",
+        "name": "WD Blue 500 GB SN5000 PCIe Gen4 3D NAND",
+        "price": 5338,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_7_wd-blue-500-gb-sn5000-pcie-gen4-3d-nand-new-wds500g4b0e-00cnz0-1747659805512.jpg"
+    },
+    {
+        "id": "7",
+        "name": "WD BLACK SN8100 NVMe Gen 5 4TB SSD wo Heatsink",
+        "price": 51659,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_8_wd-black-sn8100-nvme-gen-5-wds400t1x0m-00cmt0-4tb-ssd-wo-heatsink-1747719650264.png"
+    },
+    {
+        "id": "8",
+        "name": "WD Black SN850 X PCIE Gen4 8TB SSD Wo Heatsink",
+        "price": 74695,
+        "type": "NVMe SSD",
+        "capacity": "8TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_9_wd-black-sn850-x-pcie-gen4-8tb-ssd-wo-heatsinkwds800t2x0e-00cdd0-new-1747720071229.jpg"
+    },
+    {
+        "id": "9",
+        "name": "WD Black SN850 X PCIE Gen4 4TB SSD Wo Heatsink",
+        "price": 51659,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_10_wd-black-sn850-x-pcie-gen4-4tb-ssd-wo-heatsinkwds400t2x0e-00bca0-1747720566109.jpg"
+    },
+    {
+        "id": "10",
+        "name": "WD Black SN850 X PCIE Gen4 2TB SSD Wo Heatsink",
+        "price": 27924,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_11_wd-black-sn850-x-pcie-gen4-2tb-ssd-wo-heatsink-newwds200t2x0e-00bca0-1747720829137.jpg"
+    },
+    {
+        "id": "11",
+        "name": "WD Black SN850 X PCIE Gen4 1TB SSD Wo Heatsink",
+        "price": 16335,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_12_wd-black-sn850-x-pcie-gen4-1tb-ssd-wo-heatsink-newwds100t2x0e-00bca0-1747723230077.jpg"
+    },
+    {
+        "id": "12",
+        "name": "WD Black SN850 X PCIE Gen4 4TB SSD with Heatsink",
+        "price": 53753,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_13_wd-black-sn850-x-pcie-gen4-4tb-ssd-with-heatsink-newwds400t2xhe-00bca0-1747723879318.jpg"
+    },
+    {
+        "id": "13",
+        "name": "WD BLACK 2TB SN770M PCIe Gen 4",
+        "price": 22060,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_2_wd-black-2tb-sn770m-pcie-gen-4-newwds200t3x0g-00chy0-1747728144185.jpg"
+    },
+    {
+        "id": "14",
+        "name": "WD BLACK 1TB SN770M PCIe Gen 4",
+        "price": 11728,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_3_wd-black-1tb-sn770m-pcie-gen-4-newwds100t3x0g-00chy0-1747728409033.webp"
+    },
+    {
+        "id": "15",
+        "name": "WD BLACK 500GB SN770M PCIe Gen 4",
+        "price": 5585,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_4_wd-black-500gb-sn770m-pcie-gen-4-newwds500g3x0g-00chy0-1747728865896.webp"
+    },
+    {
+        "id": "16",
+        "name": "WD BLACK 2TB SN770 PCIe Gen 4",
+        "price": 16056,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_2_wd-black-2tb-sn770m-pcie-gen-4-newwds200t3x0g-00chy0-1747728144185.jpg"
+    },
+    {
+        "id": "17",
+        "name": "WD BLACK 1TB SN770 PCIe Gen 4",
+        "price": 9494,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_3_wd-black-1tb-sn770m-pcie-gen-4-newwds100t3x0g-00chy0-1747728409033.webp"
+    },
+    {
+        "id": "18",
+        "name": "WD Black SN850 X PCIE Gen4 1TB SSD with Heatsink",
+        "price": 18569,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_7_wd-black-sn850-x-pcie-gen4-1tb-ssd-with-heatsink-newwds100t2xhe-00bca0-1747748373588.webp"
+    },
+    {
+        "id": "19",
+        "name": "Crucial P37 500GB NVMe SSD",
+        "price": 6570,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_8_crucial-p37-500gb-nvme-ssd-hero-1751350767713.webp"
+    },
+    {
+        "id": "20",
+        "name": "Crucial E100 1TB PCIe Gen4 2280 NVMe M.2 SSD",
+        "price": 6639,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_9_crucial-e100-1tb-pcie-gen4-2280-nvme-m2-ssd-hero-1751351182010.jpg"
+    },
+    {
+        "id": "21",
+        "name": "Crucial P3 Plus 1TB PCIe 4.0 3D NAND NVMe M.2 SSD",
+        "price": 10814,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_10_crucial-p3-plus-pcie-nvme-m2-ssd-hero-1758879014600.jpg"
+    },
+    {
+        "id": "22",
+        "name": "Gigabyte 500GB NVMe Gen4 M.2 SSD",
+        "price": 4243,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_11_gigabyte-500gb-nvme-gen4-m2-ssd-hero-1751351715170.png"
+    },
+    {
+        "id": "23",
+        "name": "Crucial BX500 500GB 2.5-inch SATA III SSD",
+        "price": 6296,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_12_crucial-bx500-500gb-25-inch-sata-iii-ssd-hero-1759752312447.jpg"
+    },
+    {
+        "id": "24",
+        "name": "Crucial E100 1TB NVMe Gen 4 SSD",
+        "price": 10814,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_13_crucial-e100-1tb-nvme-gen-4-ssd-hero-1759817427063.jpg"
+    },
+    {
+        "id": "25",
+        "name": "Samsung SSD T7 1TB Shield Black",
+        "price": 13483,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_10_samsung-ssd-t7-shield-1tb-portable-ssd-black-hero-1760432628727.webp"
+    },
+    {
+        "id": "26",
+        "name": "SAMSUNG EVO Plus 128GB Class 10",
+        "price": 1103,
+        "type": "MicroSD",
+        "capacity": "128GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_3_samsung-flash-storage-device-evo-plus-128gb-class-10-mb-mc128sain-hero-1760429929700.png"
+    },
+    {
+        "id": "27",
+        "name": "SAMSUNG EVO Plus 256GB Class 10",
+        "price": 2290,
+        "type": "MicroSD",
+        "capacity": "256GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_4_samsung-flash-storage-device-evo-plus-256gb-class-10storagessd-hero-1760430187207.jpg"
+    },
+    {
+        "id": "28",
+        "name": "SAMSUNG EVO Plus 512GB Class 10",
+        "price": 3909,
+        "type": "MicroSD",
+        "capacity": "512GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_6_samsung-flash-storage-device-evo-plus-512gb-class-10-storagessd-hero-1760430595924.jpg"
+    },
+    {
+        "id": "29",
+        "name": "SAMSUNG EVO Plus 1TB microSDXC UHS-I",
+        "price": 8021,
+        "type": "MicroSD",
+        "capacity": "1TB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_7_samsung-flash-storage-device-evo-plus-1tb-microsdxc-uhs-i-storagessd-hero-1760430745746.webp"
+    },
+    {
+        "id": "30",
+        "name": "SAMSUNG PRO Plus 128GB Class 10",
+        "price": 1424,
+        "type": "MicroSD",
+        "capacity": "128GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_8_samsung-flash-storage-device-pro-plus-128gb-class-10storagessd-hero-1760430891307.jpg"
+    },
+    {
+        "id": "31",
+        "name": "SAMSUNG PRO Plus 256GB Class 10",
+        "price": 2290,
+        "type": "MicroSD",
+        "capacity": "256GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_9_samsung-flash-storage-device-pro-plus-256gb-class-10storagessd-hero-1760431065831.jpg"
+    },
+    {
+        "id": "32",
+        "name": "SAMSUNG PRO Plus 512GB Class 10",
+        "price": 4468,
+        "type": "MicroSD",
+        "capacity": "512GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_10_samsung-flash-storage-device-pro-plus-512gb-class-10storagessd-hero-1760431181941.jpg"
+    },
+    {
+        "id": "33",
+        "name": "SAMSUNG PRO Ultimate 128GB microSD Card",
+        "price": 1732,
+        "type": "MicroSD",
+        "capacity": "128GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_11_samsung-flash-storage-device-pro-ultimate-128gb-microsd-card-storagessd-hero-1760431375676.jpg"
+    },
+    {
+        "id": "34",
+        "name": "SAMSUNG PRO Ultimate 256GB microSD Card",
+        "price": 2680,
+        "type": "MicroSD",
+        "capacity": "256GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_12_samsung-flash-storage-device-pro-ultimate-256gb-microsd-card-storagessd-hero-1760431521300.webp"
+    },
+    {
+        "id": "35",
+        "name": "SAMSUNG PRO Ultimate 512GB microSD Card",
+        "price": 5138,
+        "type": "MicroSD",
+        "capacity": "512GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_13_samsung-flash-storage-device-pro-ultimate-512gb-microsd-cardstoragessd-hero-1760431644261.jpg"
+    },
+    {
+        "id": "36",
+        "name": "SAMSUNG SSD T7 1TB Portable SSD Indigo Blue",
+        "price": 10611,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_2_samsung-ssd-t7-1tb-portable-ssd-indigo-blue-storagessd-hero-1760431757577.avif"
+    },
+    {
+        "id": "37",
+        "name": "SAMSUNG SSD T7 1TB PORTABLE SSD TITAN GRAY",
+        "price": 10403,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_3_samsung-ssd-t7-1tb-portable-ssd-titan-graystoragessd-hero-1760431887012.avif"
+    },
+    {
+        "id": "38",
+        "name": "SAMSUNG SSD T7 2TB Portable SSD Indigo Blue",
+        "price": 17648,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_4_samsung-ssd-t7-2tb-portable-ssd-indigo-blue-storagessd-hero-1760432010198.jpg"
+    },
+    {
+        "id": "39",
+        "name": "SAMSUNG SSD T7 2TB PORTABLE SSD TITAN GRAY",
+        "price": 17648,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_5_samsung-ssd-t7-2tb-portable-ssd-titan-graystoragessd-hero-1760432114541.webp"
+    },
+    {
+        "id": "40",
+        "name": "SAMSUNG SSD T7 4TB PORTABLE SSD GRAY",
+        "price": 31805,
+        "type": "External SSD",
+        "capacity": "4TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_6_samsung-ssd-t7-4tb-portable-ssd-gray-storagessd-hero-1760432241433.jpg"
+    },
+    {
+        "id": "41",
+        "name": "SAMSUNG SSD T5 EVO 2TB Portable SSD",
+        "price": 19197,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 1",
+        "image": "ssds/imgi_7_samsung-ssd-t5-evo-2tb-portable-ssdstoragessd-hero-1760432344101.jpg"
+    },
+    {
+        "id": "42",
+        "name": "SAMSUNG SSD T5 EVO 4TB PORTABLE SSD",
+        "price": 35281,
+        "type": "External SSD",
+        "capacity": "4TB",
+        "interface": "USB 3.2 Gen 1",
+        "image": "ssds/imgi_8_samsung-ssd-t5-evo-4tb-portable-ssd-storagessd-hero-1760432440597.webp"
+    },
+    {
+        "id": "43",
+        "name": "SAMSUNG SSD T5 EVO 8TB PORTABLE SSD",
+        "price": 65299,
+        "type": "External SSD",
+        "capacity": "8TB",
+        "interface": "USB 3.2 Gen 1",
+        "image": "ssds/imgi_9_samsung-ssd-t5-evo-8tb-portable-ssd-storagessd-hero-1760432523931.webp"
+    },
+    {
+        "id": "44",
+        "name": "SAMSUNG SSD T7 SHIELD 1TB PORTABLE SSD BLACK",
+        "price": 13417,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_10_samsung-ssd-t7-shield-1tb-portable-ssd-black-hero-1760432628727.webp"
+    },
+    {
+        "id": "45",
+        "name": "SAMSUNG SSD T7 SHIELD 2TB PORTABLE SSD BLACK",
+        "price": 23316,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_11_samsung-ssd-t7-shield-2tb-portable-ssd-black-storagessd-hero-1760432719723.jpg"
+    },
+    {
+        "id": "46",
+        "name": "SAMSUNG SSD T7 SHIELD 1TB PORTABLE SSD BEIGE",
+        "price": 13417,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_12_samsung-ssd-t7-shield-1tb-portable-ssd-beigestoragessd-hero-1760432853896.jpg"
+    },
+    {
+        "id": "47",
+        "name": "SAMSUNG SSD T7 SHIELD 2TB PORTABLE SSD BEIGE",
+        "price": 23316,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_13_samsung-ssd-t7-shield-2tb-portable-ssd-beigestoragessd-hero-1760432924368.jpg"
+    },
+    {
+        "id": "48",
+        "name": "SAMSUNG SSD T7 SHIELD 1TB PORTABLE SSD BLUE",
+        "price": 13417,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_2_samsung-ssd-t7-shield-1tb-portable-ssd-bluestoragessd-hero-1760433065913.jpg"
+    },
+    {
+        "id": "49",
+        "name": "SAMSUNG SSD T7 SHIELD 2TB PORTABLE SSD BLUE",
+        "price": 23316,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_3_samsung-ssd-t7-shield-2tb-portable-ssd-blue-hero-1760433153375.jpg"
+    },
+    {
+        "id": "50",
+        "name": "SAMSUNG SSD T7 SHIELD 4TB PORTABLE SSD BLACK",
+        "price": 42905,
+        "type": "External SSD",
+        "capacity": "4TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_4_samsung-ssd-t7-shield-4tb-portable-ssd-black-mu-pe4t0sww-hero-1760433254048.jpg"
+    },
+    {
+        "id": "51",
+        "name": "SAMSUNG SSD T9 GEN 2X2 1TB PORTABLE SSD BLACK",
+        "price": 13376,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_5_samsung-ssd-t9-gen-2x2-1tb-portable-ssd-black-storagessd-hero-1760433397795.avif"
+    },
+    {
+        "id": "52",
+        "name": "SAMSUNG SSD T9 GEN 2X2 2TB PORTABLE SSD BLACK",
+        "price": 22478,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_6_samsung-ssd-t9-gen-2x2-2tb-portable-ssd-black-mu-pg2t0bww-hero-1760433457485.avif"
+    },
+    {
+        "id": "53",
+        "name": "SAMSUNG SSD T9 GEN 2X2 4TB PORTABLE SSD BLACK",
+        "price": 39120,
+        "type": "External SSD",
+        "capacity": "4TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_7_samsung-ssd-t9-gen-2x2-4tb-portable-ssd-blackstoragessd-hero-1760433548600.avif"
+    },
+    {
+        "id": "54",
+        "name": "SAMSUNG SSD 870 EVO 2.5INCH SATA 250GB",
+        "price": 5585,
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_8_samsung-ssd-870-evo-25inch-sata-250gb-storagessd-hero-1760433669129.webp"
+    },
+    {
+        "id": "55",
+        "name": "SAMSUNG SSD 870 EVO 2.5-inch SATA 500GB",
+        "price": 6814,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_9_samsung-ssd-870-evo-25-inch-sata-500gbstoragessd-hero-1760433820027.avif"
+    },
+    {
+        "id": "56",
+        "name": "SAMSUNG SSD 870 EVO 2.5INCH SATA 1TB",
+        "price": 11504,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_samsung-ssd-870-evo-25inch-sata-1tb-storagessd-hero-1760433909054.avif"
+    },
+    {
+        "id": "57",
+        "name": "SAMSUNG SSD 870 EVO 2.5INCH SATA 2TB",
+        "price": 20537,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_11_samsung-ssd-870-evo-25inch-sata-2tb-hero-1760434003914.jpg"
+    },
+    {
+        "id": "58",
+        "name": "SAMSUNG SSD 870 EVO 2.5INCH SATA 4TB",
+        "price": 39484,
+        "type": "SATA SSD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_12_samsung-ssd-870-evo-25inch-sata-4tb-storagessd-hero-1760434095689.jpg"
+    },
+    {
+        "id": "59",
+        "name": "SAMSUNG SSD 870 QVO 8TB 2.5 INCH SATA",
+        "price": 83086,
+        "type": "SATA SSD",
+        "capacity": "8TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_13_samsung-ssd-870-qvo-8tb-25-inch-sata-storagessd-hero-1760434260148.jpg"
+    },
+    {
+        "id": "60",
+        "name": "SAMSUNG SSD 980 M.2 NVME 250GB",
+        "price": 4503,
+        "type": "NVMe SSD",
+        "capacity": "250GB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_2_samsung-ssd-980-m2-nvme-250gb-storagessd-hero-1760434388332.jpg"
+    },
+    {
+        "id": "61",
+        "name": "SAMSUNG SSD 980 M.2 NVME 500GB",
+        "price": 6422,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_3_samsung-ssd-980-m2-nvme-500gb-mz-v8v500bw-hero-1760434480698.webp"
+    },
+    {
+        "id": "62",
+        "name": "SAMSUNG SSD 980 M.2 NVME 1TB",
+        "price": 11867,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_4_samsung-ssd-980-m2-nvme-1tb-storagessd-hero-1760435655148.webp"
+    },
+    {
+        "id": "63",
+        "name": "SAMSUNG SSD 990 EVO M.2 NVME 1TB",
+        "price": 13570,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_5_samsung-ssd-990-evo-m2-nvme-1tb-storagessd-hero-1760435782137.jpg"
+    },
+    {
+        "id": "64",
+        "name": "SAMSUNG SSD 990 EVO M.2 NVME 2TB",
+        "price": 19421,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_6_samsung-ssd-990-evo-m2-nvme-2tb-storagessd-hero-1760435910578.jpg"
+    },
+    {
+        "id": "65",
+        "name": "SAMSUNG SSD 990 EVO PLUS M.2 NVME 1TB",
+        "price": 9103,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_7_samsung-ssd-990-evo-plus-m2-nvme-1tbstoragessd-hero-1760436059565.jpg"
+    },
+    {
+        "id": "66",
+        "name": "SAMSUNG SSD 990 EVO PLUS M.2 NVME 2TB",
+        "price": 16502,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_8_samsung-ssd-990-evo-plus-m2-nvme-2tb-storagessd-hero-1760436140768.jpg"
+    },
+    {
+        "id": "67",
+        "name": "SAMSUNG SSD 990 EVO Plus M.2 NVMe 4TB",
+        "price": 30825,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_9_title-samsung-ssd-990-evo-plus-m2-nvme-4tbstoragessd-hero-1760436300553.webp"
+    },
+    {
+        "id": "68",
+        "name": "SAMSUNG SSD 990 PRO M.2 NVMe 1TB",
+        "price": 13140,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+    },
+    {
+        "id": "69",
+        "name": "SAMSUNG SSD 990 PRO M.2 NVME 2TB",
+        "price": 20915,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_11_samsung-ssd-990-pro-m2-nvme-2tbstoragessd-hero-1760436719496.jpg"
+    },
+    {
+        "id": "70",
+        "name": "SAMSUNG SSD 990 PRO M.2 NVME 4TB",
+        "price": 38534,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_12_samsung-ssd-990-pro-m2-nvme-4tbstoragessd-hero-1760437011234.jpg"
+    },
+    {
+        "id": "71",
+        "name": "SAMSUNG SSD 990 PRO 1TB M.2 NVME HEATSINK",
+        "price": 14269,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+    },
+    {
+        "id": "72",
+        "name": "SAMSUNG SSD 990 PRO 2TB M.2 NVME HEATSINK",
+        "price": 22395,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_2_samsung-ssd-990-pro-2tb-m2-nvme-heatsink-storagessd-hero-1760437269216.webp"
+    },
+    {
+        "id": "73",
+        "name": "SAMSUNG SSD 9100 PRO 1TB M.2 PCIe 5.0 NVMe",
+        "price": 17592,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_3_samsung-ssd-9100-pro-1tb-m2-pcie-50-nvme-storagessd-hero-1760437382874.jpg"
+    },
+    {
+        "id": "74",
+        "name": "SAMSUNG SSD 9100 PRO M.2 PCIE 5.0 NVME 2TB",
+        "price": 26388,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_4_samsung-ssd-9100-pro-m2-pcie-50-nvme-2tb-storagessd-hero-1760437503417.png"
+    },
+    {
+        "id": "75",
+        "name": "SAMSUNG SSD 9100 PRO M.2 PCIE 5.0 NVME 4TB",
+        "price": 48727,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_5_samsung-ssd-9100-pro-m2-pcie-50-nvme-4tb-mz-vap4t0bw-hero-1760437600999.jpg"
+    },
+    {
+        "id": "76",
+        "name": "SAMSUNG SSD PM893 2.5INCH SATA 960GB",
+        "price": 23735,
+        "type": "SATA SSD",
+        "capacity": "960GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_6_samsung-ssd-pm893-25inch-sata-960gb-storagessd-hero-1760438781965.jpg"
+    },
+    {
+        "id": "77",
+        "name": "SAMSUNG SSD PM893 2.5INCH SATA 480GB",
+        "price": 13822,
+        "type": "SATA SSD",
+        "capacity": "480GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_7_samsung-ssd-pm893-25inch-sata-480gb-storagessd-hero-1760438928771.jpg"
+    },
+    {
+        "id": "78",
+        "name": "SAMSUNG SSD PM893 2.5INCH SATA 1.92TB",
+        "price": 40210,
+        "type": "SATA SSD",
+        "capacity": "1.92TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_8_samsung-ssd-pm893-25inch-sata-192tb-mz-7l31t900-hero-1760439051263.jpg"
+    },
+    {
+        "id": "79",
+        "name": "SAMSUNG SSD PM893 2.5-Inch SATA 3.84TB",
+        "price": 70088,
+        "type": "SATA SSD",
+        "capacity": "3.84TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_9_samsung-ssd-pm893-25-inch-sata-384tb-storagessd-hero-1760439937894.jpg"
+    },
+    {
+        "id": "80",
+        "name": "SAMSUNG SSD PM893 2.5-Inch SATA 7.68TB",
+        "price": 136686,
+        "type": "SATA SSD",
+        "capacity": "7.68TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_samsung-ssd-pm893-25-inch-sata-768tb-storagessd-hero-1760439252834.png"
+    },
+    {
+        "id": "81",
+        "name": "SAMSUNG SSD NVMe U.2 1.92TB",
+        "price": 42932,
+        "type": "NVMe SSD",
+        "capacity": "1.92TB",
+        "interface": "U.2 NVMe",
+        "image": "ssds/imgi_11_samsung-ssd-nvme-u2-192tb-storagessd-hero-1760439698332.jpg"
+    },
+    {
+        "id": "82",
+        "name": "SAMSUNG SSD NVMe U.2 3.84TB",
+        "price": 74835,
+        "type": "NVMe SSD",
+        "capacity": "3.84TB",
+        "interface": "U.2 NVMe",
+        "image": "ssds/imgi_12_samsung-ssd-nvme-u2-384tbstoragessd-hero-1760440099086.webp"
+    },
+    {
+        "id": "83",
+        "name": "SAMSUNG SSD NVMe U.2 7.68TB",
+        "price": 122863,
+        "type": "NVMe SSD",
+        "capacity": "7.68TB",
+        "interface": "U.2 NVMe",
+        "image": "ssds/imgi_13_samsung-ssd-nvme-u2-768tb-storagessd-hero-1760440254110.avif"
+    },
+    {
+        "id": "84",
+        "name": "SAMSUNG Flash Drive FIT Plus 64GB USB 3.1",
+        "price": 1187,
+        "type": "Flash Drive",
+        "capacity": "64GB",
+        "interface": "USB 3.1",
+        "image": "ssds/imgi_2_samsung-flash-drive-fit-plus-64gb-usb-31storagessd-hero-1760440358231.jpg"
+    },
+    {
+        "id": "85",
+        "name": "SAMSUNG Flash Drive FIT Plus 128GB USB 3.1",
+        "price": 1955,
+        "type": "Flash Drive",
+        "capacity": "128GB",
+        "interface": "USB 3.1",
+        "image": "ssds/imgi_3_samsung-flash-drive-fit-plus-128gb-usb-31-storagessd-hero-1760440459634.jpg"
+    },
+    {
+        "id": "86",
+        "name": "SAMSUNG Flash Drive FIT Plus 256GB USB 3.1",
+        "price": 3267,
+        "type": "Flash Drive",
+        "capacity": "256GB",
+        "interface": "USB 3.1",
+        "image": "ssds/imgi_4_samsung-flash-drive-fit-plus-256gb-usb-31-apcstoragessd-hero-1760440579981.jpg"
+    },
+    {
+        "id": "87",
+        "name": "SAMSUNG FLASH DRIVE 64GB TYPE-C",
+        "price": 1187,
+        "type": "Flash Drive",
+        "capacity": "64GB",
+        "interface": "USB Type-C",
+        "image": "ssds/imgi_5_samsung-flash-drive-64gb-type-c-storagessd-hero-1760440708857.jpg"
+    },
+    {
+        "id": "88",
+        "name": "SAMSUNG FLASH DRIVE 128GB TYPE-C",
+        "price": 1955,
+        "type": "Flash Drive",
+        "capacity": "128GB",
+        "interface": "USB Type-C",
+        "image": "ssds/imgi_6_samsung-flash-drive-128gb-type-c-storagessd-hero-1760440789122.jpg"
+    },
+    {
+        "id": "89",
+        "name": "SAMSUNG FLASH DRIVE 256GB TYPE-C",
+        "price": 3267,
+        "type": "Flash Drive",
+        "capacity": "256GB",
+        "interface": "USB Type-C",
+        "image": "ssds/imgi_7_samsung-flash-drive-256gb-type-c-storagessd-hero-1760440929993.jpg"
+    },
+    {
+        "id": "90",
+        "name": "WD_BLACK SN7100 PCIe Gen4 NVMe SSD – 1TB",
+        "price": 8350,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_8_wdblack-sn7100-pcie-gen4-nvme-ssd-1tb-hero-1760512868019.jpg"
+    },
+    {
+        "id": "91",
+        "name": "WD_BLACK SN7100 PCIe Gen4 NVMe SSD – 2TB",
+        "price": 14509,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_9_wdblack-sn7100-pcie-gen4-nvme-ssd-2tb-hero-1760512977591.jpg"
+    },
+    {
+        "id": "92",
+        "name": "WD Green 3D NAND 480 GB",
+        "price": 4468,
+        "type": "SATA SSD",
+        "capacity": "480GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_wd-green-3d-nand-480-gb-new-bics-5-hero-1760514981459.jpg"
+    },
+    {
+        "id": "93",
+        "name": "WD Green™3D NAND 240 GB",
+        "price": 2932,
+        "type": "SATA SSD",
+        "capacity": "240GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_11_wd-greentm3d-nand-240-gbnew-bics-5-hero-1760515084323.jpg"
+    },
+    {
+        "id": "94",
+        "name": "WD Green 250GB SATA SSD",
+        "price": 2932,
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_12_wd-green-250gb-sata-ssd-hero-1761730730929.jpg"
+    },
+    {
+        "id": "95",
+        "name": "WD Green 480GB SATA SSD",
+        "price": 3630,
+        "type": "SATA SSD",
+        "capacity": "480GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_13_wd-green-480gb-sata-ssd-hero-1761730700475.jpg"
+    },
+    {
+        "id": "96",
+        "name": "WD Green 1TB SATA SSD",
+        "price": 7400,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_2_wd-green-1tb-sata-ssd-hero-1761730673761.jpg"
+    },
+    {
+        "id": "97",
+        "name": "WD Green 2TB SATA SSD",
+        "price": 13683,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_wd-green-2tb-sata-ssd-wd-hero-1761730087958.jpg"
+    },
+    {
+        "id": "98",
+        "name": "WD Blue SN580 250GB NVMe SSD",
+        "price": 4887,
+        "type": "NVMe SSD",
+        "capacity": "250GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_4_wd-blue-sn580-250gb-nvme-ssd-hero-1761730581886.jpg"
+    },
+    {
+        "id": "99",
+        "name": "WD Blue SN580 500GB NVMe SSD",
+        "price": 6702,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_5_wd-blue-sn580-500gb-nvme-ssd-hero-1761730474489.jpg"
+    },
+    {
+        "id": "100",
+        "name": "WD Blue SN580 2TB NVMe SSD",
+        "price": 18569,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_6_wd-blue-sn580-2tb-nvme-ssd-hero-1761730321564.jpg"
+    },
+    {
+        "id": "101",
+        "name": "WD Blue SA510 4TB SATA SSD",
+        "price": 29320,
+        "type": "SATA SSD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_7_wd-blue-sa510-4tb-sata-ssd-hero-1761730275021.jpg"
+    },
+    {
+        "id": "102",
+        "name": "WD Blue 500GB SATA SSD",
+        "price": 4956,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_4_wd-blue-sa510-500gb-sata-ssd-hero-1761729686968.jpg"
+    },
+    {
+        "id": "103",
+        "name": "WD Green 1TB SATA SSD",
+        "price": 7679,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_2_wd-green-1tb-sata-ssd-hero-1761730673761.jpg"
+    },
+    {
+        "id": "104",
+        "name": "WD Green 2TB SATA SSD",
+        "price": 13962,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_wd-green-2tb-sata-ssd-wd-hero-1761730087958.jpg"
+    },
+    {
+        "id": "105",
+        "name": "WD Black SN8100 1TB NVMe SSD",
+        "price": 14381,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_11_wd-black-sn8100-1tb-nvme-ssd-hero-1761729962402.webp"
+    },
+    {
+        "id": "106",
+        "name": "WD Black SN8100 2TB NVMe SSD",
+        "price": 27924,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_12_wd-black-sn8100-2tb-nvme-ssd-hero-1761729881325.webp"
+    },
+    {
+        "id": "107",
+        "name": "WD Black SN850X 8TB NVMe SSD with Heatsink",
+        "price": 79582,
+        "type": "NVMe SSD",
+        "capacity": "8TB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_13_wd-black-sn850x-8tb-nvme-ssd-with-heatsink-hero-1761729817915.webp"
+    },
+    {
+        "id": "108",
+        "name": "WD Black SN750 4TB NVMe SSD",
+        "price": 28622,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_2_wd-black-sn750-4tb-nvme-ssd-hero-1761729764757.webp"
+    },
+    {
+        "id": "109",
+        "name": "WD Blue SA510 250GB SATA SSD",
+        "price": 3490,
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_3_wd-blue-sa510-250gb-sata-ssd-hero-1761729726814.webp"
+    },
+    {
+        "id": "110",
+        "name": "WD Blue SA510 500GB SATA SSD",
+        "price": 4747,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_4_wd-blue-sa510-500gb-sata-ssd-hero-1761729686968.jpg"
+    },
+    {
+        "id": "111",
+        "name": "WD Blue SA510 1TB SATA SSD",
+        "price": 7400,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_5_wd-blue-sa510-1tb-sata-ssd-hero-1761729581302.jpg"
+    },
+    {
+        "id": "112",
+        "name": "WD Blue SA510 2TB SATA SSD",
+        "price": 14241,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_6_wd-blue-sa510-2tb-sata-ssd-hero-1761729538673.jpg"
+    },
+    {
+        "id": "113",
+        "name": "Samsung EVO Plus 128GB Micro SDXC",
+        "price": 1081,
+        "type": "MicroSD",
+        "capacity": "128GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_7_samsung-evo-plus-128gb-micro-sdxc-wsd-adaptor-up-to-160mbs-expanded-storage-for-gaming-devices-android-tablets-and-smart-phones-memory-card-mb-mc128saind-hero-1761809306121.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Samsung 9100 PRO w/ Heatsink 2TB SSD NVMe",
+        "price": 28342,
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_2_samsung-ssd-990-pro-2tb-m2-nvme-heatsink-storagessd-hero-1760437269216.webp"
+    },
+    {
+        "id": "115",
+        "name": "Samsung 9100 Pro 4 TB PCIe NVMe SSD",
+        "price": 50681,
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_3_samsung-ssd-9100-pro-1tb-m2-pcie-50-nvme-storagessd-hero-1760437382874.jpg"
+    },
+    {
+        "id": "116",
+        "name": "Samsung PM893 2.5\" SATA 240GB",
+        "price": 9634,
+        "type": "SATA SSD",
+        "capacity": "240GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_samsung-ssd-pm893-25-inch-sata-768tb-storagessd-hero-1760439252834.png"
+    },
+    {
+        "id": "117",
+        "name": "Samsung PM9A3 NVMe U.2 960GB",
+        "price": 24768,
+        "type": "NVMe SSD",
+        "capacity": "960GB",
+        "interface": "U.2 NVMe",
+        "image": "ssds/imgi_11_pm9a3-nvmer-u2-960gb-hero-1761823230963.webp"
+    },
+    {
+        "id": "118",
+        "name": "Samsung 9100 PRO w/ Heatsink 1TB SSD NVMe",
+        "price": 19267,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 5.0 x4",
+        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+    },
+    {
+        "id": "119",
+        "name": "Western Digital WD Green SN350 NVMe 250GB",
+        "price": 2841,
+        "type": "NVMe SSD",
+        "capacity": "250GB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_13_western-digital-wd-green-sn350-nvme-250gb-hero-1761978817997.jpg"
+    },
+    {
+        "id": "120",
+        "name": "CRUCIAL E100 480GB NVME GEN 4 SSD",
+        "price": 10814,
+        "type": "NVMe SSD",
+        "capacity": "480GB",
+        "interface": "PCIe Gen 4.0 x4",
+        "image": "ssds/imgi_2_crucial-e100-480gb-nvme-gen-4-ssd-hero-1762503810113.jpg"
+    },
+    {
+        "id": "121",
+        "name": "SAMSUNG 870 EVO 1TB SATA SSD",
+        "price": 12756,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_samsung-ssd-870-evo-25inch-sata-1tb-storagessd-hero-1760433909054.avif"
+    },
+    {
+        "id": "122",
+        "name": "SAMSUNG 870EVO 250GB SSD",
+        "price": 5639,
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_4_samsung-870evo-250gb-ssd-hero-1763383138039.jpg"
+    },
+    {
+        "id": "123",
+        "name": "SAMSUNG SSD T7 2TB SHIELD BLACK",
+        "price": 18779,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2",
+        "image": "ssds/imgi_11_samsung-ssd-t7-shield-2tb-portable-ssd-black-storagessd-hero-1760432719723.jpg"
+    },
+    {
+        "id": "124",
+        "name": "SAMSUNG T9 4TB",
+        "price": 41901,
+        "type": "External SSD",
+        "capacity": "4TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_12_samsung-ssd-870-evo-25inch-sata-4tb-storagessd-hero-1760434095689.jpg"
+    },
+    {
+        "id": "125",
+        "name": "Samsung 980 500GB PCIe 3.0 NVMe SSD",
+        "price": 7059,
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_7_samsung-980-500gb-up-to-3100-mbs-pcie-30-nvme-m2-2280-internal-solid-state-drive-ssd-mz-v8v500bw-hero-1763383638514.jpg"
+    },
+    {
+        "id": "126",
+        "name": "SAMSUNG 860 EVO 500GB M.2 SSD",
+        "price": 8897,
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_8_samsung-860-evo-500gb-m2-ssd-hero-1763382829999.jpg"
+    },
+    {
+        "id": "127",
+        "name": "WD 1TB BLUE NVME M.2 SSD (WDS100T3B0E)",
+        "price": 11867,
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe Gen 3.0 x4",
+        "image": "ssds/imgi_9_wd-1tb-blue-nvme-m2-ssd-wds100t3b0e-hero-1761730421292.jpg"
+    },
+    {
+        "id": "128",
+        "name": "WD 1TB BLUE SATA SSD (WDS100T3B0A)",
+        "price": 7400,
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_10_wd-1tb-blue-sata-ssd-wds100t3b0a-hero-1761730845527.webp"
+    },
+    {
+        "id": "129",
+        "name": "Samsung T9 Portable External SSD 1TB Black",
+        "price": 13986,
+        "type": "External SSD",
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_11_samsung-t9-portable-external-ssd-1tb-black-mu-pg1t0b-hero-1763384336861.jpg"
+    },
+    {
+        "id": "130",
+        "name": "Samsung T9 Portable External SSD 2TB",
+        "price": 23897,
+        "type": "External SSD",
+        "capacity": "2TB",
+        "interface": "USB 3.2 Gen 2x2",
+        "image": "ssds/imgi_12_samsung-t9-portable-external-ssd-2tb-usb-32-gen-2x2-mu-pg2t0bww-hero-1763384392071.webp"
+    },
+    {
+        "id": "131",
+        "name": "SANDISK 64GB SD CARD",
+        "price": 817,
+        "type": "MicroSD",
+        "capacity": "64GB",
+        "interface": "UHS-I",
+        "image": "ssds/imgi_13_sandisk-64gb-sd-card-hero-1763546184852.webp"
+    },
+    {
+        "id": "132",
+        "name": "Samsung 870 EVO 2TB SATA 2.5\" SSD",
+        "price": 22008,
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "image": "ssds/imgi_11_samsung-ssd-870-evo-25inch-sata-2tb-hero-1760434003914.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Crucial T700 4TB Gen5 NVMe M.2 SSD",
+        "type": "NVMe Gen5",
+        "capacity": 4000,
+        "read_speed": 12400,
+        "write_speed": 11800,
+        "price": 55000,
+        "image": "Storage/imgi_2_samsung-990-pro-nvme-ssd-hero-1759494666959.jpg"
+    }
+]

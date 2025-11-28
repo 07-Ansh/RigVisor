@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - RAM Guide</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html" class="active">Guides</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in" style="padding-top: var(--space-xl);">
+        <section class="main-section" style="padding-bottom: var(--space-lg);">
+            <div class="container">
+                <div style="max-width: 1000px; margin: 0 auto;">
+                    <div
+                        style="color: var(--primary); font-weight: 700; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">
+                        Hardware Guide</div>
+                    <h1>Understanding RAM Speeds</h1>
+                    <p>Memory isn't just about capacity. Speed and latency play a huge role in gaming performance.</p>
+                </div>
+            </div>
+        </section>
+        <section class="container" style="padding-bottom: var(--space-xl); max-width: 1000px;">
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>1. DDR4 vs. DDR5</h2>
+                <div class="grid" style="grid-template-columns: 1fr 1fr; gap: var(--space-md); margin-top: 1.5rem;">
+                    <div class="feature-card">
+                        <h3>DDR4</h3>
+                        <p>Mature, affordable, and still great for budget to mid-range builds. Sweet spot: 3200MHz CL16.
+                        </p>
+                    </div>
+                    <div class="feature-card">
+                        <h3>DDR5</h3>
+                        <p>The new standard. Higher bandwidth and speeds. Essential for new high-end CPUs. Sweet spot:
+                            6000MHz CL30.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>2. Dual Channel</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Always buy RAM in kits of 2 (e.g., 2x8GB or 2x16GB). Running in dual channel mode doubles the
+                    bandwidth available to your CPU, significantly improving FPS.
+                </p>
+                <div class="alert"
+                    style="background: rgba(99, 102, 241, 0.1); border: 1px solid var(--primary); padding: 1rem; border-radius: var(--radius-sm); margin-top: 1rem; color: var(--primary-dark);">
+                    <i class="fa-solid fa-circle-info"></i> <strong>Installation Tip:</strong> Check your motherboard
+                    manual. Usually, you should install sticks in the 2nd and 4th slots from the CPU.
+                </div>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>3. XMP / EXPO</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Your RAM will run at a slow default speed (like 2133MHz or 4800MHz) out of the box. You
+                    <strong>MUST</strong> enable XMP (Intel) or EXPO (AMD) in your BIOS to get the advertised speeds.
+                </p>
+            </div>
+            <div
+                style="background: var(--bg-surface-2); padding: var(--space-md); border-radius: var(--radius-md); text-align: center;">
+                <h3>Need more memory?</h3>
+                <p style="margin: 1rem 0;">Check out our memory selection in the builder.</p>
+                <a href="builder.html" class="button blue-button">Go to Builder</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+</html>

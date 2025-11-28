@@ -1,0 +1,1262 @@
+[
+    {
+        "id": "1",
+        "name": "Corsair K55 CORE RGB Gaming Keyboard",
+        "price": 5400,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Rubber Dome",
+        "color": "Black"
+    },
+    {
+        "id": "2",
+        "name": "Kreo Hive 65 RGB Mechanical Gaming Keyboard",
+        "price": 4999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Hot-Swappable",
+        "color": "Black"
+    },
+    {
+        "id": "3",
+        "name": "Ant Esports MK3400 V3 Pro Mechanical Keyboard",
+        "price": 3999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "4",
+        "name": "EvoFox Katana X2 FS Mechanical Gaming Keyboard",
+        "price": 3499,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue Clicky",
+        "color": "Black"
+    },
+    {
+        "id": "5",
+        "name": "Zebronics Transformer Gaming Keyboard",
+        "price": 2399,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "6",
+        "name": "EvoFox Katana X2 TKL Mechanical Gaming Keyboard",
+        "price": 3299,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue Clicky",
+        "color": "Black"
+    },
+    {
+        "id": "7",
+        "name": "Ant Esports MK1200 Mini 60% Mechanical Keyboard",
+        "price": 4199,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "White"
+    },
+    {
+        "id": "8",
+        "name": "ZEBRONICS Transformer PRO Wireless Keyboard",
+        "price": 3999,
+        "type": "Membrane",
+        "wireless": true,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "9",
+        "name": "Redragon K617 Fizz 60% RGB Gaming Keyboard",
+        "price": 3499,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "White/Grey"
+    },
+    {
+        "id": "10",
+        "name": "EvoFox Ronin Wired Mechanical Gaming Keyboard",
+        "price": 3999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Red Silent",
+        "color": "Black"
+    },
+    {
+        "id": "11",
+        "name": "HyperX Alloy Origins Core TKL Mechanical Keyboard",
+        "price": 12337,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "HyperX Blue",
+        "color": "Black"
+    },
+    {
+        "id": "12",
+        "name": "Portronics Hydra 10 Wireless Mechanical Keyboard",
+        "price": 9999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Blue",
+        "color": "Blue"
+    },
+    {
+        "id": "13",
+        "name": "Razer Blackwidow V3 Tenkeyless Mechanical Keyboard",
+        "price": 11999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Yellow",
+        "color": "Black"
+    },
+    {
+        "id": "14",
+        "name": "SpinBot Rage MK87 Mechanical Gaming Keyboard",
+        "price": 1999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "15",
+        "name": "Redragon K630 Dragonborn 60% Mechanical Keyboard",
+        "price": 2490,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "Pink"
+    },
+    {
+        "id": "16",
+        "name": "HP GK400F Mechanical Gaming Keyboard",
+        "price": 2499,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Mechanical",
+        "color": "Black/Metal"
+    },
+    {
+        "id": "17",
+        "name": "Redragon Kumara K552 TKL Mechanical Keyboard",
+        "price": 3490,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "18",
+        "name": "Redragon Shiva K512 Membrane Gaming Keyboard",
+        "price": 3590,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "19",
+        "name": "Logitech G213 Prodigy USB Gaming Keyboard",
+        "price": 5295,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "20",
+        "name": "Ant Esports MK1300 V2 60% Mechanical Keyboard",
+        "price": 4199,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "White"
+    },
+    {
+        "id": "21",
+        "name": "HyperX Alloy Core RGB Membrane Gaming Keyboard",
+        "price": 6227,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "22",
+        "name": "Corsair K70 CORE TKL RGB Mechanical Keyboard",
+        "price": 15000,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "MLX Red v2",
+        "color": "Black"
+    },
+    {
+        "id": "23",
+        "name": "SpinBot Rage K20 Wired USB Gaming Keyboard",
+        "price": 1999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "24",
+        "name": "Kreo Hive 65 RGB Mechanical Keyboard (White)",
+        "price": 3999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Hot-Swappable",
+        "color": "White"
+    },
+    {
+        "id": "25",
+        "name": "HP GK400Y Mechanical Gaming Keyboard",
+        "price": 3999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Mechanical",
+        "color": "Black"
+    },
+    {
+        "id": "26",
+        "name": "Cosmic Byte CB-GK-37 Firefly TKL Mechanical Keyboard",
+        "price": 5299,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Red",
+        "color": "White"
+    },
+    {
+        "id": "27",
+        "name": "HP K300 Wired Gaming Keyboard",
+        "price": 2199,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "28",
+        "name": "AULA F75 75% Wireless Mechanical Keyboard",
+        "price": 15999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Graywood Linear",
+        "color": "Sea Blue"
+    },
+    {
+        "id": "29",
+        "name": "Ant Esports MK1000 TKL Mechanical Keyboard",
+        "price": 4999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Blue",
+        "color": "Black"
+    },
+    {
+        "id": "30",
+        "name": "Ant Esports KM500W Pro Wireless Combo",
+        "price": 3899,
+        "type": "Membrane",
+        "wireless": true,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "31",
+        "name": "HP K500F Wired Gaming Keyboard",
+        "price": 1800,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "32",
+        "name": "Kreo Swarm X Wireless Mechanical Keyboard",
+        "price": 10000,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Huano Red",
+        "color": "White"
+    },
+    {
+        "id": "33",
+        "name": "Corsair K70 CORE RGB Mechanical Keyboard",
+        "price": 16250,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "MLX Red Linear",
+        "color": "Black"
+    },
+    {
+        "id": "34",
+        "name": "Redragon K673 PRO 75% Wireless Gasket Keyboard",
+        "price": 5990,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Linear Red",
+        "color": "Black"
+    },
+    {
+        "id": "35",
+        "name": "Ant Esports MK801 V2 Pro Wireless Keyboard",
+        "price": 4499,
+        "type": "Mecha-Membrane",
+        "wireless": true,
+        "switch_type": "Membrane",
+        "color": "Grey/Beige/Orange"
+    },
+    {
+        "id": "36",
+        "name": "AULA S99 Silicon Membrane Gaming Keyboard",
+        "price": 4999,
+        "type": "Membrane",
+        "wireless": true,
+        "switch_type": "Silicon Membrane",
+        "color": "Purple"
+    },
+    {
+        "id": "37",
+        "name": "Razer Ornata V3 X Gaming Keyboard",
+        "price": 4999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Silent Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "38",
+        "name": "Amazon Basics Pro Series RGB Mechanical Keyboard",
+        "price": 5999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "39",
+        "name": "Kreo Hive 75 Mechanical Gaming Keyboard",
+        "price": 4600,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "White/Purple"
+    },
+    {
+        "id": "40",
+        "name": "Cosmic Byte CB-GK-28 Vanth Mechanical Keyboard",
+        "price": 2299,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Red",
+        "color": "Black/Grey"
+    },
+    {
+        "id": "41",
+        "name": "AULA F75 75% Wireless Mechanical Keyboard (Black)",
+        "price": 15999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Graywood Linear",
+        "color": "Thunder Black"
+    },
+    {
+        "id": "42",
+        "name": "Kreo Hive 75 Mechanical Keyboard (All Black)",
+        "price": 4600,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "43",
+        "name": "Kreo Swarm 75% Wireless Mechanical Keyboard",
+        "price": 10000,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Huano Speed/Starling",
+        "color": "Black Purple"
+    },
+    {
+        "id": "44",
+        "name": "EvoFox Deathray V2 Gaming Keyboard Combo",
+        "price": 1899,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "45",
+        "name": "Redragon K617 Fizz 60% RGB Keyboard (Black)",
+        "price": 3499,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "Black"
+    },
+    {
+        "id": "46",
+        "name": "AULA F3287 TKL Mechanical Wired Keyboard",
+        "price": 6999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Mechanical",
+        "color": "Grey/White"
+    },
+    {
+        "id": "47",
+        "name": "AULA F99 Wireless Mechanical Keyboard",
+        "price": 19999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Crescent",
+        "color": "Blue+White"
+    },
+    {
+        "id": "48",
+        "name": "EvoFox Katana S Mini Wireless Mechanical Keyboard",
+        "price": 3499,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "49",
+        "name": "Ant Esports MK3400 Pro V3 (White)",
+        "price": 4199,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "White"
+    },
+    {
+        "id": "50",
+        "name": "ZEBRONICS Zeb-MAX Chroma Mechanical Keyboard",
+        "price": 9999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "51",
+        "name": "Ant Esports MK1300 V2 60% Mechanical Keyboard (Black)",
+        "price": 4199,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "52",
+        "name": "Kreo Hive 98 Wired RGB Mechanical Keyboard",
+        "price": 6000,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "Black"
+    },
+    {
+        "id": "53",
+        "name": "Redragon K551 Rainbow LED Backlit Keyboard",
+        "price": 3790,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "54",
+        "name": "MageGee 75% Mechanical Gaming Keyboard",
+        "price": 4599,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Yellow",
+        "color": "White/Black"
+    },
+    {
+        "id": "55",
+        "name": "Redragon K673 PRO SE Wireless Gasket Keyboard",
+        "price": 7990,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Custom Hi-Fi Linear",
+        "color": "Anime"
+    },
+    {
+        "id": "56",
+        "name": "Kreo Hive 75 Mechanical Keyboard (Black-Purple)",
+        "price": 4600,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "Black-Purple"
+    },
+    {
+        "id": "57",
+        "name": "Redragon K668 RGB Gaming Keyboard",
+        "price": 4990,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "58",
+        "name": "daWg Highkey 373 Wired Mechanical Keyboard",
+        "price": 4999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Glacier Tactile",
+        "color": "White"
+    },
+    {
+        "id": "59",
+        "name": "Corsair K100 RGB Optical-Mechanical Keyboard",
+        "price": 35800,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "OPX RGB Optical",
+        "color": "Midnight Gold"
+    },
+    {
+        "id": "60",
+        "name": "Logitech G515 TKL Wired Low Profile Keyboard",
+        "price": 9595,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "61",
+        "name": "Aula M75 Tri-Mode Wireless Mechanical Keyboard",
+        "price": 7999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "62",
+        "name": "AULA F87 Wireless Mechanical Keyboard",
+        "price": 14999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "GrayWood",
+        "color": "Smoke Blue"
+    },
+    {
+        "id": "63",
+        "name": "ROG Azoth Extreme 75% Custom Gaming Keyboard",
+        "price": 91876,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "ROG NX Storm",
+        "color": "Black"
+    },
+    {
+        "id": "64",
+        "name": "AULA F75 Side-Engraved Wireless Keyboard (Gradient)",
+        "price": 15999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Reaper",
+        "color": "Gradient Gray"
+    },
+    {
+        "id": "65",
+        "name": "Logitech G915 X Lightspeed TKL Wireless Keyboard",
+        "price": 23995,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "GL Brown Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "66",
+        "name": "Razer Huntsman Mini 60% Optical Keyboard",
+        "price": 14999,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "Black"
+    },
+    {
+        "id": "67",
+        "name": "Logitech G915 X LIGHTSPEED Wireless Keyboard",
+        "price": 24995,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "GL Brown Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "68",
+        "name": "Redragon K513 RGB Membrane Gaming Keyboard",
+        "price": 1990,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Linear Mechanical-Feel",
+        "color": "Black"
+    },
+    {
+        "id": "69",
+        "name": "Kreo Swarm 75% Gasket Mounted Wireless Keyboard",
+        "price": 10000,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "GTMX Sense",
+        "color": "Naruto Edition"
+    },
+    {
+        "id": "70",
+        "name": "Logitech G515 Lightspeed TKL Wireless Keyboard",
+        "price": 14195,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Brown Tactile",
+        "color": "White"
+    },
+    {
+        "id": "71",
+        "name": "Kreo Hive 98 Wired RGB Mechanical Keyboard (White-Purple)",
+        "price": 6000,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "White-Purple"
+    },
+    {
+        "id": "72",
+        "name": "Razer BlackWidow V3 Quartz Edition",
+        "price": 12999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Green",
+        "color": "Quartz Pink"
+    },
+    {
+        "id": "73",
+        "name": "Ant Esports MK1900 RGB Wired Gaming Keyboard",
+        "price": 6999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Mechanical Feel",
+        "color": "White/Purple/Blue"
+    },
+    {
+        "id": "74",
+        "name": "Ant Esports MK1300 V2 60% Mechanical Keyboard (Brown)",
+        "price": 4199,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Brown",
+        "color": "Black"
+    },
+    {
+        "id": "75",
+        "name": "MageGee Mini 60% Gaming Keyboard",
+        "price": 5000,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Mechanical Feel",
+        "color": "Black/White"
+    },
+    {
+        "id": "76",
+        "name": "Lenovo Legion K510 Mini Pro Gaming Keyboard",
+        "price": 9390,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "77",
+        "name": "Ant Esports MK3500 Mechanical Gaming Keyboard",
+        "price": 3999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red Linear",
+        "color": "Black"
+    },
+    {
+        "id": "78",
+        "name": "Redragon K617 Rapid Trigger Gaming Keyboard",
+        "price": 4720,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Magnetic",
+        "color": "Misty Grey"
+    },
+    {
+        "id": "79",
+        "name": "AULA F75 75% Wireless Mechanical Keyboard (Green)",
+        "price": 15999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Reaper",
+        "color": "Cedar Green"
+    },
+    {
+        "id": "80",
+        "name": "RAEGR MechGear X100 Mechanical Gaming Keyboard",
+        "price": 5499,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Hot-Swappable",
+        "color": "Retro White/Grey"
+    },
+    {
+        "id": "81",
+        "name": "ATTACK SHARK X68 HE Rapid Trigger Keyboard",
+        "price": 15999,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Magnetic Hall Effect",
+        "color": "Black Contours"
+    },
+    {
+        "id": "82",
+        "name": "daWg HighKEY 718 Wireless Mechanical Keyboard",
+        "price": 9999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Glacier Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "83",
+        "name": "RK ROYAL KLUDGE R65 Wired Gaming Keyboard",
+        "price": 6500,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Cream",
+        "color": "Black"
+    },
+    {
+        "id": "84",
+        "name": "AULA T102 Gaming Keyboard and Mouse Combo",
+        "price": 6999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "85",
+        "name": "Razer Huntsman V3 Pro Tenkeyless",
+        "price": 29999,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Analog Optical",
+        "color": "White"
+    },
+    {
+        "id": "86",
+        "name": "Redragon K631 PRO 65% Wireless RGB Gaming Keyboard",
+        "price": 5990,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Quiet Red Linear",
+        "color": "Black"
+    },
+    {
+        "id": "87",
+        "name": "Redragon K599 Diemos TKL Wireless Mechanical Keyboard",
+        "price": 5999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "88",
+        "name": "MechLands AK680 MAX Wired Gaming Keyboard",
+        "price": 15497,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Hall Effect",
+        "color": "Black Contour Line"
+    },
+    {
+        "id": "89",
+        "name": "Razer Ornata V3 Tenkeyless Gaming Keyboard",
+        "price": 11499,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Mecha-Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "90",
+        "name": "Corsair K57 RGB Wireless Gaming Keyboard",
+        "price": 12500,
+        "type": "Membrane",
+        "wireless": true,
+        "switch_type": "Rubber Dome",
+        "color": "Black"
+    },
+    {
+        "id": "91",
+        "name": "nuphy Air60 HE Magnetic Switch Gaming Keyboard",
+        "price": 30145,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Magnetic Jade",
+        "color": "Black"
+    },
+    {
+        "id": "92",
+        "name": "Ant Esports MK4500 Pro TKL Wireless Mechanical Keyboard",
+        "price": 4999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "93",
+        "name": "surmen 65% Mechanical Gaming Keyboard",
+        "price": 9459,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "Black-Ice Blue"
+    },
+    {
+        "id": "94",
+        "name": "Ant Esports MK4100 RGB Mechanical Gaming Keyboard",
+        "price": 6999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Brown",
+        "color": "Mercury"
+    },
+    {
+        "id": "95",
+        "name": "Archer Tech Lab Astra M400 Wired Mechanical Keyboard",
+        "price": 8999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "96",
+        "name": "Redragon K552W-RGB 60% Mechanical Gaming Keyboard",
+        "price": 4490,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue",
+        "color": "White"
+    },
+    {
+        "id": "97",
+        "name": "Razer Huntsman Mini Mercury Edition",
+        "price": 15999,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "Mercury White"
+    },
+    {
+        "id": "98",
+        "name": "AULA F75 MAX Side-Engraved Wireless Keyboard",
+        "price": 19999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Reaper",
+        "color": "Gradient Gray"
+    },
+    {
+        "id": "99",
+        "name": "Sony INZONE KBD-H75 75% Wired Gaming Keyboard",
+        "price": 31990,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Hall-Effect",
+        "color": "Black"
+    },
+    {
+        "id": "100",
+        "name": "Ant Esports Thunder 30 Wired Mechanical Keyboard",
+        "price": 4999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "101",
+        "name": "Chilkey ND75 LP Low Profile Mechanical Keyboard",
+        "price": 33519,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Low Profile Linear",
+        "color": "Blue"
+    },
+    {
+        "id": "102",
+        "name": "Razer BlackWidow V4 Pro Mechanical Gaming Keyboard",
+        "price": 36299,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Yellow",
+        "color": "Black"
+    },
+    {
+        "id": "103",
+        "name": "BlueFinger RGB 87 Keys Gaming Keyboard",
+        "price": 3999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "104",
+        "name": "AULA F2088Pro Full Size Mechanical Gaming Keyboard",
+        "price": 9999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Purple/Red",
+        "color": "Black"
+    },
+    {
+        "id": "105",
+        "name": "nuphy Halo75 V2 Mechanical Gaming Keyboard",
+        "price": 34412,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Raspberry",
+        "color": "Black"
+    },
+    {
+        "id": "106",
+        "name": "Ant Esports KM730 Pro Wireless TKL Keyboard",
+        "price": 5199,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Mechanical",
+        "color": "Black"
+    },
+    {
+        "id": "107",
+        "name": "Portable 60% Mechanical Gaming Keyboard",
+        "price": 11630,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black & White"
+    },
+    {
+        "id": "108",
+        "name": "ATTACK SHARK X68HE Rapid Trigger Keyboard (Black)",
+        "price": 8999,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Magnetic Hall Effect",
+        "color": "Black"
+    },
+    {
+        "id": "109",
+        "name": "TAG Gamerz Warrior 2.0 Mechanical Gaming Keyboard",
+        "price": 4500,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Mechanical",
+        "color": "Black"
+    },
+    {
+        "id": "110",
+        "name": "Ant Esports MK1850 Mechanical Wired Keyboard",
+        "price": 4299,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "111",
+        "name": "Logitech G915 X LIGHTSPEED Wireless Keyboard (Black)",
+        "price": 24995,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "GL Brown Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "112",
+        "name": "Razer BlackWidow V3 Mini HyperSpeed (Yellow)",
+        "price": 24999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Yellow",
+        "color": "Black"
+    },
+    {
+        "id": "113",
+        "name": "Razer Huntsman V3 Pro Mini Optical Keyboard",
+        "price": 30999,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Analog Optical",
+        "color": "White"
+    },
+    {
+        "id": "114",
+        "name": "Dr Luxur Brute Wired Mechanical Keyboard",
+        "price": 6599,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Linear Red",
+        "color": "Black and White"
+    },
+    {
+        "id": "115",
+        "name": "Chilkey ND TKL Aluminum Mechanical Keyboard",
+        "price": 34679,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Mechanical",
+        "color": "Black"
+    },
+    {
+        "id": "116",
+        "name": "MageGee MK-Armor Mechanical Gaming Keyboard",
+        "price": 4500,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black & White"
+    },
+    {
+        "id": "117",
+        "name": "SpinBot Rage MK87 Mechanical Keyboard (Red Switch)",
+        "price": 1999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Linear Red",
+        "color": "Black"
+    },
+    {
+        "id": "118",
+        "name": "Ant Esports MK4000 Mechanical Gaming Keyboard",
+        "price": 5999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "119",
+        "name": "Keychron Q5 Max Wireless Custom Mechanical Keyboard",
+        "price": 64754,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Gateron Red",
+        "color": "Black"
+    },
+    {
+        "id": "120",
+        "name": "Razer Huntsman Mini Optical Keyboard (Purple)",
+        "price": 14999,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Clicky Purple",
+        "color": "Black"
+    },
+    {
+        "id": "121",
+        "name": "Razer BlackWidow V3 Mechanical Keyboard (Green)",
+        "price": 16999,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Green",
+        "color": "Black"
+    },
+    {
+        "id": "122",
+        "name": "Ant Esports Thunder20 Wired Mechanical Combo",
+        "price": 4799,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "123",
+        "name": "Keychron Q3 HE Wireless Custom Mechanical Keyboard",
+        "price": 64952,
+        "type": "Magnetic",
+        "wireless": true,
+        "switch_type": "Gateron Double-Rail Magnetic",
+        "color": "Carbon Black"
+    },
+    {
+        "id": "124",
+        "name": "Intex Caliber Wireless Mechanical Keyboard",
+        "price": 4499,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Blue",
+        "color": "Black"
+    },
+    {
+        "id": "125",
+        "name": "GK61s Mechanical Gaming Keyboard",
+        "price": 15980,
+        "type": "Optical",
+        "wireless": false,
+        "switch_type": "Gateron Blue",
+        "color": "Lavender"
+    },
+    {
+        "id": "126",
+        "name": "GSH One Hand Gaming Keyboard",
+        "price": 4999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "127",
+        "name": "Cosmic Byte CB-GK-43 Phantom TKL Mechanical Keyboard",
+        "price": 5699,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Outemu Red",
+        "color": "Black"
+    },
+    {
+        "id": "128",
+        "name": "Corsair K70 RGB PRO Mechanical Keyboard (Red)",
+        "price": 22200,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Cherry MX RGB Red",
+        "color": "Black"
+    },
+    {
+        "id": "129",
+        "name": "Redragon K580 VATA RGB Mechanical Keyboard",
+        "price": 5990,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Blue",
+        "color": "Black"
+    },
+    {
+        "id": "130",
+        "name": "Portronics Hydra 10 Wireless Mechanical Keyboard (Red)",
+        "price": 9999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Red",
+        "color": "Black"
+    },
+    {
+        "id": "131",
+        "name": "Logitech G515 Lightspeed TKL Wireless Keyboard (Black)",
+        "price": 14195,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Brown Tactile",
+        "color": "Black"
+    },
+    {
+        "id": "132",
+        "name": "Logitech G512 RGB Backlit Mechanical Keyboard",
+        "price": 10795,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "GX Blue Clicky",
+        "color": "Carbon Black"
+    },
+    {
+        "id": "133",
+        "name": "Razer BlackWidow V3 Mini HyperSpeed Phantom Edition",
+        "price": 27999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Yellow",
+        "color": "Black"
+    },
+    {
+        "id": "134",
+        "name": "4 in 1 Mobile Game Combo Pack Pro",
+        "price": 4999,
+        "type": "Membrane",
+        "wireless": false,
+        "switch_type": "Membrane",
+        "color": "Black"
+    },
+    {
+        "id": "135",
+        "name": "AULA F99 Pro Wireless Mechanical Keyboard",
+        "price": 24999,
+        "type": "Mechanical",
+        "wireless": true,
+        "switch_type": "Nimbus Linear",
+        "color": "Gradient Gray"
+    },
+    {
+        "id": "136",
+        "name": "Corsair K70 RGB PRO Mechanical Keyboard (Brown)",
+        "price": 22200,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Cherry MX Brown",
+        "color": "Black"
+    },
+    {
+        "id": "137",
+        "name": "Logitech MK240 Nano Wireless Keyboard",
+        "price": 2095,
+        "type": "Membrane",
+        "wireless": true,
+        "switch_type": "Membrane",
+        "color": "Black/Chartreuse Yellow"
+    },
+    {
+        "id": "138",
+        "name": "Razer DeathStalker V2 Pro Wireless Optical Keyboard",
+        "price": 34999,
+        "type": "Optical",
+        "wireless": true,
+        "switch_type": "Linear Red",
+        "color": "Black"
+    },
+    {
+        "id": "139",
+        "name": "MechLands Feker Alice98 Ergonomic Gaming Keyboard",
+        "price": 33275,
+        "type": "Mechanical",
+        "wireless": false,
+        "switch_type": "Hot-Swappable",
+        "color": "White"
+    },
+    {
+        "id": "140",
+        "name": "GravaStar Mercury V75 Pro HE Gaming Keyboard",
+        "price": 71438,
+        "type": "Magnetic",
+        "wireless": false,
+        "switch_type": "Hall Effect",
+        "color": "Neon Graphite"
+    }
+]

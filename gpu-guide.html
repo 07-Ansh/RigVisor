@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - GPU Installation Guide</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html" class="active">Guides</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in" style="padding-top: var(--space-xl);">
+        <section class="main-section" style="padding-bottom: var(--space-lg);">
+            <div class="container">
+                <div style="max-width: 1000px; margin: 0 auto;">
+                    <div
+                        style="color: var(--primary); font-weight: 700; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">
+                        Hardware Guide</div>
+                    <h1>GPU Installation Guide</h1>
+                    <p>Installing a graphics card is the most satisfying part of the build. Here is how to do it safely.
+                    </p>
+                </div>
+            </div>
+        </section>
+        <section class="container" style="padding-bottom: var(--space-xl); max-width: 1000px;">
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>1. Preparation</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Before you begin, ensure your PC is turned off and unplugged. Open your case side panel and locate
+                    the top-most PCIe x16 slot (usually the one closest to the CPU).
+                </p>
+                <div class="alert"
+                    style="background: rgba(239, 68, 68, 0.1); border: 1px solid #ef4444; padding: 1rem; border-radius: var(--radius-sm); margin-top: 1rem; color: #b91c1c;">
+                    <i class="fa-solid fa-triangle-exclamation"></i> <strong>Warning:</strong> Remove the PCIe slot
+                    covers on the back of your case corresponding to the slot you are using. Most GPUs take up 2 or 3
+                    slots.
+                </div>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>2. Seating the GPU</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Unlock the retention clip at the end of the PCIe slot (push it down or to the side). Align the GPU
+                    gold contacts with the slot and push down firmly until you hear a distinct <strong>click</strong>.
+                </p>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>3. Securing the Card</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Use the screws you removed from the slot covers to secure the GPU bracket to the case. This prevents
+                    the heavy card from sagging or damaging the slot.
+                </p>
+            </div>
+            <div style="margin-bottom: var(--space-lg);">
+                <h2>4. Power Cables</h2>
+                <p style="color: var(--text-muted); margin-top: 1rem;">
+                    Most modern GPUs require extra power. Connect the PCIe power cables (6-pin, 8-pin, or 12VHPWR) from
+                    your PSU to the GPU. Ensure they are fully seated.
+                </p>
+                <div class="feature-card" style="margin-top: 1rem;">
+                    <div class="feature-icon"><i class="fa-solid fa-plug"></i></div>
+                    <h3>Pro Tip</h3>
+                    <p>Do not daisy-chain cables for high-end cards. Use separate cables from the PSU for each connector
+                        if possible.</p>
+                </div>
+            </div>
+            <div
+                style="background: var(--bg-surface-2); padding: var(--space-md); border-radius: var(--radius-md); text-align: center;">
+                <h3>Ready to upgrade?</h3>
+                <p style="margin: 1rem 0;">Find the perfect GPU for your budget in our builder.</p>
+                <a href="builder.html" class="button blue-button">Go to Builder</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - RigVisor</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .contact-section {
+            padding-top: var(--space-xl);
+            padding-bottom: var(--space-xl);
+        }
+
+        .contact-container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .contact-header {
+            text-align: center;
+            margin-bottom: var(--space-lg);
+        }
+
+        .contact-header h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: var(--space-xs);
+            color: var(--text-main);
+        }
+
+        .contact-header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .contact-info-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .info-card {
+            display: flex;
+            align-items: flex-start;
+            padding: 20px;
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            box-shadow: var(--shadow-md);
+            transition: all 0.3s ease;
+        }
+
+        .info-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary);
+        }
+
+        .info-card i {
+            font-size: 24px;
+            color: var(--primary);
+            margin-right: 15px;
+            margin-top: 5px;
+            flex-shrink: 0;
+        }
+
+        .info-card p {
+            font-size: 16px;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        .info-card strong {
+            display: block;
+            color: var(--text-main);
+            margin-bottom: 5px;
+            font-size: 18px;
+        }
+
+        .contact-form-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: var(--bg-surface);
+            padding: 40px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .contact-form-container h2 {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-main);
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .form-field {
+            margin-bottom: 25px;
+        }
+
+        .form-field label {
+            display: block;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-main);
+            margin-bottom: 8px;
+        }
+
+        .form-field input,
+        .form-field textarea {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            font-size: 16px;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.3s ease;
+            background-color: var(--bg-surface-2);
+            color: var(--text-main);
+        }
+
+        .form-field input:focus,
+        .form-field textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            background-color: var(--bg-surface);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .form-field textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        .submit-button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            transition: all 0.3s ease;
+            width: 100%;
+        }
+
+        .submit-button:hover {
+            background-color: var(--primary-dark);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(99, 102, 241, 0.3);
+        }
+
+        @media (max-width: 768px) {
+            .contact-info-container {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-form-container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html">Guides</a>
+            <a href="contact.html" class="active">Contact</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+
+    <main class="fade-in">
+        <section class="contact-section">
+            <div class="container">
+                <div class="contact-container">
+                    <div class="contact-header">
+                        <h1>Get in Touch</h1>
+                        <p>Have questions about your build? We're here to help.</p>
+                    </div>
+
+                    <div class="contact-info-container">
+                        <div class="info-card">
+                            <i class="fa-solid fa-envelope"></i>
+                            <p>
+                                <strong>Email Us</strong>
+                                support@rigvisor.com
+                            </p>
+                        </div>
+                        <div class="info-card">
+                            <i class="fa-brands fa-discord"></i>
+                            <p>
+                                <strong>Join Discord</strong>
+                                RigVisor Community
+                            </p>
+                        </div>
+                        <div class="info-card">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <p>
+                                <strong>Location</strong>
+                                India
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="contact-form-container">
+                        <h2>Send us a Message</h2>
+                        <form action="https://formspree.io/f/mvgjlzvl" method="POST">
+                            <div class="form-field">
+                                <label for="name">Full Name</label>
+                                <input type="text" id="name" name="name" required placeholder="Your name">
+                            </div>
+
+                            <div class="form-field">
+                                <label for="email">Email Address</label>
+                                <input type="email" id="email" name="email" required placeholder="your@email.com">
+                            </div>
+
+                            <div class="form-field">
+                                <label for="subject">Subject</label>
+                                <input type="text" id="subject" name="subject" required
+                                    placeholder="What is this regarding?">
+                            </div>
+
+                            <div class="form-field">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" required
+                                    placeholder="How can we help you?"></textarea>
+                            </div>
+
+                            <button type="submit" class="submit-button">
+                                <i class="fa-solid fa-paper-plane"></i> Send Message
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

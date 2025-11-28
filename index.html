@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - The Ultimate PC Builder</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html" class="active">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html">Guides</a>
+            <a href="contact.html">Contact</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in">
+        <section class="main-section">
+            <div class="container">
+                <h1>Build Your Dream Machine.</h1>
+                <p>The most advanced PC compatibility checker and builder</p>
+                <div style="display: flex; gap: 1rem; justify-content: center;">
+                    <a href="builder.html" class="button blue-button">Launch Builder</a>
+                    <a href="prebuilds.html" class="button transparent-button">View Pre-Builds</a>
+                </div>
+                <div class="main-section-visual">
+                    <img src="assets/Main-image/pc4.jpeg" alt="PC Setup">
+                </div>
+            </div>
+        </section>
+        <section class="features-section">
+            <div class="container">
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-microscope"></i></div>
+                        <div class="feature-content">
+                            <h3>Compatibility Scan</h3>
+                            <p>Everything verified automatically.</p>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon"><i class="fa-solid fa-gauge-high"></i></div>
+                        <div class="feature-content">
+                            <h3>Performance Score</h3>
+                            <p>Get estimated Gaming & Workstation scores.</p>
+                        </div>
+                    </div>
+                    <div class="feature-card wide">
+                        <div class="feature-icon">
+                            <i class="fa-solid fa-fire-flame-curved"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h3>Platform Agnostic</h3>
+                            <p>Whether you're Team Blue or Team Red, we support the latest generations from both Intel
+                                and AMD.</p>
+                        </div>
+                    </div>
+                    <div class="feature-card large">
+                        <div class="feature-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+                        <div class="feature-content">
+                            <h3>Smart Compatibility</h3>
+                            <p>Our engine automatically checks socket types, RAM compatibility, and physical dimensions
+                                so you never buy the wrong part.</p>
+                        </div>
+                    </div>
+                    <div class="feature-card large">
+                        <div class="feature-icon"><i class="fa-solid fa-share-nodes"></i></div>
+                        <div class="feature-content">
+                            <h3>Share Your Build</h3>
+                            <p>Export your parts list and share it with the community or friends for feedback.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

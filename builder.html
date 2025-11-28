@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RigVisor - PC Builder</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <nav class="navigation-bar">
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-microchip"></i> RigVisor
+        </a>
+        <div class="menu-links">
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="builder.html" class="active">Builder</a>
+            <a href="prebuilds.html">Pre-Builds</a>
+            <a href="guides.html">Guides</a>
+            <a href="contact.html">Contact</a>
+        </div>
+        <div class="menu-actions">
+            <button class="hamburger-menu" id="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+            <a href="cart.html" class="cart-icon"
+                style="position: relative; color: var(--text-main); margin-right: 1rem;">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span id="cart-badge"
+                    style="position: absolute; top: -8px; right: -8px; background: var(--primary); color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.7rem; display: none;">0</span>
+            </a>
+            <div class="theme-switch" id="theme-toggle">
+                <div class="switch-handle">
+                    <i class="fa-solid fa-moon"></i>
+                </div>
+            </div>
+            <a href="builder.html" class="button blue-button">Start Building</a>
+        </div>
+    </nav>
+    <main class="fade-in">
+        <section class="main-section">
+            <div class="container">
+                <h1>Build Your Own Custom PC</h1>
+                <p>Select your components below. We'll check compatibility automatically.</p>
+                <div style="margin-top: var(--space-md); display: flex; gap: 10px; justify-content: center;">
+                    <button class="button transparent-button" id="reset-build"><i class="fa-solid fa-rotate-right"></i>
+                        Reset</button>
+                    <button class="button blue-button" id="export-build"><i class="fa-solid fa-share-nodes"></i>
+                        Export</button>
+                    <button class="button blue-button" id="add-build-to-cart" style="background: var(--accent);"><i
+                            class="fa-solid fa-cart-plus"></i>
+                        Add to Cart</button>
+                </div>
+            </div>
+        </section>
+        <div class="container builder-container">
+            <section class="builder-main">
+                <div class="categories-grid" id="categories-grid">
+                </div>
+            </section>
+            <aside class="build-summary">
+                <div class="summary-header">
+                    <h3>Your Build</h3>
+                    <span id="total-price" style="font-weight: 700; color: var(--primary);">₹0</span>
+                </div>
+                <div class="selected-parts" id="selected-parts">
+                    <p style="color: var(--text-muted); font-size: 0.9rem; text-align: center; padding: 20px;">No parts
+                        selected yet.</p>
+                </div>
+                <div class="compatibility-status success" id="compatibility-status">
+                    <i class="fa-solid fa-check-circle"></i> Compatible
+                </div>
+                <div class="scores-container" style="margin-top: 20px;">
+                    <h3>Performance Estimate</h3>
+                    <div style="margin-bottom: 10px;">
+                        <div
+                            style="display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 5px;">
+                            <span>Gaming</span>
+                            <span id="score-gaming-val">0%</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div id="score-gaming" style="width: 0%"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <div
+                            style="display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 5px;">
+                            <span>Workstation</span>
+                            <span id="score-workstation-val">0%</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div id="score-workstation" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+    </main>
+    <div id="part-selector-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Select Component</h2>
+                <button class="button transparent-button close-modal" style="padding: 0.5rem; border: none;"><i
+                        class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="filters">
+                <input type="text" id="search-parts" placeholder="Search parts...">
+                <select id="sort-parts">
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="price-desc">Price: High to Low</option>
+                </select>
+            </div>
+            <div class="parts-list" id="parts-list">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="wrapper">
+            <p>&copy; 2025 RigVisor. Built for PC Enthusiasts.</p>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

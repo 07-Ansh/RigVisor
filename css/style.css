@@ -222,6 +222,12 @@ body.dark-mode .theme-switch .switch-handle {
     margin: 0 auto var(--space-md);
 }
 
+.hero-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
 .main-section-visual {
     margin-top: var(--space-lg);
     position: relative;
@@ -623,14 +629,7 @@ footer p {
 }
 
 @media (max-width: 768px) {
-    .navigation-bar {
-        width: 95%;
-        padding: 0.5rem 1rem;
-    }
 
-    .menu-links {
-        display: none;
-    }
 
     .footer-nav {
         flex-direction: column;
@@ -639,6 +638,13 @@ footer p {
 
     .main-section h1 {
         font-size: 2.5rem;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
     }
 }
 
@@ -1054,7 +1060,7 @@ footer p {
     padding: 0.5rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .hamburger-menu {
         display: block;
     }
@@ -1065,7 +1071,7 @@ footer p {
         top: 100%;
         left: 0;
         width: 100%;
-        background: rgba(255, 255, 255, 0.661);
+        background: rgb(255, 255, 255);
         backdrop-filter: blur(12px);
         flex-direction: column;
         padding: 1rem;
@@ -1093,6 +1099,8 @@ footer p {
     }
 
     .navigation-bar {
+        width: 95%;
+        padding: 0.5rem 1rem;
         flex-wrap: nowrap;
         justify-content: space-between;
     }

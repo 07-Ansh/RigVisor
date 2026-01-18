@@ -357,6 +357,18 @@ function formatPrice(price) {
     if (price == null) return 'N/A';
     return `${CURRENCY_SYMBOL}${Number(price).toLocaleString('en-IN')}`;
 }
+
+function updatePCImage() {
+    const pcImage = document.querySelector('.main-section-visual img');
+    if (pcImage) {
+        if (document.body.classList.contains('dark-mode')) {
+            pcImage.src = 'assets/Main-image/pc4.jpeg';
+        } else {
+            pcImage.src = 'assets/Main-image/pc-light.jpeg';
+        }
+    }
+}
+
 (function () {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') {
@@ -365,15 +377,34 @@ function formatPrice(price) {
 })();
 document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('theme-toggle');
+
+    
+    updatePCImage();
+
     if (document.body.classList.contains('dark-mode')) {
     }
     themeToggle?.addEventListener('click', () => {
+        
+        themeToggle.classList.add('ripple-effect');
+        setTimeout(() => {
+            themeToggle.classList.remove('ripple-effect');
+        }, 600);
+
+        
+        document.body.classList.add('theme-transitioning');
+        setTimeout(() => {
+            document.body.classList.remove('theme-transitioning');
+        }, 500);
+
         document.body.classList.toggle('dark-mode');
         if (document.body.classList.contains('dark-mode')) {
             localStorage.setItem('theme', 'dark');
         } else {
             localStorage.setItem('theme', 'light');
         }
+
+        
+        updatePCImage();
     });
 });
 function loadCart() {

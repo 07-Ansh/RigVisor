@@ -8,7 +8,7 @@
         "max_ram": 1024,
         "ram_slots": 4,
         "price": 109508,
-        "image": "MotherBoard/imgi_2_gigabyte-trx50-ai-top-str5-amd-trx50-eatx-motherboard-ddr5-pcie-50-m2-pcie-50-usb4-type-c-wi-fi-7-marvell-10gbe-hero-1750850623418.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "2",
@@ -19,7 +19,7 @@
         "max_ram": 1024,
         "ram_slots": 4,
         "price": 75151,
-        "image": "MotherBoard/imgi_3_gigabyte-trx50-aero-d-str5-amd-trx50-e-atx-ddr5-pcie-50-m2-pcie-50-usb4-type-cwi-fi-7-marvell-10gbe-motherboard-hero-1750851271568.png"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "3",
@@ -30,7 +30,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 109508,
-        "image": "MotherBoard/imgi_4_gigabyte-x870e-aorus-xtreme-ai-top-amd-am5-lga-1718-motherboard-e-atx-ddr5-4x-m2-pcie-50-usb4-wifi7-10gbe-lan-ez-latch-5-year-warranty-hero-1750851825610.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "4",
@@ -41,7 +41,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 54280,
-        "image": "MotherBoard/imgi_5_gigabyte-x870e-aorus-ddr5-atx-master-hero-1750853409041.png"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "5",
@@ -52,7 +52,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 41935,
-        "image": "MotherBoard/imgi_6_gigabyte-x870e-aorus-pro-ice-amd-am5-lga-1718-motherboard-atx-ddr5-hero-1759988204885.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "6",
@@ -63,7 +63,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 40584,
-        "image": "MotherBoard/imgi_6_gigabyte-x870e-aorus-pro-ice-amd-am5-lga-1718-motherboard-atx-ddr5-hero-1759988204885.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "7",
@@ -74,7 +74,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 30474,
-        "image": "MotherBoard/imgi_8_x870e-aorus-elite-wifi7-amd-motherboard-hero-1760363339722.webp"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "8",
@@ -85,7 +85,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 31569,
-        "image": "MotherBoard/imgi_9_gigabyte-x870-aorus-elite-wifi7-ice-amd-am5-lga-1718-motherboard-atx-ddr5-4x-m2-pcie-50-usb4-wifi7-25gbe-lan-ez-latch-5-year-warranty-hero-1750856373842.png"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "9",
@@ -96,7 +96,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 24953,
-        "image": "MotherBoard/imgi_10_gigabyte-x870-gaming-x-wifi7-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb4-wifi7-25gbe-lan-ez-latch-5-year-warranty-hero-1750917758565.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "10",
@@ -107,7 +107,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23594,
-        "image": "MotherBoard/imgi_11_gigabyte-x870-eagle-wifi7-atx-motherboard-supports-amd-ryzen-9000-cpu-1422-phase-vrm-up-to-8000mhz-ddr5-oc-1xpcie-50-wi-fi-7-lan-25gbe-usb-4-hero-1750918572121.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "11",
@@ -118,7 +118,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 21850,
-        "image": "MotherBoard/imgi_12_gigabyte-x870-gaming-wifi6-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb4-wifi-6-25gbe-lan-ez-latch-5-year-warranty-hero-1750918994107.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "12",
@@ -129,7 +129,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 35730,
-        "image": "MotherBoard/imgi_13_gigabyte-x870i-aorus-pro-ice-amd-am5-lga-1718-motherboard-mini-itx-ddr5-2x-m2-pcie-50-usb-c-wifi7-25gbe-lan-ez-latch-5-year-warranty-hero-1750919505680.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "13",
@@ -140,7 +140,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 40448,
-        "image": "MotherBoard/imgi_2_b850-ai-top-amd-motheboard-hero-1750920069926.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "14",
@@ -151,7 +151,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 24862,
-        "image": "MotherBoard/imgi_3_gigabyte-b850-aorus-elite-wifi7-ice-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi7-25gbe-lan-ez-latch-5-year-warranty-hero-1750920288820.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "15",
@@ -162,7 +162,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 25801,
-        "image": "MotherBoard/imgi_4_gigabyte-b850-a-elite-wf7-hero-1759903665839.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "16",
@@ -173,7 +173,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20532,
-        "image": "MotherBoard/imgi_5_gigabyte-b850-gaming-x-wifi6e-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-5-year-warranty-hero-1750921367802.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "17",
@@ -184,7 +184,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 19122,
-        "image": "MotherBoard/imgi_5_gigabyte-b850-gaming-x-wifi6e-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-5-year-warranty-hero-1750921367802.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "18",
@@ -195,7 +195,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 18894,
-        "image": "MotherBoard/imgi_7_gigabyte-b850-eagle-wifi6e-amd-am5-lga-1718-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi6e-1gbe-lan-ez-latch-5-year-warranty-hero-1750921950973.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "19",
@@ -206,7 +206,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22032,
-        "image": "MotherBoard/imgi_8_gigabyte-b850m-aorus-elite-wifi6e-ice-amd-am5-lga-1718-motherboard-matx-ddr5-2x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-5-year-warranty-hero-1750922368863.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "20",
@@ -217,7 +217,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17538,
-        "image": "MotherBoard/imgi_9_gigabyte-b850m-gaming-x-wifi6e-amd-am5-lga-1718-motherboard-matx-ddr5-2x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-5-year-warranty-hero-1750922847344.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "21",
@@ -228,7 +228,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 14550,
-        "image": "MotherBoard/imgi_10_gigabyte-b850m-ds3h-amd-am5-lga-1718-motherboard-matx-ddr5-2x-m2-pcie-50-usb-c-25gbe-lan-ez-latch-5-year-warranty-hero-1750923157529.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "22",
@@ -239,7 +239,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 28325,
-        "image": "MotherBoard/imgi_11_gigabyte-b850i-aorus-pro-amd-am5-lga-1718-motherboard-mini-itx-ddr5-2x-m2-pcie-50-usb-c-wifi7-25gbe-lan-ez-latch-5-year-warranty-hero-1750923737859.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "23",
@@ -250,7 +250,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17525,
-        "image": "MotherBoard/imgi_12_gigabyte-b840m-aorus-elite-wifi6e-am5-m-atx-amd-motherboard-hero-1759903775576.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "24",
@@ -261,7 +261,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 14141,
-        "image": "MotherBoard/imgi_13_gigabyte-b840m-ds3h-motherboard-amd-ryzen-9000-cpus-822-phases-vrm-up-to-8200mhz-ddr5-2xpcie-40-m2-25gbe-lan-usb-32-gen-1-hero-1750924705434.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "25",
@@ -272,7 +272,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 11639,
-        "image": "MotherBoard/imgi_2_gigabyte-b840m-eagle-wifi6-amd-motherboard-hero-1750925463834.webp"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "26",
@@ -283,7 +283,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 12496,
-        "image": "MotherBoard/imgi_3_gigabyte-b840m-d2h-motherboard-hero-1750926007827.webp"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "27",
@@ -294,7 +294,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 29680,
-        "image": "MotherBoard/imgi_4_gigabyte-b650e-aorus-stealth-ice-atx-motherboard-hero-1750930683679.png"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "28",
@@ -305,7 +305,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23821,
-        "image": "MotherBoard/imgi_5_gigabyte-b650e-aorus-elite-x-ax-ice-am5-lga-1718-amd-b650-atx-motherboard-with-5-year-warranty-ddr5-3x-m2-pcie-50-usb-32-gen2x2-type-c-wifi-6e-25gbe-lan-q-flash-plus-ez-latch-plus-hero-1750931036031.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "29",
@@ -316,7 +316,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 28325,
-        "image": "MotherBoard/imgi_6_gigabyte-b650-aero-g-am5-lga-1718-amd-b650-atx-5-year-warranty-ddr5-pcie-50-m2-pcie-50-usb-32-gen2x2-type-cwi-fi-6e-intel-25gbe-lanmotherboard-hero-1750931275054.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "30",
@@ -327,7 +327,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 25163,
-        "image": "MotherBoard/imgi_5_gigabyte-b650e-aorus-elite-x-ax-ice-am5-lga-1718-amd-b650-atx-motherboard-with-5-year-warranty-ddr5-3x-m2-pcie-50-usb-32-gen2x2-type-c-wifi-6e-25gbe-lan-q-flash-plus-ez-latch-plus-hero-1750931036031.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "31",
@@ -338,7 +338,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22311,
-        "image": "MotherBoard/imgi_3_gigabyte-b650m-aorus-elite-amd-am5-micro-atx-ddr5-gaming-motherboard-with-m2-ez-latch-dual-channel-smd-ddr5-memory-mosfet-heatsinks-wi-fi-6e-25gbe-lan-and-smart-fan-6-hero-1750942153511.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "32",
@@ -349,7 +349,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17100,
-        "image": "MotherBoard/imgi_9_gigabyte-b650-gaming-x-ax-v2-rev-10-am5-lga-1718-amd-b650-atx-ddr5-triple-m2-pcie-50-usb-32-gen2x2-type-c-amd-wi-fi-6e-realtek-25gbe-lan-hero-1750935200079.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "33",
@@ -360,7 +360,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 19122,
-        "image": "MotherBoard/imgi_13_gigabyte-b650m-aorus-pro-ax-dual-channel-ddr5-unparalleled-performance-am5socket-micro-atx-amd-b650-chipset-ddr5-motherboard-for-desktop-hero-1750938626308.png"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "34",
@@ -371,7 +371,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 15467,
-        "image": "MotherBoard/imgi_11_gigabyte-b650-ud-ax-rev-10-am5-lga-1718-amd-b650-atx-ddr5-pcie-40-m2-pcie-40-usb-32-gen2x2-type-c-wi-fi-6-gbe-lan-q-flash-ez-latch-hero-1750936056403.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "35",
@@ -382,7 +382,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 15467,
-        "image": "MotherBoard/imgi_11_gigabyte-b650-ud-ax-rev-10-am5-lga-1718-amd-b650-atx-ddr5-pcie-40-m2-pcie-40-usb-32-gen2x2-type-c-wi-fi-6-gbe-lan-q-flash-ez-latch-hero-1750936056403.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "36",
@@ -393,7 +393,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 24643,
-        "image": "MotherBoard/imgi_13_gigabyte-b650m-aorus-pro-ax-dual-channel-ddr5-unparalleled-performance-am5socket-micro-atx-amd-b650-chipset-ddr5-motherboard-for-desktop-hero-1750938626308.png"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "37",
@@ -404,7 +404,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22981,
-        "image": "MotherBoard/imgi_2_gigabyte-b650m-a-ddr5-elite-ax-ice-atx-motherboard-hero-1750938886778.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "38",
@@ -415,7 +415,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16193,
-        "image": "MotherBoard/imgi_3_gigabyte-b650m-aorus-elite-amd-am5-micro-atx-ddr5-gaming-motherboard-with-m2-ez-latch-dual-channel-smd-ddr5-memory-mosfet-heatsinks-wi-fi-6e-25gbe-lan-and-smart-fan-6-hero-1750942153511.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "39",
@@ -426,7 +426,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16193,
-        "image": "MotherBoard/imgi_3_gigabyte-b650m-aorus-elite-amd-am5-micro-atx-ddr5-gaming-motherboard-with-m2-ez-latch-dual-channel-smd-ddr5-memory-mosfet-heatsinks-wi-fi-6e-25gbe-lan-and-smart-fan-6-hero-1750942153511.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "40",
@@ -437,7 +437,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 10950,
-        "image": "MotherBoard/imgi_5_gigabyte-b650m-gaming-plus-wifi-am5-lga-1718-amd-b650-m-atx-ddr5-pcie-40-m2-pcie-40-usb-32-gen-1-type-c-wi-fi-6e-25gbe-lan-hero-1750943382652.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "41",
@@ -448,7 +448,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 9435,
-        "image": "MotherBoard/imgi_6_b650m-s2h-amd-am5-socket-motherboard-ryzen-700080009000-support-ddr5-pcie-40-m2-gbe-lan-smart-fan-6-q-flash-plus-hdmi-displayport-hero-1750943748252.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "42",
@@ -459,7 +459,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 37789,
-        "image": "MotherBoard/imgi_7_gigabyte-b650i-aorus-ultra-mini-itx-motherboard-am5-socket-ddr5-pcie-50-m2-usb-32-gen-2x2-wifi-6e-25gbe-lan-hdmi-21-displayport-q-flash-plus-ryzen-700080009000-support-hero-1750944000939.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "43",
@@ -470,7 +470,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 17005,
-        "image": "MotherBoard/imgi_8_gigabyte-amd-b550-aorus-elite-ax-v2-atx-motherboard-with-122-phases-digital-twin-power-design-enlarged-surface-heatsinks-dual-pcie-4030-x4-m2-with-dual-thermal-guards-front-usb-type-c-ddr4-hero-1751011533672.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "44",
@@ -481,7 +481,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 17525,
-        "image": "MotherBoard/imgi_8_gigabyte-amd-b550-aorus-elite-ax-v2-atx-motherboard-with-122-phases-digital-twin-power-design-enlarged-surface-heatsinks-dual-pcie-4030-x4-m2-with-dual-thermal-guards-front-usb-type-c-ddr4-hero-1751011533672.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "45",
@@ -492,7 +492,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 14842,
-        "image": "MotherBoard/imgi_10_gigabyte-b550-eagle-wifi6-motherboard-supports-amd-am4-ryzen-5000-processors-atx-ddr4-2x-m2-pcie-40-wifi6-1gbe-lan-ez-latch-hero-1751012369087.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "46",
@@ -503,7 +503,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 12816,
-        "image": "MotherBoard/imgi_11_gigabyte-b550-gaming-x-v2-amd-ryzen-3000b550atxm2hdmidviusb-31-gen-2ddr4atxgaming-motherboard-hero-1751012699516.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "47",
@@ -514,7 +514,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 10997,
-        "image": "MotherBoard/imgi_12_asus-amd-tuf-gaming-b550m-e-wifi-micro-atx-gaming-motherboard-pcie-40-dual-m2-intel-wi-fi-6-displayport-hdmi-d-sub-sata-6-gbps-rgb-hero-1751013444537.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "48",
@@ -525,7 +525,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 10078,
-        "image": "MotherBoard/imgi_13_gigabyte-b550m-ds3h-r2-motherboard-amd-am4-ddr4-micro-atx-hero-1760528327959 (1).jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "49",
@@ -536,7 +536,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 9770,
-        "image": "MotherBoard/imgi_2_gigabyte-b550m-ds3h-ultra-durable-micro-atx-motherboard-with-pure-digital-vrm-solution-pcie-40-x16-slot-rgb-fusion-20-q-flash-plus-ddr4-sdram-hero-1751014228188.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "50",
@@ -547,7 +547,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 7448,
-        "image": "MotherBoard/imgi_13_gigabyte-b550m-ds3h-r2-motherboard-amd-am4-ddr4-micro-atx-hero-1760528327959 (1).jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "51",
@@ -558,7 +558,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 8463,
-        "image": "MotherBoard/imgi_4_gigabyte-b450m-ds3h-motherboard-hero-1759903834132.webp"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "52",
@@ -569,7 +569,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 7040,
-        "image": "MotherBoard/imgi_5_gigabyte-b450m-ds3h-v3-ddr4-m-atx-motherboard-hero-1759904108272.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "53",
@@ -580,7 +580,7 @@
         "max_ram": 2048,
         "ram_slots": 8,
         "price": 108225,
-        "image": "MotherBoard/imgi_6_gigabyte-w790aitop-aorus-w790-ai-top-motherboard-hero-1751021026162.png"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "54",
@@ -591,7 +591,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 121760,
-        "image": "MotherBoard/imgi_7_gigabyte-z890-aorus-xtreme-ai-top-motherboard-hero-1751021475634.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "55",
@@ -602,7 +602,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 68567,
-        "image": "MotherBoard/imgi_8_gigabyte-z890-ai-top-intel-core-ultra-series-2-lga-1851-motherboard-e-atx-ddr5-4x-m2-pcie-50-thunderbolt-5-wifi7-10gbe-lan-ez-latch-hero-1751024390093.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "56",
@@ -613,7 +613,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 44684,
-        "image": "MotherBoard/imgi_9_gigabyte-z890-aorus-pro-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-5gbe-lan-ez-latch-hero-1751025088102.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "57",
@@ -624,7 +624,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 40185,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "58",
@@ -635,7 +635,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 35364,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "59",
@@ -646,7 +646,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 34673,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "60",
@@ -657,7 +657,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 67869,
-        "image": "MotherBoard/imgi_13_gigabyte-z890-aero-d-intel-15th-gen-lga1851-e-atx-motherboard-hero-1751030071025.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "61",
@@ -668,7 +668,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 36689,
-        "image": "MotherBoard/imgi_13_gigabyte-z890-aero-d-intel-15th-gen-lga1851-e-atx-motherboard-hero-1751030071025.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "62",
@@ -679,7 +679,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 27976,
-        "image": "MotherBoard/imgi_3_gigabyte-z890-eagle-wifi7-intel-core-ultra-motherboard-hero-1751030986379.png"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "63",
@@ -690,7 +690,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 25648,
-        "image": "MotherBoard/imgi_4_gigabyte-z890-ud-wifi6e-intel-lga-1851-atx-motherboard-hero-1751032017528.webp"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "64",
@@ -701,7 +701,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23831,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "65",
@@ -712,7 +712,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 33321,
-        "image": "MotherBoard/imgi_6_gigabyte-z890m-aorus-elite-wifi7-ice-ultra-core-series-2-lga-1851-atx-ddr5-3x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751093607819.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "66",
@@ -723,7 +723,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 28708,
-        "image": "MotherBoard/imgi_7_gigabyte-z890m-aorus-ddr5-elite-micro-atx-wifi7-hero-1751093868230.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "67",
@@ -734,7 +734,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22091,
-        "image": "MotherBoard/imgi_8_gigabyte-z890m-gaming-x-ultra-core-series-2-lga-1851-matx-ddr5-3x-m2-pcie-50-front-usb-type-c-25gbe-lan-ez-latch-hero-1751094079469.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "68",
@@ -745,7 +745,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 37789,
-        "image": "MotherBoard/imgi_9_gigabyte-z890i-aorus-ultra-ultra-core-series-2-lga-1851-mini-itx-ddr5-2x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751094232189.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "69",
@@ -756,7 +756,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 27872,
-        "image": "MotherBoard/imgi_10_gigabyte-b860-aorus-elite-wifi7-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi7-25gbe-lan-ez-latch-hero-1751094425187.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "70",
@@ -767,7 +767,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23690,
-        "image": "MotherBoard/imgi_11_gigabyte-b860-gaming-x-wifi6e-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-hero-1751094826437.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "71",
@@ -778,7 +778,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20399,
-        "image": "MotherBoard/imgi_12_gigabyte-b860-eagle-wifi6e-lga-1851-atx-motherboard-hero-1759495449045.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "72",
@@ -789,7 +789,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 26404,
-        "image": "MotherBoard/imgi_13_gigabyte-b860m-aorus-pro-wifi7-m-atx-motherboard-hero-1751095182345.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "73",
@@ -800,7 +800,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22891,
-        "image": "MotherBoard/imgi_2_gigabyte-b860m-aorus-elite-wifi6e-motherboard-hero-1759495292713.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "74",
@@ -811,7 +811,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20303,
-        "image": "MotherBoard/imgi_3_gigabyte-b860m-gaming-x-wifi6e-intel-core-ultra-series-2-lga-1851-motherboard-matx-ddr5-2x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-visit-the-gigabyte-store-hero-1751096822690.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "75",
@@ -822,7 +822,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13555,
-        "image": "MotherBoard/imgi_3_gigabyte-b860m-gaming-x-wifi6e-intel-core-ultra-series-2-lga-1851-motherboard-matx-ddr5-2x-m2-pcie-50-usb-c-wifi6e-25gbe-lan-ez-latch-visit-the-gigabyte-store-hero-1751096822690.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "76",
@@ -833,7 +833,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17470,
-        "image": "MotherBoard/imgi_5_gigabyte-b860m-ds3h-wifi6e-lga-1851-micro-atx-motherboard-hero-1751097357061.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "77",
@@ -844,7 +844,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 14637,
-        "image": "MotherBoard/imgi_5_gigabyte-b860m-ds3h-wifi6e-lga-1851-micro-atx-motherboard-hero-1751097357061.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "78",
@@ -855,7 +855,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 10407,
-        "image": "MotherBoard/imgi_5_gigabyte-b860m-ds3h-wifi6e-lga-1851-micro-atx-motherboard-hero-1751097357061.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "79",
@@ -866,7 +866,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 12668,
-        "image": "MotherBoard/imgi_5_gigabyte-b860m-ds3h-wifi6e-lga-1851-micro-atx-motherboard-hero-1751097357061.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "80",
@@ -877,7 +877,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 30790,
-        "image": "MotherBoard/imgi_9_gigabyte-b860i-aorus-pro-ice-intel-core-ultra-series-2-lga-1851-motherboard-mini-itx-ddr5-2x-m2-pcie-50-hero-1759904534424.png"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "81",
@@ -888,7 +888,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 12310,
-        "image": "MotherBoard/imgi_10_gigabyte-technology-mb-h810m-gaming-wifi6-r-hero-1759495395324.webp"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "82",
@@ -899,7 +899,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 9572,
-        "image": "MotherBoard/imgi_11_gigabyte-h810m-h-hardwareelectronic-hero-1760423689343.png"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "83",
@@ -910,7 +910,7 @@
         "max_ram": 16,
         "ram_slots": 2,
         "price": 9676,
-        "image": "MotherBoard/imgi_12_asus-h81m-k-desktop-motherboard-intel-h81-chipset-socket-h3-lga-1150-micro-atx-hero-1751099045680.webp"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "84",
@@ -921,7 +921,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 68053,
-        "image": "MotherBoard/imgi_13_gigabyte-z790-aorus-master-x-motherboard-hero-1759494900930.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "85",
@@ -932,7 +932,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 42045,
-        "image": "MotherBoard/imgi_2_gigabyte-aorus-z790-pro-x-motherboard-z790-aorus-pro-x-hero-1759904702082.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "86",
@@ -943,7 +943,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 41071,
-        "image": "MotherBoard/imgi_3_gigabyte-z790-aorus-pro-x-wifi7-motherboard-supports-intel-core-14th-gen-cpus-hero-1759495041633.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "87",
@@ -954,7 +954,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 36962,
-        "image": "MotherBoard/imgi_4_gigabyte-z790-aorus-elite-x-wifi7-lga-1700-atx-motherboard-hero-1751104726011.webp"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "88",
@@ -965,7 +965,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 33559,
-        "image": "MotherBoard/imgi_4_gigabyte-z790-aorus-elite-x-wifi7-lga-1700-atx-motherboard-hero-1751104726011.webp"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "89",
@@ -976,7 +976,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 26510,
-        "image": "MotherBoard/imgi_13_gigabyte-z790-aorus-master-x-motherboard-hero-1759494900930.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "90",
@@ -987,7 +987,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 24647,
-        "image": "MotherBoard/imgi_13_gigabyte-z790-aorus-master-x-motherboard-hero-1759494900930.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "91",
@@ -998,7 +998,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23000,
-        "image": "MotherBoard/imgi_8_gigabyte-z790-eagle-ax-motherboard-hero-1751106328580.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "92",
@@ -1009,7 +1009,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22380,
-        "image": "MotherBoard/imgi_9_gigabyte-z790m-aorus-elite-ax-motherboard-intel-z790-chipset-for-lga1700-4xddr5-3xm2-g4-hero-1751108519971.png"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "93",
@@ -1020,7 +1020,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 16101,
-        "image": "MotherBoard/imgi_10_gigabyte-q670m-d3h-lga1700-intel-q670-m-atx-ddr5-dual-m2-pcie-4-usb-32-gen2-type-cintel-25gbe-lanmotherboard-hero-1751109819369.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "94",
@@ -1031,7 +1031,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 22774,
-        "image": "MotherBoard/imgi_4_gigabyte-b760m-aorus-elite-wifi6e-gen5-motherboard-hero-1760535887482.png"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "95",
@@ -1042,7 +1042,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16820,
-        "image": "MotherBoard/imgi_12_gigabyte-b760-aorus-elite-ax-intel-lga-1700-atx-motherboard-hero-1759904878904.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "96",
@@ -1053,7 +1053,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 26969,
-        "image": "MotherBoard/imgi_13_gigabyte-b760i-aorus-pro-motherboard-intel-b760-express-lga-1700-mini-itx-hero-1759494835242.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "97",
@@ -1064,7 +1064,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 9095,
-        "image": "MotherBoard/imgi_2_gigabyte-b760m-k-v2-ddr4-motherboard-hero-1759904954167.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "98",
@@ -1075,7 +1075,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 10444,
-        "image": "MotherBoard/imgi_3_gigabyte-h610m-hd3p-motherboard-hero-1759905156033.png"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "99",
@@ -1086,7 +1086,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 6875,
-        "image": "MotherBoard/imgi_10_gigabyte-h610m-h-v2-ddr4-motherboard-hero-1759485729463.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "100",
@@ -1097,7 +1097,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 11819,
-        "image": "MotherBoard/imgi_5_gigabyte-h610i-ddr4-motherboard-hero-1751114765427.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "101",
@@ -1108,7 +1108,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 9648,
-        "image": "MotherBoard/imgi_6_gigabyte-h610m-gaming-wf-ddr4-motherboard-hero-1751114932469.png"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "102",
@@ -1119,7 +1119,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 7138,
-        "image": "MotherBoard/imgi_10_gigabyte-h610m-h-v2-ddr4-motherboard-hero-1759485729463.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "103",
@@ -1130,7 +1130,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 6387,
-        "image": "MotherBoard/imgi_8_gigabyte-h510m-k-v2-ddr4-motherboard-hero-1751290036474.avif"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "104",
@@ -1141,7 +1141,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 7364,
-        "image": "MotherBoard/imgi_10_gigabyte-h410m-k-ddr4-motherboard-hero-1759906590508.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "105",
@@ -1152,7 +1152,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 6068,
-        "image": "MotherBoard/imgi_10_gigabyte-h410m-k-ddr4-motherboard-hero-1759906590508.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "106",
@@ -1163,7 +1163,7 @@
         "max_ram": 16,
         "ram_slots": 2,
         "price": 8463,
-        "image": "MotherBoard/imgi_11_gigabyte-ga-h81m-s2ph-motherboard-hero-1759906513286.webp"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "107",
@@ -1174,7 +1174,7 @@
         "max_ram": 16,
         "ram_slots": 2,
         "price": 7899,
-        "image": "MotherBoard/imgi_11_gigabyte-ga-h81m-s2ph-motherboard-hero-1759906513286.webp"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "108",
@@ -1185,7 +1185,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 10708,
-        "image": "MotherBoard/imgi_13_gigabyte-b550m-gaming-x-wifi6-hero-1759307910628.webp"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "109",
@@ -1196,7 +1196,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 8487,
-        "image": "MotherBoard/imgi_2_gigabyte-b550m-k-microatx-motherboard-amd-ryzen-300040005000-ddr4-pcie-40-gigabit-lan-hero-1759308514428.png"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "110",
@@ -1207,7 +1207,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17110,
-        "image": "MotherBoard/imgi_3_gigabyte-b760m-ds3h-ax-ddr5-hero-1759317044088.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "111",
@@ -1218,7 +1218,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 14032,
-        "image": "MotherBoard/imgi_3_gigabyte-b760m-ds3h-ax-ddr5-hero-1759317044088.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "112",
@@ -1229,7 +1229,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 15851,
-        "image": "MotherBoard/imgi_5_gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-motherboard-hero-1759317539189.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "113",
@@ -1240,7 +1240,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13145,
-        "image": "MotherBoard/imgi_6_gigabyte-b760m-gaming-wifi6e-gen5-ddr5-hero-1759317916513.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "114",
@@ -1251,7 +1251,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 10407,
-        "image": "MotherBoard/imgi_2_gigabyte-b760m-k-v2-ddr4-motherboard-hero-1759904954167.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "115",
@@ -1262,7 +1262,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 10814,
-        "image": "MotherBoard/imgi_5_gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-motherboard-hero-1759317539189.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "116",
@@ -1273,7 +1273,7 @@
         "max_ram": 32,
         "ram_slots": 2,
         "price": 7261,
-        "image": "MotherBoard/imgi_9_gigabyte-h310m-m2-20-motherboard-hero-1759469788068.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "117",
@@ -1284,7 +1284,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 13962,
-        "image": "MotherBoard/imgi_10_gigabyte-b760m-wifi-6e-gen5-motherboard-hero-1759740691159.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "118",
@@ -1295,7 +1295,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 12702,
-        "image": "MotherBoard/imgi_11_gigabyte-b760m-gaming-wifi-6e-gen5-hero-1759759580536.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "119",
@@ -1316,7 +1316,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 58174,
-        "image": "MotherBoard/imgi_13_gigabyte-x870e-aorus-master-x3d-ice-motherboard-amd-am5-hero-1760523199988.png"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "121",
@@ -1327,7 +1327,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 52699,
-        "image": "MotherBoard/imgi_13_gigabyte-x870e-aorus-master-x3d-ice-motherboard-amd-am5-hero-1760523199988.png"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "122",
@@ -1338,7 +1338,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 46041,
-        "image": "MotherBoard/imgi_3_gigabyte-x870e-aorus-pro-x-ice-motherboard-amd-am5-hero-1760523505550.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "123",
@@ -1349,7 +1349,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 36414,
-        "image": "MotherBoard/imgi_4_gigabyte-x870e-aorus-elite-x-ice-motherboard-amd-am5-hero-1760523771853.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "124",
@@ -1360,7 +1360,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 28311,
-        "image": "MotherBoard/imgi_5_gigabyte-x870-aorus-elite-wifi7-motherboard-amd-am5-hero-1760524266789.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "125",
@@ -1371,7 +1371,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23192,
-        "image": "MotherBoard/imgi_6_gigabyte-x870m-aorus-elite-wifi7-ice-motherboard-amd-am5-hero-1760524668269.webp"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "126",
@@ -1382,7 +1382,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22521,
-        "image": "MotherBoard/imgi_6_gigabyte-x870m-aorus-elite-wifi7-ice-motherboard-amd-am5-hero-1760524668269.webp"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "127",
@@ -1393,7 +1393,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 30939,
-        "image": "MotherBoard/imgi_8_gigabyte-b850-aorus-stealth-ice-motherboard-amd-am5-hero-1760524985171.webp"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "128",
@@ -1404,7 +1404,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 24638,
-        "image": "MotherBoard/imgi_13_gigabyte-b850m-aorus-elite-wifi7-ice-p-motherboard-amd-am5-hero-1760525772779.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "129",
@@ -1415,7 +1415,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20943,
-        "image": "MotherBoard/imgi_10_gigabyte-b850-eagle-wifi7-ice-motherboard-hero-1760525357403.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "130",
@@ -1426,7 +1426,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 17525,
-        "image": "MotherBoard/imgi_11_gigabyte-b850-gaming-wf6-motherboard-hero-1760525487044.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "131",
@@ -1437,7 +1437,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23520,
-        "image": "MotherBoard/imgi_12_b850m-aorus-pro-wifi7-hero-1760525637545.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "132",
@@ -1448,7 +1448,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22853,
-        "image": "MotherBoard/imgi_13_gigabyte-b850m-aorus-elite-wifi7-ice-p-motherboard-amd-am5-hero-1760525772779.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "133",
@@ -1459,7 +1459,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20943,
-        "image": "MotherBoard/imgi_2_gigabyte-b850m-aorus-elite-wifi6e-motherboard-amd-am5-hero-1760525955800 (1).png"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "134",
@@ -1470,7 +1470,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16868,
-        "image": "MotherBoard/imgi_3_gigabyte-b850m-eagle-wifi6e-ice-motherboard-amd-am5-hero-1760526130155 (1).png"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "135",
@@ -1481,7 +1481,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16193,
-        "image": "MotherBoard/imgi_3_gigabyte-b850m-eagle-wifi6e-ice-motherboard-amd-am5-hero-1760526130155 (1).png"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "136",
@@ -1492,7 +1492,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13487,
-        "image": "MotherBoard/imgi_5_gigabyte-b850m-force-wifi6e-v2-motherboard-amd-am5-hero-1760526389764 (1).jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "137",
@@ -1503,7 +1503,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13487,
-        "image": "MotherBoard/imgi_5_gigabyte-b850m-force-wifi6e-v2-motherboard-amd-am5-hero-1760526389764 (1).jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "138",
@@ -1514,7 +1514,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16156,
-        "image": "MotherBoard/imgi_7_gigabyte-b650-eagle-ax-motherboard-amd-am5-hero-1760526757783 (1).jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "139",
@@ -1525,7 +1525,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 21467,
-        "image": "MotherBoard/imgi_8_gigabyte-b650m-aorus-elite-ax-ice-motherboard-amd-am5-hero-1760527014838 (1).jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "140",
@@ -1536,7 +1536,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 16193,
-        "image": "MotherBoard/imgi_3_gigabyte-b650m-aorus-elite-amd-am5-micro-atx-ddr5-gaming-motherboard-with-m2-ez-latch-dual-channel-smd-ddr5-memory-mosfet-heatsinks-wi-fi-6e-25gbe-lan-and-smart-fan-6-hero-1750942153511.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "141",
@@ -1547,7 +1547,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 9168,
-        "image": "MotherBoard/imgi_10_gigabyte-b650m-h-motherboard-amd-am5-ddr-hero-1760527564694 (1).jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "142",
@@ -1558,7 +1558,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 19551,
-        "image": "MotherBoard/imgi_11_gigabyte-b550i-aorus-pro-ax-mini-itx-motherboard-amd-am4-pcie-40-wi-fi-6-hero-1760527971751 (1).jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "143",
@@ -1569,7 +1569,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 11091,
-        "image": "MotherBoard/imgi_12_gigabyte-a520i-ac-mini-itx-motherboard-amd-am4-wi-fi-ddr4-hero-1760528228884 (1).jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "144",
@@ -1580,7 +1580,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 9490,
-        "image": "MotherBoard/imgi_13_gigabyte-b550m-ds3h-r2-motherboard-amd-am4-ddr4-micro-atx-hero-1760528327959 (1).jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "145",
@@ -1591,7 +1591,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 139087,
-        "image": "MotherBoard/imgi_2_z890-a-xtreme-ai-top-motherboard-hero-1760531382683.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "146",
@@ -1602,7 +1602,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 81982,
-        "image": "MotherBoard/imgi_3_z890-aorus-master-ai-top-motherboard-hero-1760531565059.png"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "147",
@@ -1613,7 +1613,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 37646,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "148",
@@ -1624,7 +1624,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 62011,
-        "image": "MotherBoard/imgi_3_z890-aorus-master-ai-top-motherboard-hero-1760531565059.png"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "149",
@@ -1635,7 +1635,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 34264,
-        "image": "MotherBoard/imgi_6_z890-aorus-elite-wf7-ice-motherboard-hero-1760532049123.jpg"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "150",
@@ -1646,7 +1646,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 32294,
-        "image": "MotherBoard/imgi_10_gigabyte-z890-aorus-elite-x-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-5x-m2-pcie-50-thunderbolt-4-wifi7-25gbe-lan-ez-latch-hero-1751027258870.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "151",
@@ -1657,7 +1657,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 28229,
-        "image": "MotherBoard/imgi_8_z890-gaming-x-wifi7-motherboard-hero-1760532245172.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "152",
@@ -1668,7 +1668,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 26566,
-        "image": "MotherBoard/imgi_9_z890m-aorus-elite-wifi7-ice-motherboard-hero-1760532464490.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "153",
@@ -1679,7 +1679,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 25702,
-        "image": "MotherBoard/imgi_10_z890m-aorus-elite-wifi7-motherboard-hero-1760532878725.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "154",
@@ -1690,7 +1690,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 23438,
-        "image": "MotherBoard/imgi_10_gigabyte-b860-aorus-elite-wifi7-ice-intel-core-ultra-series-2-lga-1851-motherboard-atx-ddr5-3x-m2-pcie-50-usb-c-wifi7-25gbe-lan-ez-latch-hero-1751094425187.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "155",
@@ -1701,7 +1701,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 21782,
-        "image": "MotherBoard/imgi_12_gigabyte-b860m-aorus-elite-wf6e-ice-motherboard-hero-1760534223343.png"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "156",
@@ -1712,7 +1712,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 21029,
-        "image": "MotherBoard/imgi_13_gigabyte-b860m-aorus-elite-wifi6e-hero-1760534563396.png"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "157",
@@ -1723,7 +1723,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13145,
-        "image": "MotherBoard/imgi_2_gigabyte-b860m-eagle-wifi6-motherboard-hero-1760535513422.png"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "158",
@@ -1734,7 +1734,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 18935,
-        "image": "MotherBoard/imgi_3_gigabyte-b760-gaming-x-wifi6e-gen5-motherboard-hero-1760535767444.png"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "159",
@@ -1745,7 +1745,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 20262,
-        "image": "MotherBoard/imgi_4_gigabyte-b760m-aorus-elite-wifi6e-gen5-motherboard-hero-1760535887482.png"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "160",
@@ -1756,7 +1756,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 13145,
-        "image": "MotherBoard/imgi_5_gigabyte-b760m-gaming-wifi6e-gen5-motherboard-hero-1760536941387.png"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "161",
@@ -1767,7 +1767,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 10407,
-        "image": "MotherBoard/imgi_5_gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-motherboard-hero-1759317539189.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "162",
@@ -1778,7 +1778,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 9312,
-        "image": "MotherBoard/imgi_7_gigabyte-h810m-k-motherboard-hero-1760537427452.png"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "163",
@@ -1789,7 +1789,7 @@
         "max_ram": 32,
         "ram_slots": 2,
         "price": 7533,
-        "image": "MotherBoard/imgi_8_gigabyte-ga-h110m-h-ddr4-motherboard-hero-1760538073640.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "164",
@@ -1800,7 +1800,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 9801,
-        "image": "MotherBoard/imgi_9_gigabyte-a620m-s2h-ddr5-motherboard-hero-1759485586076.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "165",
@@ -1811,7 +1811,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 7420,
-        "image": "MotherBoard/imgi_10_gigabyte-h610m-h-v2-ddr4-motherboard-hero-1759485729463.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "166",
@@ -1822,7 +1822,7 @@
         "max_ram": 96,
         "ram_slots": 2,
         "price": 12182,
-        "image": "MotherBoard/imgi_11_gigabyte-b650m-gaming-wifi-ddr5-hero-1760527374855.jpg"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "167",
@@ -1833,7 +1833,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 12134,
-        "image": "MotherBoard/imgi_12_gigabyte-b550m-aorus-elite-ax-ddr4-hero-1759485860068.jpg"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "168",
@@ -1844,7 +1844,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 5698,
-        "image": "MotherBoard/imgi_13_gigabyte-b450m-k-ddr4-motherboard-amd-am4-micro-atx-hero-1760528059731.jpg"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "169",
@@ -1855,7 +1855,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 21575,
-        "image": "MotherBoard/imgi_2_gigabyte-z790-d-ddr4-motherboard-hero-1760533110402.png"
+        "image": "MotherBoard/mobo-106.webp"
     },
     {
         "id": "170",
@@ -1866,7 +1866,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 5000,
-        "image": "MotherBoard/imgi_3_gigabyte-a520m-k-v2-amd-motherboard-hero-1760528134423.jpg"
+        "image": "MotherBoard/mobo-107.webp"
     },
     {
         "id": "171",
@@ -1877,7 +1877,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 7082,
-        "image": "MotherBoard/imgi_10_gigabyte-h610m-h-v2-ddr4-motherboard-hero-1759485729463.jpg"
+        "image": "MotherBoard/mobo-1.jpg"
     },
     {
         "id": "172",
@@ -1888,7 +1888,7 @@
         "max_ram": 64,
         "ram_slots": 2,
         "price": 6296,
-        "image": "MotherBoard/imgi_13_gigabyte-b450m-k-ddr4-motherboard-amd-am4-micro-atx-hero-1760528059731.jpg"
+        "image": "MotherBoard/mobo-10.jpg"
     },
     {
         "id": "173",
@@ -1899,7 +1899,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 22620,
-        "image": "MotherBoard/imgi_13_gigabyte-z790-aorus-master-x-motherboard-hero-1759494900930.jpg"
+        "image": "MotherBoard/mobo-100.jpg"
     },
     {
         "id": "174",
@@ -1910,7 +1910,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 11721,
-        "image": "MotherBoard/imgi_7_gigabyte-b650m-d3hp-ax-hero-1760527211666.jpg"
+        "image": "MotherBoard/mobo-101.png"
     },
     {
         "id": "175",
@@ -1921,7 +1921,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 18524,
-        "image": "MotherBoard/imgi_6_gigabyte-b760m-gaming-wifi6e-gen5-ddr5-hero-1759317916513.jpg"
+        "image": "MotherBoard/mobo-102.jpg"
     },
     {
         "id": "74",
@@ -1932,7 +1932,7 @@
         "max_ram": 128,
         "ram_slots": 4,
         "price": 14500,
-        "image": "MotherBoard/imgi_4_gigabyte-b450m-ds3h-motherboard-hero-1759903834132.webp"
+        "image": "MotherBoard/mobo-103.jpg"
     },
     {
         "id": "75",
@@ -1943,7 +1943,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 28500,
-        "image": "MotherBoard/imgi_5_gigabyte-x870e-aorus-ddr5-atx-master-hero-1750853409041.png"
+        "image": "MotherBoard/mobo-104.jpg"
     },
     {
         "id": "101",
@@ -1954,7 +1954,7 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 55000,
-        "image": "MotherBoard/imgi_5_gigabyte-x870e-aorus-ddr5-atx-master-hero-1750853409041.png"
+        "image": "MotherBoard/mobo-105.jpg"
     },
     {
         "id": "102",
@@ -1965,6 +1965,6 @@
         "max_ram": 192,
         "ram_slots": 4,
         "price": 125000,
-        "image": "MotherBoard/imgi_5_gigabyte-x870e-aorus-ddr5-atx-master-hero-1750853409041.png"
+        "image": "MotherBoard/mobo-106.webp"
     }
 ]

@@ -6,7 +6,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_2_wd-black-sn850-x-pcie-gen4-2tb-ssd-with-heatsink-new-1747637472458.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "2",
@@ -15,7 +15,7 @@
         "type": "SATA SSD",
         "capacity": "4TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_3_wd-blue-3d-nand-4-tb-1747641871468.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "3",
@@ -24,7 +24,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_4_wd-blue-sa510-wds200t3b0a-00c7k0-ssd-2-tb-sata-6gbs-hero-1761658366764.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "4",
@@ -33,7 +33,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_5_wd-blue-3d-nand-500-gb-wds500g3b0a-00axr0-1747644498779.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "5",
@@ -42,7 +42,7 @@
         "type": "SATA SSD",
         "capacity": "250GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_6_wd-blue-3d-nand-250-gb-wds250g3b0a-00axr0-1747644843243.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "6",
@@ -51,7 +51,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_7_wd-blue-500-gb-sn5000-pcie-gen4-3d-nand-new-wds500g4b0e-00cnz0-1747659805512.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "7",
@@ -60,7 +60,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_8_wd-black-sn8100-nvme-gen-5-wds400t1x0m-00cmt0-4tb-ssd-wo-heatsink-1747719650264.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "8",
@@ -69,7 +69,7 @@
         "type": "NVMe SSD",
         "capacity": "8TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_9_wd-black-sn850-x-pcie-gen4-8tb-ssd-wo-heatsinkwds800t2x0e-00cdd0-new-1747720071229.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "9",
@@ -78,7 +78,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_10_wd-black-sn850-x-pcie-gen4-4tb-ssd-wo-heatsinkwds400t2x0e-00bca0-1747720566109.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "10",
@@ -87,7 +87,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_11_wd-black-sn850-x-pcie-gen4-2tb-ssd-wo-heatsink-newwds200t2x0e-00bca0-1747720829137.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "11",
@@ -96,7 +96,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_12_wd-black-sn850-x-pcie-gen4-1tb-ssd-wo-heatsink-newwds100t2x0e-00bca0-1747723230077.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "12",
@@ -105,7 +105,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_13_wd-black-sn850-x-pcie-gen4-4tb-ssd-with-heatsink-newwds400t2xhe-00bca0-1747723879318.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "13",
@@ -114,7 +114,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_2_wd-black-2tb-sn770m-pcie-gen-4-newwds200t3x0g-00chy0-1747728144185.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "14",
@@ -123,7 +123,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_3_wd-black-1tb-sn770m-pcie-gen-4-newwds100t3x0g-00chy0-1747728409033.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "15",
@@ -132,7 +132,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_4_wd-black-500gb-sn770m-pcie-gen-4-newwds500g3x0g-00chy0-1747728865896.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "16",
@@ -141,7 +141,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_2_wd-black-2tb-sn770m-pcie-gen-4-newwds200t3x0g-00chy0-1747728144185.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "17",
@@ -150,7 +150,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_3_wd-black-1tb-sn770m-pcie-gen-4-newwds100t3x0g-00chy0-1747728409033.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "18",
@@ -159,7 +159,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_7_wd-black-sn850-x-pcie-gen4-1tb-ssd-with-heatsink-newwds100t2xhe-00bca0-1747748373588.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "19",
@@ -168,7 +168,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_8_crucial-p37-500gb-nvme-ssd-hero-1751350767713.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "20",
@@ -177,7 +177,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_9_crucial-e100-1tb-pcie-gen4-2280-nvme-m2-ssd-hero-1751351182010.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "21",
@@ -186,7 +186,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_10_crucial-p3-plus-pcie-nvme-m2-ssd-hero-1758879014600.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "22",
@@ -195,7 +195,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_11_gigabyte-500gb-nvme-gen4-m2-ssd-hero-1751351715170.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "23",
@@ -204,7 +204,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_12_crucial-bx500-500gb-25-inch-sata-iii-ssd-hero-1759752312447.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "24",
@@ -213,7 +213,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_13_crucial-e100-1tb-nvme-gen-4-ssd-hero-1759817427063.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "25",
@@ -222,7 +222,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_10_samsung-ssd-t7-shield-1tb-portable-ssd-black-hero-1760432628727.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "26",
@@ -231,7 +231,7 @@
         "type": "MicroSD",
         "capacity": "128GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_3_samsung-flash-storage-device-evo-plus-128gb-class-10-mb-mc128sain-hero-1760429929700.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "27",
@@ -240,7 +240,7 @@
         "type": "MicroSD",
         "capacity": "256GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_4_samsung-flash-storage-device-evo-plus-256gb-class-10storagessd-hero-1760430187207.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "28",
@@ -249,7 +249,7 @@
         "type": "MicroSD",
         "capacity": "512GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_6_samsung-flash-storage-device-evo-plus-512gb-class-10-storagessd-hero-1760430595924.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "29",
@@ -258,7 +258,7 @@
         "type": "MicroSD",
         "capacity": "1TB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_7_samsung-flash-storage-device-evo-plus-1tb-microsdxc-uhs-i-storagessd-hero-1760430745746.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "30",
@@ -267,7 +267,7 @@
         "type": "MicroSD",
         "capacity": "128GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_8_samsung-flash-storage-device-pro-plus-128gb-class-10storagessd-hero-1760430891307.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "31",
@@ -276,7 +276,7 @@
         "type": "MicroSD",
         "capacity": "256GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_9_samsung-flash-storage-device-pro-plus-256gb-class-10storagessd-hero-1760431065831.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "32",
@@ -285,7 +285,7 @@
         "type": "MicroSD",
         "capacity": "512GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_10_samsung-flash-storage-device-pro-plus-512gb-class-10storagessd-hero-1760431181941.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "33",
@@ -294,7 +294,7 @@
         "type": "MicroSD",
         "capacity": "128GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_11_samsung-flash-storage-device-pro-ultimate-128gb-microsd-card-storagessd-hero-1760431375676.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "34",
@@ -303,7 +303,7 @@
         "type": "MicroSD",
         "capacity": "256GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_12_samsung-flash-storage-device-pro-ultimate-256gb-microsd-card-storagessd-hero-1760431521300.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "35",
@@ -312,7 +312,7 @@
         "type": "MicroSD",
         "capacity": "512GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_13_samsung-flash-storage-device-pro-ultimate-512gb-microsd-cardstoragessd-hero-1760431644261.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "36",
@@ -321,7 +321,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_2_samsung-ssd-t7-1tb-portable-ssd-indigo-blue-storagessd-hero-1760431757577.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "37",
@@ -330,7 +330,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_3_samsung-ssd-t7-1tb-portable-ssd-titan-graystoragessd-hero-1760431887012.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "38",
@@ -339,7 +339,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_4_samsung-ssd-t7-2tb-portable-ssd-indigo-blue-storagessd-hero-1760432010198.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "39",
@@ -348,7 +348,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_5_samsung-ssd-t7-2tb-portable-ssd-titan-graystoragessd-hero-1760432114541.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "40",
@@ -357,7 +357,7 @@
         "type": "External SSD",
         "capacity": "4TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_6_samsung-ssd-t7-4tb-portable-ssd-gray-storagessd-hero-1760432241433.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "41",
@@ -366,7 +366,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 1",
-        "image": "ssds/imgi_7_samsung-ssd-t5-evo-2tb-portable-ssdstoragessd-hero-1760432344101.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "42",
@@ -375,7 +375,7 @@
         "type": "External SSD",
         "capacity": "4TB",
         "interface": "USB 3.2 Gen 1",
-        "image": "ssds/imgi_8_samsung-ssd-t5-evo-4tb-portable-ssd-storagessd-hero-1760432440597.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "43",
@@ -384,7 +384,7 @@
         "type": "External SSD",
         "capacity": "8TB",
         "interface": "USB 3.2 Gen 1",
-        "image": "ssds/imgi_9_samsung-ssd-t5-evo-8tb-portable-ssd-storagessd-hero-1760432523931.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "44",
@@ -393,7 +393,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_10_samsung-ssd-t7-shield-1tb-portable-ssd-black-hero-1760432628727.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "45",
@@ -402,7 +402,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_11_samsung-ssd-t7-shield-2tb-portable-ssd-black-storagessd-hero-1760432719723.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "46",
@@ -411,7 +411,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_12_samsung-ssd-t7-shield-1tb-portable-ssd-beigestoragessd-hero-1760432853896.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "47",
@@ -420,7 +420,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_13_samsung-ssd-t7-shield-2tb-portable-ssd-beigestoragessd-hero-1760432924368.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "48",
@@ -429,7 +429,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_2_samsung-ssd-t7-shield-1tb-portable-ssd-bluestoragessd-hero-1760433065913.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "49",
@@ -438,7 +438,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_3_samsung-ssd-t7-shield-2tb-portable-ssd-blue-hero-1760433153375.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "50",
@@ -447,7 +447,7 @@
         "type": "External SSD",
         "capacity": "4TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_4_samsung-ssd-t7-shield-4tb-portable-ssd-black-mu-pe4t0sww-hero-1760433254048.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "51",
@@ -456,7 +456,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_5_samsung-ssd-t9-gen-2x2-1tb-portable-ssd-black-storagessd-hero-1760433397795.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "52",
@@ -465,7 +465,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_6_samsung-ssd-t9-gen-2x2-2tb-portable-ssd-black-mu-pg2t0bww-hero-1760433457485.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "53",
@@ -474,7 +474,7 @@
         "type": "External SSD",
         "capacity": "4TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_7_samsung-ssd-t9-gen-2x2-4tb-portable-ssd-blackstoragessd-hero-1760433548600.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "54",
@@ -483,7 +483,7 @@
         "type": "SATA SSD",
         "capacity": "250GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_8_samsung-ssd-870-evo-25inch-sata-250gb-storagessd-hero-1760433669129.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "55",
@@ -492,7 +492,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_9_samsung-ssd-870-evo-25-inch-sata-500gbstoragessd-hero-1760433820027.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "56",
@@ -501,7 +501,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_samsung-ssd-870-evo-25inch-sata-1tb-storagessd-hero-1760433909054.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "57",
@@ -510,7 +510,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_11_samsung-ssd-870-evo-25inch-sata-2tb-hero-1760434003914.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "58",
@@ -519,7 +519,7 @@
         "type": "SATA SSD",
         "capacity": "4TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_12_samsung-ssd-870-evo-25inch-sata-4tb-storagessd-hero-1760434095689.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "59",
@@ -528,7 +528,7 @@
         "type": "SATA SSD",
         "capacity": "8TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_13_samsung-ssd-870-qvo-8tb-25-inch-sata-storagessd-hero-1760434260148.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "60",
@@ -537,7 +537,7 @@
         "type": "NVMe SSD",
         "capacity": "250GB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_2_samsung-ssd-980-m2-nvme-250gb-storagessd-hero-1760434388332.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "61",
@@ -546,7 +546,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_3_samsung-ssd-980-m2-nvme-500gb-mz-v8v500bw-hero-1760434480698.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "62",
@@ -555,7 +555,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_4_samsung-ssd-980-m2-nvme-1tb-storagessd-hero-1760435655148.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "63",
@@ -564,7 +564,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_5_samsung-ssd-990-evo-m2-nvme-1tb-storagessd-hero-1760435782137.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "64",
@@ -573,7 +573,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_6_samsung-ssd-990-evo-m2-nvme-2tb-storagessd-hero-1760435910578.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "65",
@@ -582,7 +582,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_7_samsung-ssd-990-evo-plus-m2-nvme-1tbstoragessd-hero-1760436059565.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "66",
@@ -591,7 +591,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_8_samsung-ssd-990-evo-plus-m2-nvme-2tb-storagessd-hero-1760436140768.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "67",
@@ -600,7 +600,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_9_title-samsung-ssd-990-evo-plus-m2-nvme-4tbstoragessd-hero-1760436300553.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "68",
@@ -609,7 +609,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "69",
@@ -618,7 +618,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_11_samsung-ssd-990-pro-m2-nvme-2tbstoragessd-hero-1760436719496.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "70",
@@ -627,7 +627,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_12_samsung-ssd-990-pro-m2-nvme-4tbstoragessd-hero-1760437011234.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "71",
@@ -636,7 +636,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "72",
@@ -645,7 +645,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_2_samsung-ssd-990-pro-2tb-m2-nvme-heatsink-storagessd-hero-1760437269216.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "73",
@@ -654,7 +654,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_3_samsung-ssd-9100-pro-1tb-m2-pcie-50-nvme-storagessd-hero-1760437382874.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "74",
@@ -663,7 +663,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_4_samsung-ssd-9100-pro-m2-pcie-50-nvme-2tb-storagessd-hero-1760437503417.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "75",
@@ -672,7 +672,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_5_samsung-ssd-9100-pro-m2-pcie-50-nvme-4tb-mz-vap4t0bw-hero-1760437600999.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "76",
@@ -681,7 +681,7 @@
         "type": "SATA SSD",
         "capacity": "960GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_6_samsung-ssd-pm893-25inch-sata-960gb-storagessd-hero-1760438781965.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "77",
@@ -690,7 +690,7 @@
         "type": "SATA SSD",
         "capacity": "480GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_7_samsung-ssd-pm893-25inch-sata-480gb-storagessd-hero-1760438928771.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "78",
@@ -699,7 +699,7 @@
         "type": "SATA SSD",
         "capacity": "1.92TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_8_samsung-ssd-pm893-25inch-sata-192tb-mz-7l31t900-hero-1760439051263.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "79",
@@ -708,7 +708,7 @@
         "type": "SATA SSD",
         "capacity": "3.84TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_9_samsung-ssd-pm893-25-inch-sata-384tb-storagessd-hero-1760439937894.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "80",
@@ -717,7 +717,7 @@
         "type": "SATA SSD",
         "capacity": "7.68TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_samsung-ssd-pm893-25-inch-sata-768tb-storagessd-hero-1760439252834.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "81",
@@ -726,7 +726,7 @@
         "type": "NVMe SSD",
         "capacity": "1.92TB",
         "interface": "U.2 NVMe",
-        "image": "ssds/imgi_11_samsung-ssd-nvme-u2-192tb-storagessd-hero-1760439698332.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "82",
@@ -735,7 +735,7 @@
         "type": "NVMe SSD",
         "capacity": "3.84TB",
         "interface": "U.2 NVMe",
-        "image": "ssds/imgi_12_samsung-ssd-nvme-u2-384tbstoragessd-hero-1760440099086.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "83",
@@ -744,7 +744,7 @@
         "type": "NVMe SSD",
         "capacity": "7.68TB",
         "interface": "U.2 NVMe",
-        "image": "ssds/imgi_13_samsung-ssd-nvme-u2-768tb-storagessd-hero-1760440254110.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "84",
@@ -753,7 +753,7 @@
         "type": "Flash Drive",
         "capacity": "64GB",
         "interface": "USB 3.1",
-        "image": "ssds/imgi_2_samsung-flash-drive-fit-plus-64gb-usb-31storagessd-hero-1760440358231.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "85",
@@ -762,7 +762,7 @@
         "type": "Flash Drive",
         "capacity": "128GB",
         "interface": "USB 3.1",
-        "image": "ssds/imgi_3_samsung-flash-drive-fit-plus-128gb-usb-31-storagessd-hero-1760440459634.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "86",
@@ -771,7 +771,7 @@
         "type": "Flash Drive",
         "capacity": "256GB",
         "interface": "USB 3.1",
-        "image": "ssds/imgi_4_samsung-flash-drive-fit-plus-256gb-usb-31-apcstoragessd-hero-1760440579981.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "87",
@@ -780,7 +780,7 @@
         "type": "Flash Drive",
         "capacity": "64GB",
         "interface": "USB Type-C",
-        "image": "ssds/imgi_5_samsung-flash-drive-64gb-type-c-storagessd-hero-1760440708857.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "88",
@@ -789,7 +789,7 @@
         "type": "Flash Drive",
         "capacity": "128GB",
         "interface": "USB Type-C",
-        "image": "ssds/imgi_6_samsung-flash-drive-128gb-type-c-storagessd-hero-1760440789122.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "89",
@@ -798,7 +798,7 @@
         "type": "Flash Drive",
         "capacity": "256GB",
         "interface": "USB Type-C",
-        "image": "ssds/imgi_7_samsung-flash-drive-256gb-type-c-storagessd-hero-1760440929993.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "90",
@@ -807,7 +807,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_8_wdblack-sn7100-pcie-gen4-nvme-ssd-1tb-hero-1760512868019.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "91",
@@ -816,7 +816,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_9_wdblack-sn7100-pcie-gen4-nvme-ssd-2tb-hero-1760512977591.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "92",
@@ -825,7 +825,7 @@
         "type": "SATA SSD",
         "capacity": "480GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_wd-green-3d-nand-480-gb-new-bics-5-hero-1760514981459.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "93",
@@ -834,7 +834,7 @@
         "type": "SATA SSD",
         "capacity": "240GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_11_wd-greentm3d-nand-240-gbnew-bics-5-hero-1760515084323.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "94",
@@ -843,7 +843,7 @@
         "type": "SATA SSD",
         "capacity": "250GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_12_wd-green-250gb-sata-ssd-hero-1761730730929.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "95",
@@ -852,7 +852,7 @@
         "type": "SATA SSD",
         "capacity": "480GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_13_wd-green-480gb-sata-ssd-hero-1761730700475.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "96",
@@ -861,7 +861,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_2_wd-green-1tb-sata-ssd-hero-1761730673761.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "97",
@@ -870,7 +870,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_wd-green-2tb-sata-ssd-wd-hero-1761730087958.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "98",
@@ -879,7 +879,7 @@
         "type": "NVMe SSD",
         "capacity": "250GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_4_wd-blue-sn580-250gb-nvme-ssd-hero-1761730581886.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "99",
@@ -888,7 +888,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_5_wd-blue-sn580-500gb-nvme-ssd-hero-1761730474489.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "100",
@@ -897,7 +897,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_6_wd-blue-sn580-2tb-nvme-ssd-hero-1761730321564.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "101",
@@ -906,7 +906,7 @@
         "type": "SATA SSD",
         "capacity": "4TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_7_wd-blue-sa510-4tb-sata-ssd-hero-1761730275021.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "102",
@@ -915,7 +915,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_4_wd-blue-sa510-500gb-sata-ssd-hero-1761729686968.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "103",
@@ -924,7 +924,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_2_wd-green-1tb-sata-ssd-hero-1761730673761.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "104",
@@ -933,7 +933,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_wd-green-2tb-sata-ssd-wd-hero-1761730087958.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "105",
@@ -942,7 +942,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_11_wd-black-sn8100-1tb-nvme-ssd-hero-1761729962402.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "106",
@@ -951,7 +951,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_12_wd-black-sn8100-2tb-nvme-ssd-hero-1761729881325.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "107",
@@ -960,7 +960,7 @@
         "type": "NVMe SSD",
         "capacity": "8TB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_13_wd-black-sn850x-8tb-nvme-ssd-with-heatsink-hero-1761729817915.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "108",
@@ -969,7 +969,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_2_wd-black-sn750-4tb-nvme-ssd-hero-1761729764757.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "109",
@@ -978,7 +978,7 @@
         "type": "SATA SSD",
         "capacity": "250GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_3_wd-blue-sa510-250gb-sata-ssd-hero-1761729726814.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "110",
@@ -987,7 +987,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_4_wd-blue-sa510-500gb-sata-ssd-hero-1761729686968.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "111",
@@ -996,7 +996,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_5_wd-blue-sa510-1tb-sata-ssd-hero-1761729581302.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "112",
@@ -1005,7 +1005,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_6_wd-blue-sa510-2tb-sata-ssd-hero-1761729538673.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "113",
@@ -1014,7 +1014,7 @@
         "type": "MicroSD",
         "capacity": "128GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_7_samsung-evo-plus-128gb-micro-sdxc-wsd-adaptor-up-to-160mbs-expanded-storage-for-gaming-devices-android-tablets-and-smart-phones-memory-card-mb-mc128saind-hero-1761809306121.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "114",
@@ -1023,7 +1023,7 @@
         "type": "NVMe SSD",
         "capacity": "2TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_2_samsung-ssd-990-pro-2tb-m2-nvme-heatsink-storagessd-hero-1760437269216.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "115",
@@ -1032,7 +1032,7 @@
         "type": "NVMe SSD",
         "capacity": "4TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_3_samsung-ssd-9100-pro-1tb-m2-pcie-50-nvme-storagessd-hero-1760437382874.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "116",
@@ -1041,7 +1041,7 @@
         "type": "SATA SSD",
         "capacity": "240GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_samsung-ssd-pm893-25-inch-sata-768tb-storagessd-hero-1760439252834.png"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "117",
@@ -1050,7 +1050,7 @@
         "type": "NVMe SSD",
         "capacity": "960GB",
         "interface": "U.2 NVMe",
-        "image": "ssds/imgi_11_pm9a3-nvmer-u2-960gb-hero-1761823230963.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "118",
@@ -1059,7 +1059,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 5.0 x4",
-        "image": "ssds/imgi_13_samsung-ssd-990-pro-1tb-m2-nvme-heatsinkstoragessd-hero-1760437122961.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "119",
@@ -1068,7 +1068,7 @@
         "type": "NVMe SSD",
         "capacity": "250GB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_13_western-digital-wd-green-sn350-nvme-250gb-hero-1761978817997.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "120",
@@ -1077,7 +1077,7 @@
         "type": "NVMe SSD",
         "capacity": "480GB",
         "interface": "PCIe Gen 4.0 x4",
-        "image": "ssds/imgi_2_crucial-e100-480gb-nvme-gen-4-ssd-hero-1762503810113.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "121",
@@ -1086,7 +1086,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_samsung-ssd-870-evo-25inch-sata-1tb-storagessd-hero-1760433909054.avif"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "122",
@@ -1095,7 +1095,7 @@
         "type": "SATA SSD",
         "capacity": "250GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_4_samsung-870evo-250gb-ssd-hero-1763383138039.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "123",
@@ -1104,7 +1104,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2",
-        "image": "ssds/imgi_11_samsung-ssd-t7-shield-2tb-portable-ssd-black-storagessd-hero-1760432719723.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "124",
@@ -1113,7 +1113,7 @@
         "type": "External SSD",
         "capacity": "4TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_12_samsung-ssd-870-evo-25inch-sata-4tb-storagessd-hero-1760434095689.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "125",
@@ -1122,7 +1122,7 @@
         "type": "NVMe SSD",
         "capacity": "500GB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_7_samsung-980-500gb-up-to-3100-mbs-pcie-30-nvme-m2-2280-internal-solid-state-drive-ssd-mz-v8v500bw-hero-1763383638514.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "126",
@@ -1131,7 +1131,7 @@
         "type": "SATA SSD",
         "capacity": "500GB",
         "interface": "SATA III",
-        "image": "ssds/imgi_8_samsung-860-evo-500gb-m2-ssd-hero-1763382829999.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "127",
@@ -1140,7 +1140,7 @@
         "type": "NVMe SSD",
         "capacity": "1TB",
         "interface": "PCIe Gen 3.0 x4",
-        "image": "ssds/imgi_9_wd-1tb-blue-nvme-m2-ssd-wds100t3b0e-hero-1761730421292.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "128",
@@ -1149,7 +1149,7 @@
         "type": "SATA SSD",
         "capacity": "1TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_10_wd-1tb-blue-sata-ssd-wds100t3b0a-hero-1761730845527.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "129",
@@ -1158,7 +1158,7 @@
         "type": "External SSD",
         "capacity": "1TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_11_samsung-t9-portable-external-ssd-1tb-black-mu-pg1t0b-hero-1763384336861.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "130",
@@ -1167,7 +1167,7 @@
         "type": "External SSD",
         "capacity": "2TB",
         "interface": "USB 3.2 Gen 2x2",
-        "image": "ssds/imgi_12_samsung-t9-portable-external-ssd-2tb-usb-32-gen-2x2-mu-pg2t0bww-hero-1763384392071.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "131",
@@ -1176,7 +1176,7 @@
         "type": "MicroSD",
         "capacity": "64GB",
         "interface": "UHS-I",
-        "image": "ssds/imgi_13_sandisk-64gb-sd-card-hero-1763546184852.webp"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "132",
@@ -1185,7 +1185,7 @@
         "type": "SATA SSD",
         "capacity": "2TB",
         "interface": "SATA III",
-        "image": "ssds/imgi_11_samsung-ssd-870-evo-25inch-sata-2tb-hero-1760434003914.jpg"
+        "image": "ssds/ssd-10.jpg"
     },
     {
         "id": "101",
@@ -1195,6 +1195,6 @@
         "read_speed": 12400,
         "write_speed": 11800,
         "price": 55000,
-        "image": "Storage/imgi_2_samsung-990-pro-nvme-ssd-hero-1759494666959.jpg"
+        "image": "ssds/ssd-10.jpg"
     }
 ]

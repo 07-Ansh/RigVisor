@@ -1,1430 +1,1430 @@
 [
-  {
-    "id": "1",
-    "name": "Ant Esports ICE-C120 120mm CPU Air Cooler",
-    "height": 66,
-    "radiator": null,
-    "price": 455
-  },
-  {
-    "id": "2",
-    "name": "Ant Esports ICE-C200 V2 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 720
-  },
-  {
-    "id": "3",
-    "name": "Gamdias Boreas E1L-010 Black RGB 90mm CPU Air Cooler",
-    "height": 69,
-    "radiator": null,
-    "price": 950
-  },
-  {
-    "id": "4",
-    "name": "Ant Esports ICE-C400 120mm CPU Air Cooler with Rainbow LED",
-    "height": 148,
-    "radiator": null,
-    "price": 1060
-  },
-  {
-    "id": "5",
-    "name": "Thermaltake UX100 ARGB",
-    "height": 66,
-    "radiator": null,
-    "price": 1430
-  },
-  {
-    "id": "6",
-    "name": "Antec A400i RGB CPU Air Cooler",
-    "height": 155,
-    "radiator": null,
-    "price": 1450
-  },
-  {
-    "id": "7",
-    "name": "Ant Esports ICE-C612 V2 ARGB 120mm CPU Air Cooler",
-    "height": 153,
-    "radiator": null,
-    "price": 1510
-  },
-  {
-    "id": "8",
-    "name": "Antec A30 Neo ARGB CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 1525
-  },
-  {
-    "id": "9",
-    "name": "Gamdias Boreas E1-410 Lite RGB 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 1700
-  },
-  {
-    "id": "10",
-    "name": "Thermaltake UX400 ARGB Sync 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 1800
-  },
-  {
-    "id": "11",
-    "name": "Deepcool Gammaxx AG400 ARGB 120mm CPU Air Cooler",
-    "height": 150,
-    "radiator": null,
-    "price": 1950
-  },
-  {
-    "id": "12",
-    "name": "Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler",
-    "height": 152,
-    "radiator": null,
-    "price": 2070
-  },
-  {
-    "id": "13",
-    "name": "Ant Esports V4 Digital ARGB 90mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2075
-  },
-  {
-    "id": "14",
-    "name": "Thermaltake UX400 ARGB Sync Snow White 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2100
-  },
-  {
-    "id": "15",
-    "name": "MSI MAG COREFROZR AA13 ARGB 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2130
-  },
-  {
-    "id": "16",
-    "name": "MSI MAG COREFROZR AA13 White ARGB 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2230
-  },
-  {
-    "id": "17",
-    "name": "Gamdias Boreas E2-410 120mm CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 2250
-  },
-  {
-    "id": "18",
-    "name": "Thermaltake UX200 SE ARGB Lighting CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2300
-  },
-  {
-    "id": "19",
-    "name": "Ant Esports ICE-C612 Digital ARGB 120mm CPU Air Cooler",
-    "height": 153,
-    "radiator": null,
-    "price": 2370
-  },
-  {
-    "id": "20",
-    "name": "Gamdias Boreas M1-610 120mm CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 2370
-  },
-  {
-    "id": "21",
-    "name": "Gamdias Boreas M2-510 WH 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2449
-  },
-  {
-    "id": "22",
-    "name": "Deepcool AK400 Black CPU Air Cooler",
-    "height": 155,
-    "radiator": null,
-    "price": 2500
-  },
-  {
-    "id": "23",
-    "name": "Thermaltake UX200 SE ARGB Lighting CPU Air Cooler (White)",
-    "height": null,
-    "radiator": null,
-    "price": 2550
-  },
-  {
-    "id": "24",
-    "name": "Gamdias Boreas E2-410 WH 120mm CPU Air Cooler (White)",
-    "height": null,
-    "radiator": null,
-    "price": 2600
-  },
-  {
-    "id": "25",
-    "name": "Ant Esports V6 Digital ARGB 120mm CPU Air Cooler with Temperature Display",
-    "height": null,
-    "radiator": null,
-    "price": 2765
-  },
-  {
-    "id": "26",
-    "name": "Cooler Master Hyper 212 3DHP 120mm CPU Air Cooler",
-    "height": 152,
-    "radiator": null,
-    "price": 2790
-  },
-  {
-    "id": "27",
-    "name": "Ant Esports ICE-C621 ARGB 120mm Dual Tower CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2800
-  },
-  {
-    "id": "28",
-    "name": "Gamdias Boreas M2-51D ARGB 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 2850
-  },
-  {
-    "id": "29",
-    "name": "Cooler Master Hyper 212 3DHP ARGB 120mm CPU Air Cooler",
-    "height": 152,
-    "radiator": null,
-    "price": 3030
-  },
-  {
-    "id": "30",
-    "name": "Alseye M90 ARGB 92mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3050
-  },
-  {
-    "id": "31",
-    "name": "Thermaltake Astria 200 ARGB Lighting 120mm CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 3050
-  },
-  {
-    "id": "32",
-    "name": "Gamdias Boreas E2-41D 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3060
-  },
-  {
-    "id": "33",
-    "name": "Ant Value AV240 RGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 3150
-  },
-  {
-    "id": "34",
-    "name": "Deepcool AK400 Digital SE 120mm CPU Air Cooler",
-    "height": 155,
-    "radiator": null,
-    "price": 3210
-  },
-  {
-    "id": "35",
-    "name": "Alseye Warrior W90 ARGB 40mm CPU Air Cooler (For Intel LGA 1700/1200/115X Sockets)",
-    "height": 90,
-    "radiator": null,
-    "price": 3240
-  },
-  {
-    "id": "36",
-    "name": "Cooler Master Hyper 620S ARGB 120mm Dual Tower CPU Air Cooler",
-    "height": 154,
-    "radiator": null,
-    "price": 3270
-  },
-  {
-    "id": "37",
-    "name": "Deepcool AG400 Digital BK ARGB 120mm CPU Air Cooler",
-    "height": 150,
-    "radiator": null,
-    "price": 3390
-  },
-  {
-    "id": "38",
-    "name": "Aerocool Mirage 5 ARGB CPU Air Cooler",
-    "height": 145,
-    "radiator": null,
-    "price": 3400
-  },
-  {
-    "id": "39",
-    "name": "Thermaltake Astria 200 ARGB Lighting Snow CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3450
-  },
-  {
-    "id": "40",
-    "name": "Arctic Freezer 36 CO CPU Air Cooler",
-    "height": 159,
-    "radiator": null,
-    "price": 3499
-  },
-  {
-    "id": "41",
-    "name": "Cooler Master Hyper 212 Halo ARGB CPU Air Cooler",
-    "height": 154,
-    "radiator": null,
-    "price": 3510
-  },
-  {
-    "id": "42",
-    "name": "Arctic Freezer 36 CPU Air Cooler (Black)",
-    "height": 159,
-    "radiator": null,
-    "price": 3599
-  },
-  {
-    "id": "43",
-    "name": "Alseye Halo H120D V2.0 PWM RGB 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3600
-  },
-  {
-    "id": "44",
-    "name": "Deepcool Gammaxx AG620 ARGB 120mm Dual Fan CPU Air Cooler",
-    "height": 157,
-    "radiator": null,
-    "price": 3620
-  },
-  {
-    "id": "45",
-    "name": "Gamdias Boreas M2-51D White 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3810
-  },
-  {
-    "id": "46",
-    "name": "Cooler Master V4 Alpha 3DHP 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 3850
-  },
-  {
-    "id": "47",
-    "name": "Thermaltake Astria 400 ARGB Lighting 120mm CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 4000
-  },
-  {
-    "id": "48",
-    "name": "Montech Air Cooler 210 ARGB CPU Air Cooler",
-    "height": 153,
-    "radiator": null,
-    "price": 4020
-  },
-  {
-    "id": "49",
-    "name": "Gamdias AURA GL240 Lite ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 4050
-  },
-  {
-    "id": "50",
-    "name": "Arctic Freezer 34 eSports DUO CPU Air Cooler (Grey)",
-    "height": 157,
-    "radiator": null,
-    "price": 4099
-  },
-  {
-    "id": "51",
-    "name": "Ant Esports ICE-240 ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 4160
-  },
-  {
-    "id": "52",
-    "name": "Arctic Freezer 36 ARGB CPU Air Cooler (White)",
-    "height": 159,
-    "radiator": null,
-    "price": 4199
-  },
-  {
-    "id": "53",
-    "name": "Ant Esports ICE-240 ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 4220
-  },
-  {
-    "id": "54",
-    "name": "Ant Esports V8 Digital ARGB 120mm Dual Tower CPU Air Cooler with Temperature Display",
-    "height": null,
-    "radiator": null,
-    "price": 4280
-  },
-  {
-    "id": "55",
-    "name": "Thermaltake Astria 400 ARGB Lighting Snow White 120mm CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 4400
-  },
-  {
-    "id": "56",
-    "name": "Ant Esports ICE-Infinite 240 ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 4550
-  },
-  {
-    "id": "57",
-    "name": "Ant Esports ICEStorm-240 ARGB CPU Liquid Cooler with Temperature Display",
-    "height": null,
-    "radiator": 240,
-    "price": 4550
-  },
-  {
-    "id": "58",
-    "name": "Gamdias Aura GL240 V2 WH ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 4580
-  },
-  {
-    "id": "59",
-    "name": "Gamdias Boreas P2-62D 120mm Dual Tower CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 4750
-  },
-  {
-    "id": "60",
-    "name": "Ant Esports ICE-Infinite ARGB White 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 4850
-  },
-  {
-    "id": "61",
-    "name": "Ant Esports ICE-Flow 240 ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 4950
-  },
-  {
-    "id": "62",
-    "name": "Cooler Master MasterLiquid 240L Core 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 5020
-  },
-  {
-    "id": "63",
-    "name": "Ant Esports ICE Chroma ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5030
-  },
-  {
-    "id": "64",
-    "name": "Ant Esports ICE-360 ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 5150
-  },
-  {
-    "id": "65",
-    "name": "Thermaltake Astria 600 ARGB Lighting 120mm CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 5200
-  },
-  {
-    "id": "66",
-    "name": "Gamdias AURA GL240 Digital ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5250
-  },
-  {
-    "id": "67",
-    "name": "Deepcool LE240 V2 ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5360
-  },
-  {
-    "id": "68",
-    "name": "Thermaltake Astria 600 ARGB Lighting Snow CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 5400
-  },
-  {
-    "id": "69",
-    "name": "Gamdias Boreas P1-720 120mm Dual Tower CPU Air Cooler (Black)",
-    "height": null,
-    "radiator": null,
-    "price": 5410
-  },
-  {
-    "id": "70",
-    "name": "MSI MAG CORELIQUID A13 240 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 5480
-  },
-  {
-    "id": "71",
-    "name": "Gamdias AURA GL360 Lite ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 5500
-  },
-  {
-    "id": "72",
-    "name": "Deepcool LE240 V2 ARGB 240mm White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5683
-  },
-  {
-    "id": "73",
-    "name": "MSI MAG CORELIQUID A13 240 ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5720
-  },
-  {
-    "id": "74",
-    "name": "Ant Esports ICE-Infinite ARGB 360mm White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 5800
-  },
-  {
-    "id": "75",
-    "name": "Gigabyte Gaming 240mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5800
-  },
-  {
-    "id": "76",
-    "name": "Thermaltake LA240 ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 5800
-  },
-  {
-    "id": "77",
-    "name": "Thermaltake TH240 V2 ARGB Sync CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 5900
-  },
-  {
-    "id": "78",
-    "name": "Ant Esports ICE Chroma 360 ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6010
-  },
-  {
-    "id": "79",
-    "name": "Deepcool AK620 CPU Air Cooler (White)",
-    "height": 160,
-    "radiator": null,
-    "price": 6010
-  },
-  {
-    "id": "80",
-    "name": "Alseye M240B ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 6060
-  },
-  {
-    "id": "81",
-    "name": "Deepcool LD240 ARGB CPU Liquid Cooler with LED Display",
-    "height": null,
-    "radiator": 240,
-    "price": 6100
-  },
-  {
-    "id": "82",
-    "name": "Thermaltake TH240 V2 ARGB Sync Snow Edition CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6100
-  },
-  {
-    "id": "83",
-    "name": "Deepcool AK620 Digital SE White 120mm Dual Tower CPU Air Cooler",
-    "height": 162,
-    "radiator": null,
-    "price": 6130
-  },
-  {
-    "id": "84",
-    "name": "Ant Esports ICE-Flow 360 ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 6145
-  },
-  {
-    "id": "85",
-    "name": "Gigabyte Gaming 240 ICE White ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6150
-  },
-  {
-    "id": "86",
-    "name": "Deepcool LD240 WH ARGB 240mm CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 6300
-  },
-  {
-    "id": "87",
-    "name": "Cooler Master MasterLiquid 240L Core ARGB 240mm CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 6310
-  },
-  {
-    "id": "88",
-    "name": "Xigmatek Liquid Killer X 240 ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 6310
-  },
-  {
-    "id": "89",
-    "name": "Cooler Master Hyper 612 APEX CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 6380
-  },
-  {
-    "id": "90",
-    "name": "Cooler Master Hyper 612 APEX White CPU Air Cooler",
-    "height": null,
-    "radiator": null,
-    "price": 6380
-  },
-  {
-    "id": "91",
-    "name": "Cooler Master MasterLiquid 240 Core II ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6430
-  },
-  {
-    "id": "92",
-    "name": "Ant Esports Glacius-240D ARGB CPU Liquid Cooler with LCD Display",
-    "height": null,
-    "radiator": 240,
-    "price": 6450
-  },
-  {
-    "id": "93",
-    "name": "Gamdias Chione E4-360 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6450
-  },
-  {
-    "id": "94",
-    "name": "Cooler Master MasterLiquid 240mm Core II ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6490
-  },
-  {
-    "id": "95",
-    "name": "Thermaltake LA360 ARGB Sync CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6550
-  },
-  {
-    "id": "96",
-    "name": "ProLab Design AI360LC 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6650
-  },
-  {
-    "id": "97",
-    "name": "Xigmatek Liquid Killer X 240 Arctic ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6670
-  },
-  {
-    "id": "98",
-    "name": "Lian Li GA II Lite RGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 6850
-  },
-  {
-    "id": "99",
-    "name": "MSI MAG CORELIQUID A13 360 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 6870
-  },
-  {
-    "id": "100",
-    "name": "Deepcool LE360 V2 ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6920
-  },
-  {
-    "id": "101",
-    "name": "Gigabyte Gaming 360 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 6950
-  },
-  {
-    "id": "102",
-    "name": "Alseye M240 Plus II ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 7030
-  },
-  {
-    "id": "103",
-    "name": "Thermaltake LA240-S ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 7050
-  },
-  {
-    "id": "104",
-    "name": "Corsair Nautilus 240 RS ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 7140
-  },
-  {
-    "id": "105",
-    "name": "Gamdias Boreas M2-61L 120mm CPU Air Cooler with LCD Display",
-    "height": null,
-    "radiator": null,
-    "price": 7200
-  },
-  {
-    "id": "106",
-    "name": "Corsair Nautilus 240 RS ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 7220
-  },
-  {
-    "id": "107",
-    "name": "Montech Metal DT24 Premium Dual Tower 120mm ARGB CPU Air Cooler",
-    "height": 158,
-    "radiator": null,
-    "price": 7350
-  },
-  {
-    "id": "108",
-    "name": "Antec Vortex LUM 240 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 7500
-  },
-  {
-    "id": "109",
-    "name": "Xigmatek Liquid Killer X 360 ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 7570
-  },
-  {
-    "id": "110",
-    "name": "Ant Esports Glacius-360D ARGB CPU Liquid Cooler with LCD Display",
-    "height": null,
-    "radiator": 360,
-    "price": 7800
-  },
-  {
-    "id": "111",
-    "name": "Xigmatek Liquid Killer X 360 Arctic ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 7930
-  },
-  {
-    "id": "112",
-    "name": "Arctic Liquid Freezer III Pro 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 7999
-  },
-  {
-    "id": "113",
-    "name": "Montech HyperFlow ARGB 240 CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 8060
-  },
-  {
-    "id": "114",
-    "name": "Montech HyperFlow ARGB 240 White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 8080
-  },
-  {
-    "id": "115",
-    "name": "Thermaltake LA360-S ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8210
-  },
-  {
-    "id": "116",
-    "name": "Cooler Master MasterLiquid 360 Core II ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8390
-  },
-  {
-    "id": "117",
-    "name": "Gamdias AURA GL360 LCD ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8400
-  },
-  {
-    "id": "118",
-    "name": "Corsair Nautilus 360 RS ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 8440
-  },
-  {
-    "id": "119",
-    "name": "MSI MAG Coreliquid A15 360mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8450
-  },
-  {
-    "id": "120",
-    "name": "Cooler Master MasterLiquid 360L Core ARGB 360mm CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 8510
-  },
-  {
-    "id": "121",
-    "name": "Corsair Nautilus 360mm RS ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8530
-  },
-  {
-    "id": "122",
-    "name": "Cooler Master MasterLiquid 360 Core II ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8630
-  },
-  {
-    "id": "123",
-    "name": "Deepcool LT240 WH ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 8700
-  },
-  {
-    "id": "124",
-    "name": "ASUS Prime LC 360 ARGB Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 8870
-  },
-  {
-    "id": "125",
-    "name": "Dawg L240 AIO ARGB 240mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 8899
-  },
-  {
-    "id": "126",
-    "name": "Deepcool Infinity LS720 ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 9060
-  },
-  {
-    "id": "127",
-    "name": "Dawg L240 AIO ARGB 240mm White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 9099
-  },
-  {
-    "id": "128",
-    "name": "Noctua NH-D15 CPU Air Cooler",
-    "height": 165,
-    "radiator": null,
-    "price": 9120
-  },
-  {
-    "id": "129",
-    "name": "ARCTIC Freezer 4U-M Rev.2 Air CPU Cooler",
-    "height": 145,
-    "radiator": null,
-    "price": 9199
-  },
-  {
-    "id": "130",
-    "name": "Antec Vortex LUM 360 White ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 9349
-  },
-  {
-    "id": "131",
-    "name": "Arctic Liquid Freezer III 240 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 9399
-  },
-  {
-    "id": "132",
-    "name": "Arctic Liquid Freezer III Pro 240mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 9399
-  },
-  {
-    "id": "133",
-    "name": "MSI MAG Coreliquid E240 ARGB 240mm CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 9490
-  },
-  {
-    "id": "134",
-    "name": "ASUS Prime LC 360 ARGB White Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 9499
-  },
-  {
-    "id": "135",
-    "name": "Corsair Nautilus 240 RS LCD CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 9690
-  },
-  {
-    "id": "136",
-    "name": "Arctic Liquid Freezer III 240 ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 240,
-    "price": 9699
-  },
-  {
-    "id": "137",
-    "name": "Corsair Nautilus 240 RS LCD White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 9720
-  },
-  {
-    "id": "138",
-    "name": "Xigmatek Neon Aqua 240 ARGB 240mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 240,
-    "price": 9730
-  },
-  {
-    "id": "139",
-    "name": "Deepcool LM360 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10080
-  },
-  {
-    "id": "140",
-    "name": "Montech HyperFlow ARGB 360 CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10140
-  },
-  {
-    "id": "141",
-    "name": "Arctic Liquid Freezer III Pro 360 CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10199
-  },
-  {
-    "id": "142",
-    "name": "Montech HyperFlow ARGB 360 White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10260
-  },
-  {
-    "id": "143",
-    "name": "Deepcool LD360 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 10514
-  },
-  {
-    "id": "144",
-    "name": "Corsair Nautilus 360 RS LCD CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10860
-  },
-  {
-    "id": "145",
-    "name": "Corsair Nautilus 360 RS LCD White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 10900
-  },
-  {
-    "id": "146",
-    "name": "Deepcool LD360 WH CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 11215
-  },
-  {
-    "id": "147",
-    "name": "Xigmatek Neon Aqua 360 ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 11410
-  },
-  {
-    "id": "148",
-    "name": "Nzxt Kraken Core 360mm RGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 11500
-  },
-  {
-    "id": "149",
-    "name": "MSI MAG CORELIQUID I360 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 11600
-  },
-  {
-    "id": "150",
-    "name": "ProLab Design AI360LCD ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 11600
-  },
-  {
-    "id": "151",
-    "name": "MSI MAG CORELIQUID I360 ARGB CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 11700
-  },
-  {
-    "id": "152",
-    "name": "Deepcool LT360 ARGB CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 11788
-  },
-  {
-    "id": "153",
-    "name": "Arctic Liquid Freezer III Pro 360 ARGB Black CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 11799
-  },
-  {
-    "id": "154",
-    "name": "Dawg L360 AIO ARGB 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 11799
-  },
-  {
-    "id": "155",
-    "name": "Noctua NH-U14S DX-4677 Brown 140mm CPU Air Cooler",
-    "height": 165,
-    "radiator": null,
-    "price": 11990
-  },
-  {
-    "id": "156",
-    "name": "Thermaltake Toughliquid 360 EX Pro ARGB Sync CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 11990
-  },
-  {
-    "id": "157",
-    "name": "Dawg L360 AIO ARGB 360mm White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 11999
-  },
-  {
-    "id": "158",
-    "name": "Arctic Liquid Freezer III Pro 360 ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 12349
-  },
-  {
-    "id": "159",
-    "name": "MSI Coreliquid A17 MLG Edition 360mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 12800
-  },
-  {
-    "id": "160",
-    "name": "Lian Li Hydroshift II LCD-C 360N Fan less CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 14050
-  },
-  {
-    "id": "161",
-    "name": "Lian Li Hydroshift II LCD-C 360N Fan less White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 14050
-  },
-  {
-    "id": "162",
-    "name": "Cooler Master MasterLiquid Atmos II LCD 240mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 14410
-  },
-  {
-    "id": "163",
-    "name": "Thermaltake TH360 V2 Ultra EX ARGB Sync CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 14650
-  },
-  {
-    "id": "164",
-    "name": "Cooler Master MasterLiquid Atmos II Pixel LED 240mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 14830
-  },
-  {
-    "id": "165",
-    "name": "Thermaltake TH360 V2 Ultra EX ARGB Sync Snow White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15150
-  },
-  {
-    "id": "166",
-    "name": "MSI MPG CORELIQUID P13 360 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15260
-  },
-  {
-    "id": "167",
-    "name": "MSI MPG CORELIQUID P13 360 ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15320
-  },
-  {
-    "id": "168",
-    "name": "Lian Li Hydroshift II LCD-C 360CL RGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15590
-  },
-  {
-    "id": "169",
-    "name": "Nzxt Kraken 360 CPU Liquid Cooler with LCD Display",
-    "height": null,
-    "radiator": 360,
-    "price": 15620
-  },
-  {
-    "id": "170",
-    "name": "Asus AYW Gaming LC 360 ARGB LCD CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15800
-  },
-  {
-    "id": "171",
-    "name": "Lian Li Hydroshift II LCD-C 360CL White RGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 15850
-  },
-  {
-    "id": "172",
-    "name": "Corsair iCUE LINK Titan 240 RX LCD RGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 15990
-  },
-  {
-    "id": "173",
-    "name": "Cooler Master MasterLiquid Atmos II LCD 360mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 16100
-  },
-  {
-    "id": "174",
-    "name": "Cooler Master MasterLiquid Atmos II Pixel LED 360mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 16130
-  },
-  {
-    "id": "175",
-    "name": "Cooler Master MasterLiquid Atmos II Pixel LED 360mm ARGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 16310
-  },
-  {
-    "id": "176",
-    "name": "Asus AYW Gaming LC 360 ARGB LCD White Edition CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 16400
-  },
-  {
-    "id": "177",
-    "name": "Lian Li HydroShift LCD 360S White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 17450
-  },
-  {
-    "id": "178",
-    "name": "Deepcool Mystique 360 ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 17714
-  },
-  {
-    "id": "179",
-    "name": "Arctic Liquid Freezer III Pro 420mm ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 420,
-    "price": 17999
-  },
-  {
-    "id": "180",
-    "name": "Thermaltake Magfloe 360 Ultra ARGB Sync CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 18000
-  },
-  {
-    "id": "181",
-    "name": "Nzxt Kraken 360 RGB CPU Liquid Cooler with LCD Display",
-    "height": null,
-    "radiator": 360,
-    "price": 18240
-  },
-  {
-    "id": "182",
-    "name": "Thermaltake Magfloe 360 Ultra ARGB Sync Snow Edition CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 18350
-  },
-  {
-    "id": "183",
-    "name": "Xigmatek Frozr-O II 360 ARGB 360mm CPU Liquid Cooler with LCD Display (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 18370
-  },
-  {
-    "id": "184",
-    "name": "NZXT Kraken Plus 360 RGB CPU Liquid Cooler with LCD Display",
-    "height": null,
-    "radiator": 360,
-    "price": 18400
-  },
-  {
-    "id": "185",
-    "name": "Nzxt Kraken Plus 360mm RGB White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 18550
-  },
-  {
-    "id": "186",
-    "name": "Corsair iCUE LINK Titan 360 RX LCD AIO CPU Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 18650
-  },
-  {
-    "id": "187",
-    "name": "Thermaltake Toughliquid Ultra 240 CPU Liquid Cooler",
-    "height": null,
-    "radiator": 240,
-    "price": 18790
-  },
-  {
-    "id": "188",
-    "name": "Xigmatek Frozr-O II 360 Arctic ARGB 360mm CPU Liquid Cooler with LCD Display (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 18910
-  },
-  {
-    "id": "189",
-    "name": "Deepcool Mystique 360 White ARGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 18989
-  },
-  {
-    "id": "190",
-    "name": "Corsair iCUE LINK Titan 360 RX LCD White CPU Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 19160
-  },
-  {
-    "id": "191",
-    "name": "Corsair iCUE LINK H150i RGB Black 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 19450
-  },
-  {
-    "id": "192",
-    "name": "Thermaltake Toughliquid Ultra 280 RGB 280mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 280,
-    "price": 19630
-  },
-  {
-    "id": "193",
-    "name": "Lian Li Hydroshift II LCD-C 360TL CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 19790
-  },
-  {
-    "id": "194",
-    "name": "Lian Li Hydroshift II LCD-C 360TL White CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 20030
-  },
-  {
-    "id": "195",
-    "name": "CORSAIR iCUE LINK Titan 420 RX RGB CPU Liquid Cooler",
-    "height": null,
-    "radiator": 420,
-    "price": 21099
-  },
-  {
-    "id": "196",
-    "name": "Asus ROG Strix LC III 360 ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 21410
-  },
-  {
-    "id": "197",
-    "name": "Lian Li Galahad II LCD SL-INF ARGB 360mm CPU Liquid Cooler (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 23250
-  },
-  {
-    "id": "198",
-    "name": "Lian Li Galahad II LCD SL-INF ARGB 360mm CPU Liquid Cooler (White)",
-    "height": null,
-    "radiator": 360,
-    "price": 23250
-  },
-  {
-    "id": "199",
-    "name": "Cooler Master MasterLiquid 360mm Ion ARGB Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 23500
-  },
-  {
-    "id": "200",
-    "name": "Asus ProArt LC 420 CPU Liquid Cooler",
-    "height": null,
-    "radiator": 420,
-    "price": 24340
-  },
-  {
-    "id": "201",
-    "name": "NZXT Kraken Elite 360 RGB CPU Liquid Cooler with IPS LCD (Black)",
-    "height": null,
-    "radiator": 360,
-    "price": 26400
-  },
-  {
-    "id": "202",
-    "name": "Thermaltake Minecube 360 Ultra ARGB Sync CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 27650
-  },
-  {
-    "id": "203",
-    "name": "Asus ROG Ryujin III 360 ARGB Extreme 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 29600
-  },
-  {
-    "id": "204",
-    "name": "Asus ROG Ryujin III 360 ARGB Extreme White 360mm CPU Liquid Cooler",
-    "height": null,
-    "radiator": 360,
-    "price": 33580
-  }
+    {
+        "id": "1",
+        "name": "Ant Esports ICE-C120 120mm CPU Air Cooler",
+        "height": 66,
+        "radiator": null,
+        "price": 455
+    },
+    {
+        "id": "2",
+        "name": "Ant Esports ICE-C200 V2 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 720
+    },
+    {
+        "id": "3",
+        "name": "Gamdias Boreas E1L-010 Black RGB 90mm CPU Air Cooler",
+        "height": 69,
+        "radiator": null,
+        "price": 950
+    },
+    {
+        "id": "4",
+        "name": "Ant Esports ICE-C400 120mm CPU Air Cooler with Rainbow LED",
+        "height": 148,
+        "radiator": null,
+        "price": 1060
+    },
+    {
+        "id": "5",
+        "name": "Thermaltake UX100 ARGB",
+        "height": 66,
+        "radiator": null,
+        "price": 1430
+    },
+    {
+        "id": "6",
+        "name": "Antec A400i RGB CPU Air Cooler",
+        "height": 155,
+        "radiator": null,
+        "price": 1450
+    },
+    {
+        "id": "7",
+        "name": "Ant Esports ICE-C612 V2 ARGB 120mm CPU Air Cooler",
+        "height": 153,
+        "radiator": null,
+        "price": 1510
+    },
+    {
+        "id": "8",
+        "name": "Antec A30 Neo ARGB CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 1525
+    },
+    {
+        "id": "9",
+        "name": "Gamdias Boreas E1-410 Lite RGB 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 1700
+    },
+    {
+        "id": "10",
+        "name": "Thermaltake UX400 ARGB Sync 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 1800
+    },
+    {
+        "id": "11",
+        "name": "Deepcool Gammaxx AG400 ARGB 120mm CPU Air Cooler",
+        "height": 150,
+        "radiator": null,
+        "price": 1950
+    },
+    {
+        "id": "12",
+        "name": "Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler",
+        "height": 152,
+        "radiator": null,
+        "price": 2070
+    },
+    {
+        "id": "13",
+        "name": "Ant Esports V4 Digital ARGB 90mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2075
+    },
+    {
+        "id": "14",
+        "name": "Thermaltake UX400 ARGB Sync Snow White 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2100
+    },
+    {
+        "id": "15",
+        "name": "MSI MAG COREFROZR AA13 ARGB 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2130
+    },
+    {
+        "id": "16",
+        "name": "MSI MAG COREFROZR AA13 White ARGB 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2230
+    },
+    {
+        "id": "17",
+        "name": "Gamdias Boreas E2-410 120mm CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 2250
+    },
+    {
+        "id": "18",
+        "name": "Thermaltake UX200 SE ARGB Lighting CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2300
+    },
+    {
+        "id": "19",
+        "name": "Ant Esports ICE-C612 Digital ARGB 120mm CPU Air Cooler",
+        "height": 153,
+        "radiator": null,
+        "price": 2370
+    },
+    {
+        "id": "20",
+        "name": "Gamdias Boreas M1-610 120mm CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 2370
+    },
+    {
+        "id": "21",
+        "name": "Gamdias Boreas M2-510 WH 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2449
+    },
+    {
+        "id": "22",
+        "name": "Deepcool AK400 Black CPU Air Cooler",
+        "height": 155,
+        "radiator": null,
+        "price": 2500
+    },
+    {
+        "id": "23",
+        "name": "Thermaltake UX200 SE ARGB Lighting CPU Air Cooler (White)",
+        "height": null,
+        "radiator": null,
+        "price": 2550
+    },
+    {
+        "id": "24",
+        "name": "Gamdias Boreas E2-410 WH 120mm CPU Air Cooler (White)",
+        "height": null,
+        "radiator": null,
+        "price": 2600
+    },
+    {
+        "id": "25",
+        "name": "Ant Esports V6 Digital ARGB 120mm CPU Air Cooler with Temperature Display",
+        "height": null,
+        "radiator": null,
+        "price": 2765
+    },
+    {
+        "id": "26",
+        "name": "Cooler Master Hyper 212 3DHP 120mm CPU Air Cooler",
+        "height": 152,
+        "radiator": null,
+        "price": 2790
+    },
+    {
+        "id": "27",
+        "name": "Ant Esports ICE-C621 ARGB 120mm Dual Tower CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2800
+    },
+    {
+        "id": "28",
+        "name": "Gamdias Boreas M2-51D ARGB 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 2850
+    },
+    {
+        "id": "29",
+        "name": "Cooler Master Hyper 212 3DHP ARGB 120mm CPU Air Cooler",
+        "height": 152,
+        "radiator": null,
+        "price": 3030
+    },
+    {
+        "id": "30",
+        "name": "Alseye M90 ARGB 92mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3050
+    },
+    {
+        "id": "31",
+        "name": "Thermaltake Astria 200 ARGB Lighting 120mm CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 3050
+    },
+    {
+        "id": "32",
+        "name": "Gamdias Boreas E2-41D 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3060
+    },
+    {
+        "id": "33",
+        "name": "Ant Value AV240 RGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 3150
+    },
+    {
+        "id": "34",
+        "name": "Deepcool AK400 Digital SE 120mm CPU Air Cooler",
+        "height": 155,
+        "radiator": null,
+        "price": 3210
+    },
+    {
+        "id": "35",
+        "name": "Alseye Warrior W90 ARGB 40mm CPU Air Cooler (For Intel LGA 1700/1200/115X Sockets)",
+        "height": 90,
+        "radiator": null,
+        "price": 3240
+    },
+    {
+        "id": "36",
+        "name": "Cooler Master Hyper 620S ARGB 120mm Dual Tower CPU Air Cooler",
+        "height": 154,
+        "radiator": null,
+        "price": 3270
+    },
+    {
+        "id": "37",
+        "name": "Deepcool AG400 Digital BK ARGB 120mm CPU Air Cooler",
+        "height": 150,
+        "radiator": null,
+        "price": 3390
+    },
+    {
+        "id": "38",
+        "name": "Aerocool Mirage 5 ARGB CPU Air Cooler",
+        "height": 145,
+        "radiator": null,
+        "price": 3400
+    },
+    {
+        "id": "39",
+        "name": "Thermaltake Astria 200 ARGB Lighting Snow CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3450
+    },
+    {
+        "id": "40",
+        "name": "Arctic Freezer 36 CO CPU Air Cooler",
+        "height": 159,
+        "radiator": null,
+        "price": 3499
+    },
+    {
+        "id": "41",
+        "name": "Cooler Master Hyper 212 Halo ARGB CPU Air Cooler",
+        "height": 154,
+        "radiator": null,
+        "price": 3510
+    },
+    {
+        "id": "42",
+        "name": "Arctic Freezer 36 CPU Air Cooler (Black)",
+        "height": 159,
+        "radiator": null,
+        "price": 3599
+    },
+    {
+        "id": "43",
+        "name": "Alseye Halo H120D V2.0 PWM RGB 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3600
+    },
+    {
+        "id": "44",
+        "name": "Deepcool Gammaxx AG620 ARGB 120mm Dual Fan CPU Air Cooler",
+        "height": 157,
+        "radiator": null,
+        "price": 3620
+    },
+    {
+        "id": "45",
+        "name": "Gamdias Boreas M2-51D White 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3810
+    },
+    {
+        "id": "46",
+        "name": "Cooler Master V4 Alpha 3DHP 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 3850
+    },
+    {
+        "id": "47",
+        "name": "Thermaltake Astria 400 ARGB Lighting 120mm CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 4000
+    },
+    {
+        "id": "48",
+        "name": "Montech Air Cooler 210 ARGB CPU Air Cooler",
+        "height": 153,
+        "radiator": null,
+        "price": 4020
+    },
+    {
+        "id": "49",
+        "name": "Gamdias AURA GL240 Lite ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 4050
+    },
+    {
+        "id": "50",
+        "name": "Arctic Freezer 34 eSports DUO CPU Air Cooler (Grey)",
+        "height": 157,
+        "radiator": null,
+        "price": 4099
+    },
+    {
+        "id": "51",
+        "name": "Ant Esports ICE-240 ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 4160
+    },
+    {
+        "id": "52",
+        "name": "Arctic Freezer 36 ARGB CPU Air Cooler (White)",
+        "height": 159,
+        "radiator": null,
+        "price": 4199
+    },
+    {
+        "id": "53",
+        "name": "Ant Esports ICE-240 ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 4220
+    },
+    {
+        "id": "54",
+        "name": "Ant Esports V8 Digital ARGB 120mm Dual Tower CPU Air Cooler with Temperature Display",
+        "height": null,
+        "radiator": null,
+        "price": 4280
+    },
+    {
+        "id": "55",
+        "name": "Thermaltake Astria 400 ARGB Lighting Snow White 120mm CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 4400
+    },
+    {
+        "id": "56",
+        "name": "Ant Esports ICE-Infinite 240 ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 4550
+    },
+    {
+        "id": "57",
+        "name": "Ant Esports ICEStorm-240 ARGB CPU Liquid Cooler with Temperature Display",
+        "height": null,
+        "radiator": 240,
+        "price": 4550
+    },
+    {
+        "id": "58",
+        "name": "Gamdias Aura GL240 V2 WH ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 4580
+    },
+    {
+        "id": "59",
+        "name": "Gamdias Boreas P2-62D 120mm Dual Tower CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 4750
+    },
+    {
+        "id": "60",
+        "name": "Ant Esports ICE-Infinite ARGB White 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 4850
+    },
+    {
+        "id": "61",
+        "name": "Ant Esports ICE-Flow 240 ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 4950
+    },
+    {
+        "id": "62",
+        "name": "Cooler Master MasterLiquid 240L Core 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 5020
+    },
+    {
+        "id": "63",
+        "name": "Ant Esports ICE Chroma ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5030
+    },
+    {
+        "id": "64",
+        "name": "Ant Esports ICE-360 ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 5150
+    },
+    {
+        "id": "65",
+        "name": "Thermaltake Astria 600 ARGB Lighting 120mm CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 5200
+    },
+    {
+        "id": "66",
+        "name": "Gamdias AURA GL240 Digital ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5250
+    },
+    {
+        "id": "67",
+        "name": "Deepcool LE240 V2 ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5360
+    },
+    {
+        "id": "68",
+        "name": "Thermaltake Astria 600 ARGB Lighting Snow CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 5400
+    },
+    {
+        "id": "69",
+        "name": "Gamdias Boreas P1-720 120mm Dual Tower CPU Air Cooler (Black)",
+        "height": null,
+        "radiator": null,
+        "price": 5410
+    },
+    {
+        "id": "70",
+        "name": "MSI MAG CORELIQUID A13 240 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 5480
+    },
+    {
+        "id": "71",
+        "name": "Gamdias AURA GL360 Lite ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 5500
+    },
+    {
+        "id": "72",
+        "name": "Deepcool LE240 V2 ARGB 240mm White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5683
+    },
+    {
+        "id": "73",
+        "name": "MSI MAG CORELIQUID A13 240 ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5720
+    },
+    {
+        "id": "74",
+        "name": "Ant Esports ICE-Infinite ARGB 360mm White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 5800
+    },
+    {
+        "id": "75",
+        "name": "Gigabyte Gaming 240mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5800
+    },
+    {
+        "id": "76",
+        "name": "Thermaltake LA240 ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 5800
+    },
+    {
+        "id": "77",
+        "name": "Thermaltake TH240 V2 ARGB Sync CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 5900
+    },
+    {
+        "id": "78",
+        "name": "Ant Esports ICE Chroma 360 ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6010
+    },
+    {
+        "id": "79",
+        "name": "Deepcool AK620 CPU Air Cooler (White)",
+        "height": 160,
+        "radiator": null,
+        "price": 6010
+    },
+    {
+        "id": "80",
+        "name": "Alseye M240B ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 6060
+    },
+    {
+        "id": "81",
+        "name": "Deepcool LD240 ARGB CPU Liquid Cooler with LED Display",
+        "height": null,
+        "radiator": 240,
+        "price": 6100
+    },
+    {
+        "id": "82",
+        "name": "Thermaltake TH240 V2 ARGB Sync Snow Edition CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6100
+    },
+    {
+        "id": "83",
+        "name": "Deepcool AK620 Digital SE White 120mm Dual Tower CPU Air Cooler",
+        "height": 162,
+        "radiator": null,
+        "price": 6130
+    },
+    {
+        "id": "84",
+        "name": "Ant Esports ICE-Flow 360 ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 6145
+    },
+    {
+        "id": "85",
+        "name": "Gigabyte Gaming 240 ICE White ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6150
+    },
+    {
+        "id": "86",
+        "name": "Deepcool LD240 WH ARGB 240mm CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 6300
+    },
+    {
+        "id": "87",
+        "name": "Cooler Master MasterLiquid 240L Core ARGB 240mm CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 6310
+    },
+    {
+        "id": "88",
+        "name": "Xigmatek Liquid Killer X 240 ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 6310
+    },
+    {
+        "id": "89",
+        "name": "Cooler Master Hyper 612 APEX CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 6380
+    },
+    {
+        "id": "90",
+        "name": "Cooler Master Hyper 612 APEX White CPU Air Cooler",
+        "height": null,
+        "radiator": null,
+        "price": 6380
+    },
+    {
+        "id": "91",
+        "name": "Cooler Master MasterLiquid 240 Core II ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6430
+    },
+    {
+        "id": "92",
+        "name": "Ant Esports Glacius-240D ARGB CPU Liquid Cooler with LCD Display",
+        "height": null,
+        "radiator": 240,
+        "price": 6450
+    },
+    {
+        "id": "93",
+        "name": "Gamdias Chione E4-360 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6450
+    },
+    {
+        "id": "94",
+        "name": "Cooler Master MasterLiquid 240mm Core II ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6490
+    },
+    {
+        "id": "95",
+        "name": "Thermaltake LA360 ARGB Sync CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6550
+    },
+    {
+        "id": "96",
+        "name": "ProLab Design AI360LC 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6650
+    },
+    {
+        "id": "97",
+        "name": "Xigmatek Liquid Killer X 240 Arctic ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6670
+    },
+    {
+        "id": "98",
+        "name": "Lian Li GA II Lite RGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 6850
+    },
+    {
+        "id": "99",
+        "name": "MSI MAG CORELIQUID A13 360 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 6870
+    },
+    {
+        "id": "100",
+        "name": "Deepcool LE360 V2 ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6920
+    },
+    {
+        "id": "101",
+        "name": "Gigabyte Gaming 360 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 6950
+    },
+    {
+        "id": "102",
+        "name": "Alseye M240 Plus II ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 7030
+    },
+    {
+        "id": "103",
+        "name": "Thermaltake LA240-S ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 7050
+    },
+    {
+        "id": "104",
+        "name": "Corsair Nautilus 240 RS ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 7140
+    },
+    {
+        "id": "105",
+        "name": "Gamdias Boreas M2-61L 120mm CPU Air Cooler with LCD Display",
+        "height": null,
+        "radiator": null,
+        "price": 7200
+    },
+    {
+        "id": "106",
+        "name": "Corsair Nautilus 240 RS ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 7220
+    },
+    {
+        "id": "107",
+        "name": "Montech Metal DT24 Premium Dual Tower 120mm ARGB CPU Air Cooler",
+        "height": 158,
+        "radiator": null,
+        "price": 7350
+    },
+    {
+        "id": "108",
+        "name": "Antec Vortex LUM 240 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 7500
+    },
+    {
+        "id": "109",
+        "name": "Xigmatek Liquid Killer X 360 ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 7570
+    },
+    {
+        "id": "110",
+        "name": "Ant Esports Glacius-360D ARGB CPU Liquid Cooler with LCD Display",
+        "height": null,
+        "radiator": 360,
+        "price": 7800
+    },
+    {
+        "id": "111",
+        "name": "Xigmatek Liquid Killer X 360 Arctic ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 7930
+    },
+    {
+        "id": "112",
+        "name": "Arctic Liquid Freezer III Pro 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 7999
+    },
+    {
+        "id": "113",
+        "name": "Montech HyperFlow ARGB 240 CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 8060
+    },
+    {
+        "id": "114",
+        "name": "Montech HyperFlow ARGB 240 White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 8080
+    },
+    {
+        "id": "115",
+        "name": "Thermaltake LA360-S ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8210
+    },
+    {
+        "id": "116",
+        "name": "Cooler Master MasterLiquid 360 Core II ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8390
+    },
+    {
+        "id": "117",
+        "name": "Gamdias AURA GL360 LCD ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8400
+    },
+    {
+        "id": "118",
+        "name": "Corsair Nautilus 360 RS ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 8440
+    },
+    {
+        "id": "119",
+        "name": "MSI MAG Coreliquid A15 360mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8450
+    },
+    {
+        "id": "120",
+        "name": "Cooler Master MasterLiquid 360L Core ARGB 360mm CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 8510
+    },
+    {
+        "id": "121",
+        "name": "Corsair Nautilus 360mm RS ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8530
+    },
+    {
+        "id": "122",
+        "name": "Cooler Master MasterLiquid 360 Core II ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8630
+    },
+    {
+        "id": "123",
+        "name": "Deepcool LT240 WH ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 8700
+    },
+    {
+        "id": "124",
+        "name": "ASUS Prime LC 360 ARGB Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 8870
+    },
+    {
+        "id": "125",
+        "name": "Dawg L240 AIO ARGB 240mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 8899
+    },
+    {
+        "id": "126",
+        "name": "Deepcool Infinity LS720 ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 9060
+    },
+    {
+        "id": "127",
+        "name": "Dawg L240 AIO ARGB 240mm White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 9099
+    },
+    {
+        "id": "128",
+        "name": "Noctua NH-D15 CPU Air Cooler",
+        "height": 165,
+        "radiator": null,
+        "price": 9120
+    },
+    {
+        "id": "129",
+        "name": "ARCTIC Freezer 4U-M Rev.2 Air CPU Cooler",
+        "height": 145,
+        "radiator": null,
+        "price": 9199
+    },
+    {
+        "id": "130",
+        "name": "Antec Vortex LUM 360 White ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 9349
+    },
+    {
+        "id": "131",
+        "name": "Arctic Liquid Freezer III 240 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 9399
+    },
+    {
+        "id": "132",
+        "name": "Arctic Liquid Freezer III Pro 240mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 9399
+    },
+    {
+        "id": "133",
+        "name": "MSI MAG Coreliquid E240 ARGB 240mm CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 9490
+    },
+    {
+        "id": "134",
+        "name": "ASUS Prime LC 360 ARGB White Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 9499
+    },
+    {
+        "id": "135",
+        "name": "Corsair Nautilus 240 RS LCD CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 9690
+    },
+    {
+        "id": "136",
+        "name": "Arctic Liquid Freezer III 240 ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 240,
+        "price": 9699
+    },
+    {
+        "id": "137",
+        "name": "Corsair Nautilus 240 RS LCD White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 9720
+    },
+    {
+        "id": "138",
+        "name": "Xigmatek Neon Aqua 240 ARGB 240mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 240,
+        "price": 9730
+    },
+    {
+        "id": "139",
+        "name": "Deepcool LM360 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10080
+    },
+    {
+        "id": "140",
+        "name": "Montech HyperFlow ARGB 360 CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10140
+    },
+    {
+        "id": "141",
+        "name": "Arctic Liquid Freezer III Pro 360 CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10199
+    },
+    {
+        "id": "142",
+        "name": "Montech HyperFlow ARGB 360 White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10260
+    },
+    {
+        "id": "143",
+        "name": "Deepcool LD360 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 10514
+    },
+    {
+        "id": "144",
+        "name": "Corsair Nautilus 360 RS LCD CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10860
+    },
+    {
+        "id": "145",
+        "name": "Corsair Nautilus 360 RS LCD White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 10900
+    },
+    {
+        "id": "146",
+        "name": "Deepcool LD360 WH CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 11215
+    },
+    {
+        "id": "147",
+        "name": "Xigmatek Neon Aqua 360 ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 11410
+    },
+    {
+        "id": "148",
+        "name": "Nzxt Kraken Core 360mm RGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 11500
+    },
+    {
+        "id": "149",
+        "name": "MSI MAG CORELIQUID I360 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 11600
+    },
+    {
+        "id": "150",
+        "name": "ProLab Design AI360LCD ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 11600
+    },
+    {
+        "id": "151",
+        "name": "MSI MAG CORELIQUID I360 ARGB CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 11700
+    },
+    {
+        "id": "152",
+        "name": "Deepcool LT360 ARGB CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 11788
+    },
+    {
+        "id": "153",
+        "name": "Arctic Liquid Freezer III Pro 360 ARGB Black CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 11799
+    },
+    {
+        "id": "154",
+        "name": "Dawg L360 AIO ARGB 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 11799
+    },
+    {
+        "id": "155",
+        "name": "Noctua NH-U14S DX-4677 Brown 140mm CPU Air Cooler",
+        "height": 165,
+        "radiator": null,
+        "price": 11990
+    },
+    {
+        "id": "156",
+        "name": "Thermaltake Toughliquid 360 EX Pro ARGB Sync CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 11990
+    },
+    {
+        "id": "157",
+        "name": "Dawg L360 AIO ARGB 360mm White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 11999
+    },
+    {
+        "id": "158",
+        "name": "Arctic Liquid Freezer III Pro 360 ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 12349
+    },
+    {
+        "id": "159",
+        "name": "MSI Coreliquid A17 MLG Edition 360mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 12800
+    },
+    {
+        "id": "160",
+        "name": "Lian Li Hydroshift II LCD-C 360N Fan less CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 14050
+    },
+    {
+        "id": "161",
+        "name": "Lian Li Hydroshift II LCD-C 360N Fan less White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 14050
+    },
+    {
+        "id": "162",
+        "name": "Cooler Master MasterLiquid Atmos II LCD 240mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 14410
+    },
+    {
+        "id": "163",
+        "name": "Thermaltake TH360 V2 Ultra EX ARGB Sync CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 14650
+    },
+    {
+        "id": "164",
+        "name": "Cooler Master MasterLiquid Atmos II Pixel LED 240mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 14830
+    },
+    {
+        "id": "165",
+        "name": "Thermaltake TH360 V2 Ultra EX ARGB Sync Snow White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15150
+    },
+    {
+        "id": "166",
+        "name": "MSI MPG CORELIQUID P13 360 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15260
+    },
+    {
+        "id": "167",
+        "name": "MSI MPG CORELIQUID P13 360 ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15320
+    },
+    {
+        "id": "168",
+        "name": "Lian Li Hydroshift II LCD-C 360CL RGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15590
+    },
+    {
+        "id": "169",
+        "name": "Nzxt Kraken 360 CPU Liquid Cooler with LCD Display",
+        "height": null,
+        "radiator": 360,
+        "price": 15620
+    },
+    {
+        "id": "170",
+        "name": "Asus AYW Gaming LC 360 ARGB LCD CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15800
+    },
+    {
+        "id": "171",
+        "name": "Lian Li Hydroshift II LCD-C 360CL White RGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 15850
+    },
+    {
+        "id": "172",
+        "name": "Corsair iCUE LINK Titan 240 RX LCD RGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 15990
+    },
+    {
+        "id": "173",
+        "name": "Cooler Master MasterLiquid Atmos II LCD 360mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 16100
+    },
+    {
+        "id": "174",
+        "name": "Cooler Master MasterLiquid Atmos II Pixel LED 360mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 16130
+    },
+    {
+        "id": "175",
+        "name": "Cooler Master MasterLiquid Atmos II Pixel LED 360mm ARGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 16310
+    },
+    {
+        "id": "176",
+        "name": "Asus AYW Gaming LC 360 ARGB LCD White Edition CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 16400
+    },
+    {
+        "id": "177",
+        "name": "Lian Li HydroShift LCD 360S White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 17450
+    },
+    {
+        "id": "178",
+        "name": "Deepcool Mystique 360 ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 17714
+    },
+    {
+        "id": "179",
+        "name": "Arctic Liquid Freezer III Pro 420mm ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 420,
+        "price": 17999
+    },
+    {
+        "id": "180",
+        "name": "Thermaltake Magfloe 360 Ultra ARGB Sync CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 18000
+    },
+    {
+        "id": "181",
+        "name": "Nzxt Kraken 360 RGB CPU Liquid Cooler with LCD Display",
+        "height": null,
+        "radiator": 360,
+        "price": 18240
+    },
+    {
+        "id": "182",
+        "name": "Thermaltake Magfloe 360 Ultra ARGB Sync Snow Edition CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 18350
+    },
+    {
+        "id": "183",
+        "name": "Xigmatek Frozr-O II 360 ARGB 360mm CPU Liquid Cooler with LCD Display (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 18370
+    },
+    {
+        "id": "184",
+        "name": "NZXT Kraken Plus 360 RGB CPU Liquid Cooler with LCD Display",
+        "height": null,
+        "radiator": 360,
+        "price": 18400
+    },
+    {
+        "id": "185",
+        "name": "Nzxt Kraken Plus 360mm RGB White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 18550
+    },
+    {
+        "id": "186",
+        "name": "Corsair iCUE LINK Titan 360 RX LCD AIO CPU Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 18650
+    },
+    {
+        "id": "187",
+        "name": "Thermaltake Toughliquid Ultra 240 CPU Liquid Cooler",
+        "height": null,
+        "radiator": 240,
+        "price": 18790
+    },
+    {
+        "id": "188",
+        "name": "Xigmatek Frozr-O II 360 Arctic ARGB 360mm CPU Liquid Cooler with LCD Display (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 18910
+    },
+    {
+        "id": "189",
+        "name": "Deepcool Mystique 360 White ARGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 18989
+    },
+    {
+        "id": "190",
+        "name": "Corsair iCUE LINK Titan 360 RX LCD White CPU Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 19160
+    },
+    {
+        "id": "191",
+        "name": "Corsair iCUE LINK H150i RGB Black 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 19450
+    },
+    {
+        "id": "192",
+        "name": "Thermaltake Toughliquid Ultra 280 RGB 280mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 280,
+        "price": 19630
+    },
+    {
+        "id": "193",
+        "name": "Lian Li Hydroshift II LCD-C 360TL CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 19790
+    },
+    {
+        "id": "194",
+        "name": "Lian Li Hydroshift II LCD-C 360TL White CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 20030
+    },
+    {
+        "id": "195",
+        "name": "CORSAIR iCUE LINK Titan 420 RX RGB CPU Liquid Cooler",
+        "height": null,
+        "radiator": 420,
+        "price": 21099
+    },
+    {
+        "id": "196",
+        "name": "Asus ROG Strix LC III 360 ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 21410
+    },
+    {
+        "id": "197",
+        "name": "Lian Li Galahad II LCD SL-INF ARGB 360mm CPU Liquid Cooler (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 23250
+    },
+    {
+        "id": "198",
+        "name": "Lian Li Galahad II LCD SL-INF ARGB 360mm CPU Liquid Cooler (White)",
+        "height": null,
+        "radiator": 360,
+        "price": 23250
+    },
+    {
+        "id": "199",
+        "name": "Cooler Master MasterLiquid 360mm Ion ARGB Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 23500
+    },
+    {
+        "id": "200",
+        "name": "Asus ProArt LC 420 CPU Liquid Cooler",
+        "height": null,
+        "radiator": 420,
+        "price": 24340
+    },
+    {
+        "id": "201",
+        "name": "NZXT Kraken Elite 360 RGB CPU Liquid Cooler with IPS LCD (Black)",
+        "height": null,
+        "radiator": 360,
+        "price": 26400
+    },
+    {
+        "id": "202",
+        "name": "Thermaltake Minecube 360 Ultra ARGB Sync CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 27650
+    },
+    {
+        "id": "203",
+        "name": "Asus ROG Ryujin III 360 ARGB Extreme 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 29600
+    },
+    {
+        "id": "204",
+        "name": "Asus ROG Ryujin III 360 ARGB Extreme White 360mm CPU Liquid Cooler",
+        "height": null,
+        "radiator": 360,
+        "price": 33580
+    }
 ]

@@ -13,7 +13,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 3400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "2",
@@ -29,7 +29,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 3425,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "3",
@@ -45,7 +45,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 3760,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "4",
@@ -61,7 +61,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 4950,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "5",
@@ -77,7 +77,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 6600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "6",
@@ -93,7 +93,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 6900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "7",
@@ -109,7 +109,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 6999,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "8",
@@ -125,7 +125,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 7000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "9",
@@ -141,7 +141,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 13700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "10",
@@ -172,7 +172,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 14150,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "12",
@@ -188,7 +188,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 15970,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "13",
@@ -204,7 +204,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 15995,
-        "image": "GPUs/imgi_4_gigabyte-geforce-rtx-3050-gaming-oc-8gb-128-bit-hero-1759906736314.webp"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "14",
@@ -220,7 +220,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 16400,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "15",
@@ -236,7 +236,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 16499,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "16",
@@ -252,7 +252,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 16499,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "17",
@@ -268,7 +268,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 16610,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "18",
@@ -284,7 +284,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 17500,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "19",
@@ -300,7 +300,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 21075,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "20",
@@ -316,7 +316,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 21700,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "21",
@@ -332,7 +332,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 22000,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "22",
@@ -348,7 +348,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 23499,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "23",
@@ -364,7 +364,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 23700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "24",
@@ -380,7 +380,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 24110,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "25",
@@ -396,7 +396,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 26500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "26",
@@ -412,7 +412,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 26950,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "27",
@@ -428,7 +428,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 28150,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "28",
@@ -444,7 +444,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 28525,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "29",
@@ -460,7 +460,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 30600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "30",
@@ -476,7 +476,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 30960,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "31",
@@ -492,7 +492,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 31270,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "32",
@@ -508,7 +508,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 31560,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "33",
@@ -524,7 +524,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 31610,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "34",
@@ -540,7 +540,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 32015,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "35",
@@ -556,7 +556,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 32075,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "36",
@@ -572,7 +572,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 32320,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "37",
@@ -588,7 +588,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 32776,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "38",
@@ -604,7 +604,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 33170,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "39",
@@ -620,7 +620,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 33400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "40",
@@ -636,7 +636,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 33540,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "41",
@@ -652,7 +652,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 33650,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "42",
@@ -668,7 +668,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 34315,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "43",
@@ -684,7 +684,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 34475,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "44",
@@ -700,7 +700,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 34800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "45",
@@ -716,7 +716,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 35220,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "46",
@@ -732,7 +732,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 35580,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "47",
@@ -748,7 +748,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 35625,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "48",
@@ -764,7 +764,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 35895,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "49",
@@ -780,7 +780,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 36100,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "50",
@@ -796,7 +796,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 36350,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "51",
@@ -812,7 +812,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 37980,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "52",
@@ -828,7 +828,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 39600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "53",
@@ -844,7 +844,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 40160,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "54",
@@ -860,7 +860,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 40200,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "55",
@@ -876,7 +876,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 40750,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "56",
@@ -892,7 +892,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 41100,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "57",
@@ -908,7 +908,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 41220,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "58",
@@ -924,7 +924,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 41400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "59",
@@ -940,7 +940,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 41520,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "60",
@@ -956,7 +956,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 42235,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "61",
@@ -972,7 +972,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 42350,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "62",
@@ -988,7 +988,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 43260,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "63",
@@ -1004,7 +1004,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 43300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "64",
@@ -1020,7 +1020,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 43900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "65",
@@ -1036,7 +1036,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 44600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "66",
@@ -1052,7 +1052,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 45300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "67",
@@ -1068,7 +1068,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 47095,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "68",
@@ -1084,7 +1084,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 47220,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "69",
@@ -1100,7 +1100,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 48200,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "70",
@@ -1116,7 +1116,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 49080,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "71",
@@ -1132,7 +1132,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 49260,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "72",
@@ -1148,7 +1148,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 49700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "73",
@@ -1164,7 +1164,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 50700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "74",
@@ -1180,7 +1180,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 50750,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "75",
@@ -1196,7 +1196,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 51350,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "76",
@@ -1212,7 +1212,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 52150,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "77",
@@ -1228,7 +1228,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 52650,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "78",
@@ -1244,7 +1244,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 53000,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "79",
@@ -1260,7 +1260,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 53000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "80",
@@ -1276,7 +1276,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 53880,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "81",
@@ -1292,7 +1292,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 55500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "82",
@@ -1308,7 +1308,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 57250,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "83",
@@ -1324,7 +1324,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 57640,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "84",
@@ -1340,7 +1340,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 58600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "85",
@@ -1356,7 +1356,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 60040,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "86",
@@ -1372,7 +1372,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 60400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "87",
@@ -1388,7 +1388,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 60532,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "88",
@@ -1404,7 +1404,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 61300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "89",
@@ -1420,7 +1420,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 61500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "90",
@@ -1436,7 +1436,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 62800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "91",
@@ -1452,7 +1452,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 62966,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "92",
@@ -1468,7 +1468,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 63140,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "93",
@@ -1484,7 +1484,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 64500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "94",
@@ -1500,7 +1500,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 64575,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "95",
@@ -1516,7 +1516,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 66160,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "96",
@@ -1532,7 +1532,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 67940,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "97",
@@ -1548,7 +1548,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 68200,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "98",
@@ -1564,7 +1564,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 68780,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "99",
@@ -1580,7 +1580,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 69999,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "100",
@@ -1596,7 +1596,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 71500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "101",
@@ -1612,7 +1612,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 71540,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "102",
@@ -1628,7 +1628,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 73000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "103",
@@ -1644,7 +1644,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 73900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "104",
@@ -1660,7 +1660,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 74300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "105",
@@ -1676,7 +1676,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 79600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "106",
@@ -1692,7 +1692,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 81700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "107",
@@ -1708,7 +1708,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 81945,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "108",
@@ -1724,7 +1724,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 87538,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "109",
@@ -1740,7 +1740,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 87740,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "110",
@@ -1756,7 +1756,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 87942,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "111",
@@ -1772,7 +1772,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 92900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "112",
@@ -1788,7 +1788,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 93400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "113",
@@ -1804,7 +1804,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 96500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "114",
@@ -1820,7 +1820,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 97000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "115",
@@ -1836,7 +1836,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 98200,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "116",
@@ -1852,7 +1852,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 98800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "117",
@@ -1868,7 +1868,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 100600,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "118",
@@ -1884,7 +1884,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 101060,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "119",
@@ -1900,7 +1900,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 101205,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "120",
@@ -1916,7 +1916,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 110800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "121",
@@ -1932,7 +1932,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 114500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "122",
@@ -1948,7 +1948,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 115700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "123",
@@ -1964,7 +1964,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 119300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "124",
@@ -1980,7 +1980,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 121700,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "125",
@@ -1996,7 +1996,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 122470,
-        "image": "GPUs/imgi_3_gv-n3050wf2oc-6gd-gigabyte-geforce-rtx-3050-windforce-oc-6g-graphics-card-hero-1751438639404.webp"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "126",
@@ -2012,7 +2012,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 126500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "127",
@@ -2028,7 +2028,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 128900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "128",
@@ -2044,7 +2044,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 131180,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "129",
@@ -2060,7 +2060,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 131800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "130",
@@ -2076,7 +2076,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 131800,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "131",
@@ -2092,7 +2092,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 135400,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "132",
@@ -2108,7 +2108,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 136850,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "133",
@@ -2124,7 +2124,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 141500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "134",
@@ -2140,7 +2140,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 155900,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "135",
@@ -2156,7 +2156,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 164300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "136",
@@ -2172,7 +2172,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 169100,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     },
     {
         "id": "137",
@@ -2188,7 +2188,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 185300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-15.jpg"
     },
     {
         "id": "138",
@@ -2204,7 +2204,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 280100,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-16.png"
     },
     {
         "id": "139",
@@ -2220,7 +2220,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 296300,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-17.jpg"
     },
     {
         "id": "140",
@@ -2236,7 +2236,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 311500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-18.png"
     },
     {
         "id": "141",
@@ -2252,7 +2252,7 @@
             "pcie_12V_2x6": 1
         },
         "price": 340000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-1.png"
     },
     {
         "id": "51",
@@ -2268,7 +2268,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 29500,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-10.jpg"
     },
     {
         "id": "52",
@@ -2284,7 +2284,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 78000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-11.jpg"
     },
     {
         "id": "53",
@@ -2300,7 +2300,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 105000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-12.jpg"
     },
     {
         "id": "101",
@@ -2316,7 +2316,7 @@
             "pcie_12V_2x6": 0
         },
         "price": 45000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-13.jpg"
     },
     {
         "id": "102",
@@ -2332,6 +2332,6 @@
             "pcie_12V_2x6": 0
         },
         "price": 220000,
-        "image": "GPUs/imgi_13_gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-hero-1759494666959.jpg"
+        "image": "GPUs/gpu-14.jpg"
     }
 ]
